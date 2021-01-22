@@ -1,9 +1,9 @@
 const colors = require("../../src/styles/colors");
 module.exports = {
-  siteTitle: "bestuxschools - Top HCI/UX programs in the world", // <title>
+  siteTitle: "bestuxschool - Top HCI/UX programs in the world", // <title>
   shortSiteTitle: "Top HCI/UX programs in the world", // <title> ending for posts and pages
   siteDescription: "Top HCI/UX programs in the world",
-  siteUrl: "http://bestuxschools.com",
+  siteUrl: "http://bestuxschool.com",
   pathPrefix: "",
   siteImage: "preview.png",
   siteLanguage: "en",
@@ -11,11 +11,11 @@ module.exports = {
   authorName: "Shivam Gohel",
   authorTwitterAccount: "shivamgohel",
   // info
-  infoTitle: "bestuxschools",
+  infoTitle: "bestuxschool",
   infoTitleNote: "",
   // manifest.json
-  manifestName: "bestuxschools - Top HCI/UX programs in the world",
-  manifestShortName: "bestuxschools", // max 12 characters
+  manifestName: "bestuxschool - Top HCI/UX programs in the world",
+  manifestShortName: "bestuxschool", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,

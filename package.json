@@ -1,8 +1,8 @@
 {
-  "name": "bestuxschools",
+  "name": "bestuxschool",
   "description": "Top HCI/UX programs in the world",
   "author": "Shivam Gohel <shivamgohel777@gmail.com>",
-  "repository": "https://github.com/o-x-y-g-e-n/bestuxschools",
+  "repository": "https://github.com/o-x-y-g-e-n/bestuxschool",
   "version": "1.1.1",
   "license": "MIT",
   "scripts": {
@@ -10,6 +10,7 @@
     "develop-host": "gatsby develop --host 192.168.0.112",
     "build": "gatsby build",
     "serve": "gatsby serve",
+    "deploy": "gh-pages -d public",
     "format-output": "prettier src/**/*.{js,jsx}",
     "format": "prettier --write src/**/*.{js,jsx}",
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
@@ -29,6 +30,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-prettier": "^2.6.2",
     "eslint-plugin-react": "^7.10.0",
+    "gh-pages": "^3.1.0",
     "prettier": "^1.13.7",
     "sharp-cli": "^1.7.0",
     "webpack-bundle-analyzer": "^2.13.1"
