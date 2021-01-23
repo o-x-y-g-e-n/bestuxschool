@@ -16,12 +16,13 @@ const Contact = () => {
     <Main>
       <Article>
         <PageHeader title="Contact" />
+        {/* <GoogleAds slot="5978347110" layout="image"></GoogleAds> */}
         <Content>
           <b>Find any errors / corrections?</b>
           <br/>
           Feel free to contact me by email: <Obfuscate email={config.contactEmail} />
         </Content>
-        
+        {/* <GoogleAds slot="5978347110" layout="image"></GoogleAds> */}
       </Article>
     </Main>
   );
