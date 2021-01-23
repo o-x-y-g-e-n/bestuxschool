@@ -1,6 +1,6 @@
 const colors = require("../../src/styles/colors");
 module.exports = {
-siteTitle: "Best UX School - Top HCI/UX programs in the world", // <title>
+siteTitle: "bestuxschool- Top HCI/UX programs in the world", // <title>
   shortSiteTitle: "Top HCI/UX programs in the world", // <title> ending for posts and pages
   siteDescription: "",
   siteUrl: "http://bestuxschool.com",
