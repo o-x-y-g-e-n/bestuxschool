@@ -2,7 +2,7 @@ const colors = require("../../src/styles/colors");
 module.exports = {
 siteTitle: "Best UX School - Top HCI/UX programs in the world", // <title>
   shortSiteTitle: "Top HCI/UX programs in the world", // <title> ending for posts and pages
-  siteDescription: "Top HCI/UX programs in the world",
+  siteDescription: "",
   siteUrl: "http://bestuxschool.com",
   pathPrefix: "",
   siteImage: "preview.png",
@@ -11,7 +11,7 @@ siteTitle: "Best UX School - Top HCI/UX programs in the world", // <title>
   authorName: "Shivam Gohel",
   authorTwitterAccount: "shivamgohel",
   // info
-  infoTitle: "Best UX School",
+  infoTitle: "bestuxschool",
   infoTitleNote: "Top HCI/UX programs in the world",
   // manifest.json
   manifestName: "Best UX School - Top HCI/UX programs in the world",
