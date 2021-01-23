@@ -12,7 +12,7 @@ siteTitle: "Best UX School - Top HCI/UX programs in the world", // <title>
   authorTwitterAccount: "shivamgohel",
   // info
   infoTitle: "bestuxschool",
-  infoTitleNote: "Top HCI/UX programs in the world",
+  infoTitleNote: "",
   // manifest.json
   manifestName: "Best UX School - Top HCI/UX programs in the world",
   manifestShortName: "Best UX School", // max 12 characters
