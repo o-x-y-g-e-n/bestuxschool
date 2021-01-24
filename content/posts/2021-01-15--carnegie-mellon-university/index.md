@@ -1,6 +1,6 @@
 ---
 title: Carnegie Mellon University 
-subTitle: public research university in Seattle, Washington, United States.
+subTitle: Carnegie Mellon University is a private research university based in Pittsburgh, Pennsylvania. 
 cover: logo.png
 category: "US"
 ---
