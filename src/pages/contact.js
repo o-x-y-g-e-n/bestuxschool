@@ -7,8 +7,9 @@ import Main from "../components/Main";
 import Article from "../components/Main/Article";
 import PageHeader from "../components/Page/PageHeader";
 import Content from "../components/Main/Content";
+import Form from "../components/ContactForm";
 import config from "../../content/meta/config";
-import contact from '../images/jpg/contact.jpg'
+
 const styles = theme => ({});
 
 const Contact = () => {
@@ -16,13 +17,10 @@ const Contact = () => {
     <Main>
       <Article>
         <PageHeader title="Contact" />
-        {/* <GoogleAds slot="5978347110" layout="image"></GoogleAds> */}
         <Content>
-          <b>Find any errors / corrections?</b>
-          <br/>
-          Feel free to contact me by email: <Obfuscate email={config.contactEmail} />
+            Find any errors? or just want to say thank you! Reach me via the form below
         </Content>
-        {/* <GoogleAds slot="5978347110" layout="image"></GoogleAds> */}
+        <Form />
       </Article>
     </Main>
   );

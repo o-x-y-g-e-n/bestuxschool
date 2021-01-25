@@ -7,7 +7,7 @@ I have been searching for UX Schools myself for Fall 2021. I have been lucky eno
 
 > But when I look around at top blogs, I realized that none of them gave a comparative picture of different universities. I mean we all struggle with the question right, "Why this university?" and that's what we are asked to write in personal statement.
 
-Hence I took the liberty to deep dive into their websiites, look at different offerings. Ranks mentioned at different websites like
+Hence I took the liberty to deep dive into their websites, look at different offerings. Ranks mentioned at different websites like
 * *topuxschool.com* [🔗](https://topuxschool.com/)
 * *usertesting.com* [🔗](https://www.usertesting.com/blog/top-ux-graduate-degree-programs)
 * *valuecolleges.com* [🔗](https://www.valuecolleges.com/rankings/best-ux-design-graduate-programs/)
