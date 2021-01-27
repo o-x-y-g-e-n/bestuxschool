@@ -1,6 +1,8 @@
 ---
-title: FreeCodeCamp
+title: Responsive Web Design Certification - FreeCodeCamp
+menuTitle: FreeCodeCamp
 subTitle: freeCodeCamp is a non-profit organization that consists of an interactive learning web platform
+description: Everything you need to know about FreeCodeCamp Responsive Web Design Certification. Level up your UX Designer skills with responsive web design and web development free certification from freecodecamp. 
 cover: logo.jpeg
 category: "MOOC"
 ---

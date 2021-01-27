@@ -1,6 +1,8 @@
 ---
-title: University of Michigan
+menuTitle: University of Michigan
+title: Master of Science in Information with UX Concentration | UMich
 subTitle: The University of Michigan, often simply referred to as Michigan, is a public research university in Ann Arbor, Michigan. 
+description: Learn everything about pursuing your masters in Information with concentration in User experience (UX) research and design, human computer interaction (HCI), and social computing from University of Michigan, Ann Arbor, United States
 cover: logo.png
 category: "US"
 ---

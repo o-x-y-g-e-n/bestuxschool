@@ -1,6 +1,8 @@
 ---
-title: University of Washington
-subTitle: public research university in Seattle, Washington, United States.
+menuTitle: University of Washington
+title: Masters in Human Centered Design & Engineering (HCDE) | UW
+subTitle: University of Washington is a public research university in Seattle, Washington, United States.
+description: Learn everything about pursuing your masters in Human Centered Design & Engineering and Human-Computer Interaction and Design (MHCI+D) with concentration in User experience (UX) research and design, human computer interaction (HCI), and social computing from University of Seattle, Washington, United States
 cover: W-Logo_RegistrationMark_Purple_26851.png
 category: "US"
 ---

@@ -1,6 +1,8 @@
 ---
-title: Thomas Jefferson University
+menuTitle: Thomas Jefferson University
+title: MS in User Experience & Interaction Design | Thomas Jefferon University
 subTitle: Jefferson (Philadelphia University and Thomas Jefferson University) - we are helping you to redefine what's humanly possible.
+description: Everything you need to know about pursuing Masters from Philidelphia University in User Experience & Interaction Design in United States.
 category: "US"
 cover: index.jpeg
 ---

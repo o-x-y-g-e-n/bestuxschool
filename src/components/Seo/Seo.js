@@ -9,11 +9,12 @@ const Seo = props => {
   const postDescription = ((data || {}).frontmatter || {}).description;
   const postCover = ((data || {}).frontmatter || {}).cover;
   const postSlug = ((data || {}).fields || {}).slug;
-
-  const title = postTitle ? `${postTitle} - ${config.shortSiteTitle}` : config.siteTitle;
-  const description = postDescription ? postDescription : config.siteDescription;
+  const title = postTitle
+  const description = postDescription ? postDescription : config.shortSiteTitle;
   const image = postCover ? postCover.childImageSharp.resize.src : config.siteImage;
   const url = config.siteUrl + config.pathPrefix + postSlug;
+
+  console.log(((data || {}).frontmatter || {}))
 
   return (
     <Helmet

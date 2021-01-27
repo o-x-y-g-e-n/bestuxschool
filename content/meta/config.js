@@ -25,7 +25,7 @@ siteTitle: "bestuxschool- Top HCI/UX programs in the world", // <title>
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/o-x-y-g-e-n" },
-    { name: "twitter", url: "null" },
+    { name: "twitter", url: "https://twitter.com/bestuxschool" },
     { name: "facebook", url: "null" }
   ]
 };

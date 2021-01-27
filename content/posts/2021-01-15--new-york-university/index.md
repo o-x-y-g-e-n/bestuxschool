@@ -1,6 +1,8 @@
 ---
-title: New York University
+menuTitle: New York University
+title: ITP MPS Graduate Program - New York University
 subTitle: New York University (NYU) is a private research university based in New York City.
+description: Learn everything about New York University (NYU) ITP MPS Graduate Program, pursue your fast-paced masters in User Experience & Product Design in New York, United States
 cover: logo.jpg
 category: "US"
 ---

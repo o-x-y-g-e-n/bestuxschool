@@ -1,6 +1,8 @@
 ---
-title: Pratt Institute
+menuTitle: Pratt Institute
+title: Information Experience Design M.S | Pratt Institute
 subTitle: Pratt Institute is a global leader in higher education situated in New York City. 
+description: Learn everything about pursuing Masters in User Experience Design from Pratt Institute, one of the leading Design university all around the globe, innovative blend of the Information Science (IS), Human-Computer Interaction (HCI), and User Experience (UX) disciplines. 
 category: "US"
 cover: 07ff6b37e01f6fafe8d1cd45aa6a67af.jpeg
 

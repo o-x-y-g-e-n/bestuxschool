@@ -1,6 +1,8 @@
 ---
-title: University of Maryland Baltimore County
+menuTitle: University of Maryland Baltimore County
+title: Master of Science in Human-Centered Computing (HCC) | UMBC
 subTitle: The University of Maryland, Baltimore County College of Natural and Mathematical Sciences focuses in the areas of life science, including Biology, Chemistry, Biochemistry, Mathematics, Statistics, Marine Biology, and Physics. 
+description: Learn everything about pursuing your masters in Human Computer Interaction & Design at leading university at Baltimore, United States. 
 category: "US"
 cover: UMBC-logo.png
 ---

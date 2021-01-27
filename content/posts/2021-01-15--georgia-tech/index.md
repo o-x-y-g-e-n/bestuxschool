@@ -1,6 +1,7 @@
 ---
-title: Georgia Tech
-subTitle: Georgia Tech (Georgia Institute of Technology) is a technology-focused college in Atlanta, Ga, and one of the top research universities in the USA.
+title: Georgia Tech HCI
+menuTitle: Georgia Tech
+subTitle: Everything you need to know about MS-HCI Degree Program at Georgia Tech, one of the best UX / HCI masters, PHD program in Human Computer Interaction, UX Research & UX Design in United States.
 category: "US"
 cover: logo.png
 ---

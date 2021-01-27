@@ -1,5 +1,7 @@
 ---
-title: Kingston University
+menuTitle: Kingston University
+title: User Experience Design Msc
+description: Everything you need to know about pursing your masters in User Experience Design at Kingston University, London.  
 subTitle: Kingston University London (abbreviated KUL) is a public research university located within the Royal Borough of Kingston upon Thames, in South West London, England. 
 cover: logo.png
 category: "UK"

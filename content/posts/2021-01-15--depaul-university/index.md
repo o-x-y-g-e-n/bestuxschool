@@ -1,14 +1,16 @@
 ---
-title: DePaul University
+title: HCI and User Experience at DePaul University
+menuTitle: DePaul University
 subTitle: DePaul University College of Computing and Digital Media is located in Chicago, Illinois, United States.
 category: "US"
+description: With MS in Human Computer Interaction & MA in User Experience Design at DePaul University, master the art of concepts and methods from computer science, graphic design and the social science, user-centered and participatory design approaches as they create information and communication technologies (ICTs), exploratory user research, information architecture, interaction design, and prototype development.
 cover: university-logo-min.jpeg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2HpJUBNHFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Master of Science in Human Computer Interaction [🔗](https://www.cdm.depaul.edu/academics/Pages/MS-In-Human-Computer-Interaction.aspx)
 
-### About
+### About 
 ---
 |   |   |
 |---|---|

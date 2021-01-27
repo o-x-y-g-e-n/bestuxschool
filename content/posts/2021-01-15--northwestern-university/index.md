@@ -1,6 +1,8 @@
 ---
-title: Northwestern University
+menuTitle: Northwestern University
+title: Master of Science in Engineering Design Innovation (EDI) | Northwestern University
 subTitle: Northwestern University is a private research university in Evanston, Illinois. 
+description: Everything you need to know abour Northwestern University EDI Masters Programme, pursue your masters in Human Centered Design, Design Thinking, User Experience Research with leading university in United States.
 category: "US"
 cover: logo.png
 ---

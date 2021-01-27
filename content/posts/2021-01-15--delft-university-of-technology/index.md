@@ -1,5 +1,7 @@
 ---
-title: Delft University of Technology
+title: MSc Design for Interaction - TU Delft
+menuTitle: Delft University of Technology
+description: Why TU Deflt Design for Interaction Masters? The Interaction Design Masters programme offers students a multidisciplinary course of study, covering topics ranging from aesthetics and ergonomics to psychology, sociology and test experiential prototypes. One of leading universities in The Netherlands & Europe Human Computer Interaction (HCI) courses
 subTitle: Delft University of Technology also known as TU Delft, is the oldest and largest Dutch public technological university. 
 cover: logo.png
 category: "Europe"

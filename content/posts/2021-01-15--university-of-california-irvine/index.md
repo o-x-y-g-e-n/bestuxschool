@@ -1,6 +1,8 @@
 ---
-title: University of California Irvine
+menuTitle: University of California Irvine
+title: Master of Human-Computer Interaction & Design Program(MHCID) | UC Irvine
 subTitle: Public land grant university in Irvine, California
+description: Learn everything about pursuing your masters in Human Computer Interaction & Design at leading university at California, United States. 
 cover: logo.png
 category: "Online"
 ---

@@ -1,6 +1,8 @@
 ---
-title: DelftX
+title: Product Design & Health (MOOC) Professional Certificate - TU Delft
+menuTitle: DelftX
 subTitle: Free online courses from Delft University of Technology
+description: Everything you need to know about TU Delft Online learning Product Design & Health. Gain a Professional Certificate and advance your Design career in Healthcare. Learn about UX Healthcare, Healthcare Design.  Healthcare User Experience Research, Health Product Design from leading UX University in the Netherlands, Europe.    
 cover: logo.png
 category: "MOOC"
 ---

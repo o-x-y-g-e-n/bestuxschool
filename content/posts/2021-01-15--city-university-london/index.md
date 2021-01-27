@@ -1,6 +1,8 @@
 ---
-title: City University London
+title: MSc Human Computer Interaction Design - City University
+menuTitle: City, University of London
 subTitle: City, University of London is a public research university in London, United Kingdom and a member institution of the federal University of London.
+description: What makes City University's Human Computer Interaction Design course so unique? Gain the advanced knowledge, industry-valued skills and new design perspectives you need to succeed in a User Experience (UX) career. City's Masters in HCI / UX Design & Research goes long way.
 cover: logo.jpeg
 category: "UK"
 ---

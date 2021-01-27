@@ -136,7 +136,9 @@ export const guery = graphql`
           }
           frontmatter {
             title
-            subTitle
+            subTitle,
+            menuTitle,
+            description,
             category
             cover {
               children {
@@ -163,7 +165,8 @@ export const guery = graphql`
           }
           frontmatter {
             title
-            menuTitle
+            menuTitle,
+            description
           }
         }
       }
@@ -173,7 +176,9 @@ export const guery = graphql`
         node {
           html
           frontmatter {
-            title
+            title,
+            menuTitle, 
+            description
           }
         }
       }

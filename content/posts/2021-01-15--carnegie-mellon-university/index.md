@@ -1,6 +1,8 @@
 ---
-title: Carnegie Mellon University 
+title: Masters in Human-Computer Interaction - Carnegie Mellon  
+menuTitle : Carnegie Mellon University 
 subTitle: Carnegie Mellon University is a private research university based in Pittsburgh, Pennsylvania. 
+description: Learn why you should pursue your MS in Human Computer Interaction at Carnegie Mellon University, One of the world's leading Masters in HCI and PHD in HCI in USA and the world.     
 cover: logo.png
 category: "US"
 ---
@@ -65,9 +67,6 @@ category: "US"
 
 * **DevLab Physical Prototyping Laboratory** 
 > The DevLab provides facilities and equipment supporting rapid prototyping of interactive devices and systems. It serves as a departmental resource for faculty, students, and staff interested in building physical prototypes, small custom electronic components, and other devices and systems for advanced interactive concepts.  The laboratory provides tools such as 3D printers and laser cutters, fabrication space, and materials to facilitate construction of small-scale prototypes.
-
-* **Study abroad in London** [🔗](https://www.hcde.washington.edu/london)
-> Join Human Centered Design & Engineering faculty members Drs. Brock Craft and Tyler Fox on an international exploration of Experience Design. London is a globally significant crossroads for creative cultures of all kinds, and has a thriving Design and UX scene. The city presents opportunities for developing a deeper understanding of how to engineer interactions and experiences. The program is designed for students who are eager to explore experience design in the diverse and rich context that is London.
 
 
 **Pittsburgh Science of Learning Center** [🔗](https://learnlab.org/)

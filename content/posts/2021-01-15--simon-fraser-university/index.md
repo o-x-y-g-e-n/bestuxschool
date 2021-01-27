@@ -1,6 +1,8 @@
 ---
-title: Simon Fraser University
+menuTitle: Simon Fraser University
+title: MSc in Interactive Arts and Technology (SIAT) Canada
 subTitle: Simon Fraser University is a public research university in British Columbia, Canada 
+description: Pursue your dream of UX Designer or UX Researcher from a leading multimedia Design & Interactive Design university in Canada. Get a Masters Degree in Human Computer Interaction in Vancouver Canada  
 cover: logo.png
 category: "Canada"
 ---

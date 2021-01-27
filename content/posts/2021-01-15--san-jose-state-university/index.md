@@ -1,6 +1,8 @@
 ---
-title: San Jose State University
+menuTitle: San Jose State University
+title: Masters in Human Factors / Ergonomics(HFE) | San Jose
 subTitle: San José State University is a public university in San Jose, California  
+description: Learn everything about San Jose State University Human Factors and Ergonomics Master's interdisciplinary degree program. Pursue Human Factors / Physcology Masters Program in California, United States
 category: "US"
 cover: logo.png
 ---

@@ -1,5 +1,7 @@
 ---
-title: Loughborough University
+menuTitle: Loughborough University
+title: User Experience Design MSc - Loughborough University
+description: Everything you need to know about pursing your masters in User Experience Design at Loughborough University, London.   
 subTitle: Loughborough University is a public research university in the market town of Loughborough, Leicestershire, in the East Midlands of England
 cover: logo.jpeg
 category: "UK"
