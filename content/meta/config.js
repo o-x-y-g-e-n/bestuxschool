@@ -24,8 +24,7 @@ siteTitle: "bestuxschool- Top HCI/UX programs in the world", // <title>
   contactEmail: "shivamgohel777@gmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/o-x-y-g-e-n" },
-    { name: "twitter", url: "https://twitter.com/bestuxschool" },
-    { name: "facebook", url: "null" }
+    { name: "github", url: "https://github.com/o-x-y-g-e-n/bestuxschools" },
+    { name: "twitter", url: "https://twitter.com/bestuxschool" }
   ]
 };

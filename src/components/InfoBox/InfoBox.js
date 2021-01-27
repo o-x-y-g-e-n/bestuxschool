@@ -8,7 +8,7 @@ import InfoMenu from "./InfoMenu";
 import InfoHeader from "./InfoHeader";
 import InfoText from "./InfoText";
 import StackIcons from "./StackIcons";
-
+import SocialIcons from "./SocialIcons";
 import { featureNavigator, moveNavigatorAside } from "./../../utils/shared";
 import { setNavigatorPosition, setNavigatorShape } from "../../state/store";
 
@@ -82,6 +82,7 @@ class InfoBox extends React.Component {
         )}
         <div className={classes.wrapper}>
           {info && <InfoText info={info} />}
+          <SocialIcons />
           {pages && <InfoMenu pages={pages} linkOnClick={this.menulinkOnClick} />}
           <StackIcons />
         </div>
