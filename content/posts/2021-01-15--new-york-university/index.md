@@ -10,7 +10,7 @@ category: "US"
 # ITP MPS Graduate Program [🔗](https://tisch.nyu.edu/itp/admissions/itp-mps)
 ![nyu](nyu.jpg)
 
-### About
+# About ITP MPS Graduate Program - New York University
 ---
 |   |   |
 |---|---|
@@ -26,7 +26,7 @@ category: "US"
 |Information Session Conducted| ✅ [click here to register](https://tisch.nyu.edu/itp/events/fall-2019/itp-resource-information-session) |
 
 
-### Entry Requirements
+# Entry Requirements for ITP MPS Graduate Program - New York University
 ---
 |   |   |
 |---|---|
@@ -44,10 +44,10 @@ category: "US"
 
 
 
-#### Personal Statement Prompt
+## Personal Statement Prompt 
 > We ask for a personal statement because we want to get a sense of who you are in your own words beyond what we can infer from your resume/CV. We want to see how your experiences, successes, and failures have shaped how you see the world, what ideas you have and what you want to do. Name an issue or two, big or small, in the world that is important to you. In what way could you address this problem or create awareness about it?  If you could revisit a previous project of yours again, how would you do it differently? You can write about anything that shows us what ideas you have and what you want to do. Don't be afraid to take some chances. Please note that you do not need to address all of the prompts above.
 
-### Cost
+# Cost of Attendence for ITP MPS Graduate Program - New York University
 ---
 |   |   |
 |---|---|
@@ -56,16 +56,14 @@ category: "US"
 |Approx. Total Cost| **$1,31,852**|
 ---
 
-### Subjects
+# What's special about ITP MPS Graduate Program - New York University?
 
-## What's special?
+## ITP Graduate Courses [🔗](https://tisch.nyu.edu/itp/courses/itp-courses)
 
-* **ITP Graduate Courses** [🔗](https://tisch.nyu.edu/itp/courses/itp-courses)
+## Diversity, Equity & Inclusion [🔗](https://tisch.nyu.edu/diversity.html)
+While we have always strived for a community upheld by these values, recent conversations with a dedicated group of students, faculty, staff, alumni, and school leaders prove that we have a long way to go. We must do more than witness and stand in solidarity. We must commit to honest and difficult conversations about the structures and practices in our school that support and sustain inequities, and collectively work to dismantle racism by aligning our practices and resources to the values we celebrate: equity and racial justice.
 
-* **Diversity, Equity & Inclusion** [🔗](https://tisch.nyu.edu/diversity.html)
-> While we have always strived for a community upheld by these values, recent conversations with a dedicated group of students, faculty, staff, alumni, and school leaders prove that we have a long way to go. We must do more than witness and stand in solidarity. We must commit to honest and difficult conversations about the structures and practices in our school that support and sustain inequities, and collectively work to dismantle racism by aligning our practices and resources to the values we celebrate: equity and racial justice.
-
-### Course Ranking
+# ITP MPS Graduate Program - New York University Course Ranking
 ---
 |||
 |---|---|---|
@@ -73,25 +71,25 @@ category: "US"
 | Top UX School      | **#10**      | topuxschool.com|
 ---
 
-### Faculty [🔗](https://tisch.nyu.edu/itp/itp-people/faculty) 
+# Faculty at ITP MPS Graduate Program - New York University [🔗](https://tisch.nyu.edu/itp/itp-people/faculty) 
 ITP has over 100 adjunct professors who teach at ITP on a rotating basis. You can find bios at the ITP People Directory.
 ![research_stats](research_stats.png)
 
-#### ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-### Research Areas
+# Research Areas at ITP MPS Graduate Program - New York University
 Learn about everything they do [here](https://itp.nyu.edu/ranch/projects/) 
 
-### Careers [🔗](https://itp.nyu.edu/ima/curriculum/life-after-ima/)
+# Careers after ITP MPS Graduate Program - New York University [🔗](https://itp.nyu.edu/ima/curriculum/life-after-ima/)
 > Graduates from the University of Washington's department of Human Centered Design & Engineering find careers as designers and researchers who improve people's interactions with technology and the world around them.
 
-#### Job Titles
+## Job Titles
 * See the interactive chart [here](https://itp.nyu.edu/registration/alum/beta.php)
 * You can also find some information via there alumni page [here](https://tisch.nyu.edu/itp/itp-people/alumni)
 
 ---
-## Social Handles of the program
+# Social Handles of the program
 
 * 🐦  [NYUTisch School on Twitter ](https://twitter.com/nyutischschool/)  
 * 💢  [NYUTisch School on Instagram ](https://www.instagram.com/nyutisch) 

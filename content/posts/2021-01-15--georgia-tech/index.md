@@ -9,7 +9,7 @@ cover: logo.png
 # Master of Human Computer Interaction (MS-HCI) [🔗](http://mshci.gatech.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6kylRHpYw6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About
+# About Georgia Tech HCI
 ---
 |   |   |
 |---|---|
@@ -26,7 +26,7 @@ cover: logo.png
 |Information Session Conducted| **-** |
 
 
-### Entry Requirements
+# Entry Requirements for Georgia Tech HCI
 ---
 |   |   |
 |---|---|
@@ -42,10 +42,10 @@ cover: logo.png
 
 
 
-#### Personal Statement Prompt
+## Personal Statement Prompt
 Read [here](https://admission.gatech.edu/first-year/personal-essays)
 
-### Cost [🔗](http://www.bursar.gatech.edu/content/tuition-fees)
+# Cost for Georgia Tech HCI [🔗](http://www.bursar.gatech.edu/content/tuition-fees)
 ---
 |   |   |
 |---|---|
@@ -55,27 +55,22 @@ Read [here](https://admission.gatech.edu/first-year/personal-essays)
 ---
 *this data is from topuxschool.com*
 
-### Subjects
 
-## What's special?
+# What's special about Georgia Tech HCI?
 
-* **collaborative by four schools** [🔗](https://mshci.gatech.edu/program/about)
->The MS in HCI is an interdisciplinary program offered collaboratively by four schools: Industrial Design, Interactive Computing, Literature, Media, and Communication (LMC), Psychology
-
+## collaborative by four schools [🔗](https://mshci.gatech.edu/program/about)
+The MS in HCI is an interdisciplinary program offered collaboratively by four schools: Industrial Design, Interactive Computing, Literature, Media, and Communication (LMC), Psychology
 
 
-* **Microsoft Mentorship Program** [🔗](https://www.hcde.washington.edu/microsoft-mentor)
-> UW’s Department of Human Centered Design & Engineering (HCDE) and the Microsoft Cloud + AI Studios team are continuing our year-long mentorship program for the 2020-21 academic year. 30-40 HCDE students will be matched with Microsoft mentors for one-on-one career coaching. Students will gain real world perspective and career guidance from working professionals in user research, UX design, content strategy, and product management.
+
+## Interactivity@GT [🔗](http://interactivity.cc.gatech.edu/)
+Interactivity@GT, presented by Georgia Tech's GVU Center, is the annual showcase featuring graduate students enrolled in the Institute's M.S. in Human-Computer Interaction, M.S. in Digital Media, and Master of Industrial Design programs. 
+
+## HCI Scene [🔗](https://mshci.gatech.edu/industry/HCIscene)
+Related Degree Programs: The HCI area of study is applicable to many major fields, including 13 directly related degree programs at Georgia Tech.
 
 
-* **Interactivity@GT** [🔗](http://interactivity.cc.gatech.edu/)
-> Interactivity@GT, presented by Georgia Tech's GVU Center, is the annual showcase featuring graduate students enrolled in the Institute's M.S. in Human-Computer Interaction, M.S. in Digital Media, and Master of Industrial Design programs. 
-
-* **HCI Scene** [🔗](https://mshci.gatech.edu/industry/HCIscene)
-> Related Degree Programs: The HCI area of study is applicable to many major fields, including 13 directly related degree programs at Georgia Tech.
-
-
-### Course Ranking
+# Georgia Tech HCI Course Ranking
 ---
 |||
 |---|---|---|
@@ -84,25 +79,25 @@ Read [here](https://admission.gatech.edu/first-year/personal-essays)
 |Top UX Graduate Degree Programs| **#3**| usertesting.com|
 ---
 
-### Faculty [🔗](https://mshci.gatech.edu/faculty) 
+# Faculty at Georgia Tech HCI [🔗](https://mshci.gatech.edu/faculty) 
 Our faculty are well-recognized in their fields of endeavor and include members of the CHI Academy and the National Academy of Engineering, as well as ACM, HFES, and IEEE Fellows, technical and lifetime achievement award winners, journal editors, and conference chairs.
 ![research_stats](research_stats.png)
 
-#### ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-### Research Areas
+# Research Areas at Georgia Tech HCI
 * GVU Labs [🔗](http://gvu.gatech.edu/research/labs )
 * GVU Projects [🔗](http://gvu.gatech.edu/research/projects)
 * HCI Research [🔗](https://mshci.gatech.edu/research/centers)
 * Research Centers [🔗](https://mshci.gatech.edu/research/research_centers)
 
 
-### Careers  [🔗](http://interactivity.cc.gatech.edu/)
+# Careers after Georgia Tech HCI  [🔗](http://interactivity.cc.gatech.edu/)
 > Interactivity@GT, presented by Georgia Tech's GVU Center, is the annual showcase featuring graduate students enrolled in the Institute's M.S. in Human-Computer Interaction, M.S. in Digital Media, and Master of Industrial Design programs. Due to COVID-19, Interactivity@GT in 2021 will feature an on-line career fair that is focused on UX/HCI jobs and internships for students enrolled in the three programs. 
 
 ---
-## Social Handles of the program
+# Georgia Tech HCI Social Handles
 
 * 🐦  [GA-HCI on Twitter ](https://twitter.com/gthci?lang=en)  
 * 💢  [GA-HCI on Instagram ](https://www.instagram.com/georgiatechhci/) 

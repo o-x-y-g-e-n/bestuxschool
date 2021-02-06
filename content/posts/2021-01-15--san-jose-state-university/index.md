@@ -1,17 +1,17 @@
 ---
 menuTitle: San Jose State University
-title: Masters in Human Factors / Ergonomics(HFE) | San Jose
+title: Master in Human Factors / Ergonomics(HFE) | San Jose
 subTitle: San José State University is a public university in San Jose, California  
 description: Learn everything about San Jose State University Human Factors and Ergonomics Master's interdisciplinary degree program. Pursue Human Factors / Physcology Masters Program in California, United States
 category: "US"
 cover: logo.png
 ---
 
-# Masters in Human Factors / Ergonomics(HFE)[🔗](https://www.sjsu.edu/hfe/)
+# Master in Human Factors / Ergonomics(HFE)[🔗](https://www.sjsu.edu/hfe/)
 
-### About
+# About Master in Human Factors / Ergonomics(HFE) | San Jose
 ---
-|   |   |
+|    |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
 | Other Degrees Offered| **-**|
@@ -25,7 +25,7 @@ cover: logo.png
 |Information Session Conducted| ❌  |
 
 
-### Entry Requirements
+# Entry Requirements for Master in Human Factors / Ergonomics(HFE) - SJSU
 ---
 |   |   |
 |---|---|
@@ -42,10 +42,10 @@ cover: logo.png
 **English proficiency can be shown in many ways, click [here](https://www.sjsu.edu/admissions/graduate/admission-requirements/test-requirements/index.php) for more information
 
 
-#### Personal Statement Prompt
+## Personal Statement Prompt
 Read [here](https://www.sjsu.edu/people/glenn.callaghan/grad_school/WRITING-A-STATEMENT-OF-PURPOSE.pdf)
 
-### Cost
+# Cost of attendence at Master in Human Factors / Ergonomics(HFE) - SJSU
 ---
 |   |   |
 |---|---|
@@ -55,26 +55,25 @@ Read [here](https://www.sjsu.edu/people/glenn.callaghan/grad_school/WRITING-A-ST
 ---
 *this data is from topuxschool.com*
 
-### Subjects
 
-## What's special?
+# What's special about Master in Human Factors / Ergonomics(HFE) - SJSU
 
-* **HFE Track Ideas** [🔗](https://www.sjsu.edu/hfe/prospective-students/hfe-trackideas/)
-> Students are welcome to create their own emphases within the HFE program. All HFE students must complete the core course requirements as outlined in the course requirements page of this site. 
-
-
-* **HFES Chapter** [🔗](https://www.hfes.org/Resources/Graduate-Programs-Directory/San-Jose-State-University)
-> The interdisciplinary nature of HF/E is emphasized through a broad curriculum and diverse student backgrounds. Projects provide practical experience in local (Silicon Valley) high-tech manufacturing, research, and professional workplace settings. 
-
-* **VECTR Lab** [🔗](https://www.sjsu.edu/hfe/about/vectrlab/index.html)
-> he members of the Virtual Environments, Cognition, and Training Research (VECTR) Lab at SJSU work to improve individual and team performance in complex work settings. We are an applied experimental and human factors psychology laboratory focused on understanding and improving the fit between people and high-technology environments.  
-
-* **Human Factors Engineering Laboratory** [🔗](https://www.sjsu.edu/hfe/about/hfe-lab/index.html)
-> A research and testing showcase laboratory for Industrial & Systems Engineering, the Human Factors Engineering Laboratory features two observation rooms separated by a shared control room, a large flexible workspace, and secure storage. This page provides a brief description of the facility. 
+## HFE Track Ideas [🔗](https://www.sjsu.edu/hfe/prospective-students/hfe-trackideas/)
+Students are welcome to create their own emphases within the HFE program. All HFE students must complete the core course requirements as outlined in the course requirements page of this site. 
 
 
+## HFES Chapter [🔗](https://www.hfes.org/Resources/Graduate-Programs-Directory/San-Jose-State-University)
+The interdisciplinary nature of HF/E is emphasized through a broad curriculum and diverse student backgrounds. Projects provide practical experience in local (Silicon Valley) high-tech manufacturing, research, and professional workplace settings. 
 
-### Course Ranking
+## VECTR Lab [🔗](https://www.sjsu.edu/hfe/about/vectrlab/index.html)
+The members of the Virtual Environments, Cognition, and Training Research (VECTR) Lab at SJSU work to improve individual and team performance in complex work settings. We are an applied experimental and human factors psychology laboratory focused on understanding and improving the fit between people and high-technology environments.  
+
+## Human Factors Engineering Laboratory [🔗](https://www.sjsu.edu/hfe/about/hfe-lab/index.html)
+A research and testing showcase laboratory for Industrial & Systems Engineering, the Human Factors Engineering Laboratory features two observation rooms separated by a shared control room, a large flexible workspace, and secure storage. This page provides a brief description of the facility. 
+
+
+
+# Master in Human Factors / Ergonomics(HFE) | San Jose Course Ranking
 ---
 |||
 |---|---|---|
@@ -83,23 +82,23 @@ Read [here](https://www.sjsu.edu/people/glenn.callaghan/grad_school/WRITING-A-ST
 |Top UX Graduate Degree Programs| **#6**| usertesting.com|
 ---
 
-### Faculty [🔗](https://www.sjsu.edu/hfe/faculty/index.html) 
+# Faculty at Master in Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/faculty/index.html) 
 Faculty in the department of HFE at the SJSU collaborate throughout the university and beyond on their research.
 
-#### ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-### Study Areas [🔗](https://www.sjsu.edu/hfe/program/program-emphases/index.html)
+# Study Areas for Master in Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/program/program-emphases/index.html)
 * Cognitive Psychology Emphasis
 * Human-Computer Interaction Emphasis
 * Ergonomics Emphasis
 * Human Performance Emphasis
 
-### Careers [🔗](https://www.sjsu.edu/hfe/about/hfe-jobs/)
+# Careers after  Master in Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/about/hfe-jobs/)
 
 
 ---
-## Social Handles of the program
+# Social Handles of the program
 
 * 🐦  [HFE on Twitter ](https://twitter.com/sjsu_hfes?lang=en)  
 * 💢  [SJSU on Instagram ](https://www.instagram.com/sjsu/?hl=en) 

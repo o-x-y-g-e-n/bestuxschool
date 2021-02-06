@@ -10,7 +10,7 @@ category: "US"
 # Master of Science in Information [🔗](https://www.si.umich.edu/programs/master-science-information)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ankqzzMaNGM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About
+# About Master of Science in Information with UX Concentration - UMich
 ---
 |   |   |
 |---|---|
@@ -27,7 +27,7 @@ category: "US"
 |Information Session Conducted| ✅ [click here to register](https://www.applyweb.com/fixie/form/s/T3X1h36) |
 
 
-### Entry Requirements
+# Entry Requirements for Master of Science in Information with UX Concentration - UMich
 ---
 |   |   |
 |---|---|
@@ -44,10 +44,10 @@ category: "US"
 **English proficiency can be shown in many ways, click [here](https://www.si.umich.edu/programs/master-science-information/how-do-i-apply) for more information
 
 
-#### Personal Statement Prompt
+## Personal Statement Prompt
 > How have your background and life experiences, including cultural, geographical, financial, educational or other opportunities or challenges, motivated your decision to pursue a graduate degree at the University of Michigan?
 
-#### Short Essay Prompts
+## Short Essay Prompts
 
 Within the online application, you will be asked to respond to the following questions based on your exploration of the University of Michigan School of Information (UMSI) website, as well as your own reflection on your academic abilities, experiences, and personal qualities. You are welcome to add comments from your readings, observations, and experience. Each question should be answered in 250 words or less. At the University of Michigan School of Information, we highly value academic integrity. Please be sure that any essay content that is not your own original thoughts is properly attributed.
 
@@ -62,7 +62,7 @@ You are encouraged to compose your essay in a Word document and then copy-and-pa
 * What would you contribute to the UMSI community and to the field as a whole?
 
 
-### Cost
+# Cost of attendence for Master of Science in Information with UX Concentration - UMich
 ---
 |   |   |
 |---|---|
@@ -71,7 +71,7 @@ You are encouraged to compose your essay in a Word document and then copy-and-pa
 |Approx. Total Cost| **$47,780** (in-state),  **$96,408** (out-of-state) |
 ---
 
-## What's special?
+# What's special about Master of Science in Information with UX Concentration - UMich?
 
 * **Areas of interest** [🔗](https://www.si.umich.edu/programs/master-science-information/areas-interest)
 
@@ -91,7 +91,7 @@ You are encouraged to compose your essay in a Word document and then copy-and-pa
 > A strategic partnership between University of Michigan and Shanghai Jiao Tong University (SJTU) led to the founding of the UM-SJTU Joint Institute (JI) to cultivate a new generation of leaders able to cooperate and innovate in a global context. The collaboration between the two universities, which started in 2006 with engineering, has now expanded to several University of Michigan schools and departments including business, science and the School of Information. Every year more than 150 SJTU students come to U-M through the dual degree or joint graduate programs.
 
 
-### Course Ranking
+# Master of Science in Information with UX Concentration - UMich Course Ranking
 ---
 |||
 |---|---|---|
@@ -100,14 +100,14 @@ You are encouraged to compose your essay in a Word document and then copy-and-pa
 |Top UX Graduate Degree Programs| **#4**| usertesting.com|
 ---
 
-### Faculty [🔗](https://www.si.umich.edu/people/directory/faculty) 
+# Faculty at Master of Science in Information with UX Concentration - UMich [🔗](https://www.si.umich.edu/people/directory/faculty) 
 Faculty in the department of UMSI  collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
-#### ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-### Research Areas [🔗](https://www.si.umich.edu/research/research-areas)
+# Research Areas at Master of Science in Information with UX Concentration - UMich[🔗](https://www.si.umich.edu/research/research-areas)
 * Educational Technology and Learning Analytics
 * Health Informatics
 * Human Computer Interaction   
@@ -119,7 +119,7 @@ Faculty in the department of UMSI  collaborate throughout the university and bey
 * Social Media and Social Computing
 * Ubiquitous Computing
 
-### Careers [🔗](https://www.hcde.washington.edu/future/careers)
+# Careers after Master of Science in Information with UX Concentration - UMich [🔗](https://www.hcde.washington.edu/future/careers)
 University of Michigan School of Information graduates obtain innovative, diverse professional jobs in a wide range of work settings and positions, from innovative tech startups and global healthcare organizations to nonprofits, libraries, Fortune 100 companies and some of the leading tech companies in the world. Positions range from entry level to senior level and management positions.
 
 <iframe width="714" height="401" src="https://www.youtube.com/embed/D33Gf6qkn7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -128,7 +128,7 @@ University of Michigan School of Information graduates obtain innovative, divers
 View the employment report [here](https://www.si.umich.edu/sites/default/files/employment_report_msi_2020_f.pdf)
 
 ---
-## Social Handles of the program
+# Social Handles of the program
 
 * 🐦  [UMSI on Twitter ](https://twitter.com/umsi)  
 * 💢  [UMSI on Instagram ](https://www.instagram.com/umschoolofinformation/) 
@@ -137,7 +137,7 @@ View the employment report [here](https://www.si.umich.edu/sites/default/files/e
 
 ---
 
-## Housing (off-campus & on-campus) links
+# Housing (off-campus & on-campus) links
 * [UMICH Student Housing](https://www.facebook.com/groups/223351171575348/)
 * [UMICH Housing, Sublets & Roommates](https://www.facebook.com/groups/223351171575348/)
 * [Student Life](https://www.si.umich.edu/programs/student-life-umsi)

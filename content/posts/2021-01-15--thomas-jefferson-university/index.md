@@ -9,7 +9,7 @@ cover: index.jpeg
 
 # MS in User Experience & Interaction Design [🔗](https://www.jefferson.edu/academics/colleges-schools-institutes/kanbar-college-of-design-engineering-commerce/school-of-design-engineering/academic-programs/ms-user-experience-interaction-design.html)
 
-### About
+# About MS in User Experience & Interaction Design -  Thomas Jefferon University
 ---
 |   |   |
 |---|---|
@@ -26,7 +26,7 @@ cover: index.jpeg
 |Information Session Conducted| ❌ |
 
 
-### Entry Requirements
+# Entry Requirements for MS in User Experience & Interaction Design -  Thomas Jefferon University
 ---
 |   |   |
 |---|---|
@@ -41,12 +41,12 @@ cover: index.jpeg
 |Application Fee| **$50** |
 
 
-#### Personal Statement Prompt
+## Personal Statement Prompt
 Read the guide [here](https://www.jefferson.edu/academics/colleges-schools-institutes/skmc/student-resources/student-affairs/career-counseling/personal-statement.html) 
 
 
 
-### Cost
+# Cost of attendence at MS in User Experience & Interaction Design -  Thomas Jefferon University
 ---
 |   |   |
 |---|---|
@@ -55,18 +55,16 @@ Read the guide [here](https://www.jefferson.edu/academics/colleges-schools-insti
 |Approx. Total Cost| **$45,362**|
 ---
 
-### Subjects
+# What's special about MS in User Experience & Interaction Design -  Thomas Jefferon University?
 
-## What's special?
+## Health Design Lab [🔗](https://www.healthdesignlab.com/)
+The Jefferson Health Design Lab is a creative space where Health and Design collide in the most exciting ways.
 
-* **Health Design Lab** [🔗](https://www.healthdesignlab.com/)
-> The Jefferson Health Design Lab is a creative space where Health and Design collide in the most exciting ways.
-
-* **Collaboration** [🔗](https://www.jefferson.edu/academics/colleges-schools-institutes/kanbar-college-of-design-engineering-commerce/school-of-design-engineering/academic-programs/ms-user-experience-interaction-design/collaborations-and-partnerships.html)
-> A particular strength of the program lies in its collaborations with other graduate departments. Throughout the program, students will have the opportunity to work in multidisciplinary environments where they will work in teams with other majors, understand team dynamics and leadership, and gain real-world experience.
+## Collaboration [🔗](https://www.jefferson.edu/academics/colleges-schools-institutes/kanbar-college-of-design-engineering-commerce/school-of-design-engineering/academic-programs/ms-user-experience-interaction-design/collaborations-and-partnerships.html)
+A particular strength of the program lies in its collaborations with other graduate departments. Throughout the program, students will have the opportunity to work in multidisciplinary environments where they will work in teams with other majors, understand team dynamics and leadership, and gain real-world experience.
 
 
-### Course Ranking
+# MS in User Experience & Interaction Design -  Thomas Jefferon University Course Ranking
 ---
 |||
 |---|---|---|
@@ -75,26 +73,26 @@ Read the guide [here](https://www.jefferson.edu/academics/colleges-schools-insti
 ---
 
 
-#### ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-### Research Areas
+# Research Areas at MS in User Experience & Interaction Design -  Thomas Jefferon University
 Thomas Jefferson University is a medicine focused university. Hence if you want to combine `Health + Design`, this is a perfect school for you!
 
-* Basic Research [🔗](https://research.jefferson.edu/basic.html)
-> The ability to make rapid and meaningful advances in our understanding and treatment of complex human diseases increasingly relies on formation of cohesive research teams that bring together scientists with distinct, but complementary expertise.  At Jefferson, we have focused our efforts on creating and supporting basic research teams of investigators in several key scientific domains.
+## Basic Research [🔗](https://research.jefferson.edu/basic.html)
+The ability to make rapid and meaningful advances in our understanding and treatment of complex human diseases increasingly relies on formation of cohesive research teams that bring together scientists with distinct, but complementary expertise.  At Jefferson, we have focused our efforts on creating and supporting basic research teams of investigators in several key scientific domains.
 
 
-* Applied Research [🔗](https://research.jefferson.edu/applied.html)
-> Applied Research is a form of systematic inquiry involving the practical integration and application of accumulated theory, knowledge and technology toward a targeted purpose. This includes transdisciplinary combinations of theories, methodologies and epistemologies taken from the humanities, social science, natural science, engineering, fine art, design, business, and many other disciplines.
+## Applied Research [🔗](https://research.jefferson.edu/applied.html)
+Applied Research is a form of systematic inquiry involving the practical integration and application of accumulated theory, knowledge and technology toward a targeted purpose. This includes transdisciplinary combinations of theories, methodologies and epistemologies taken from the humanities, social science, natural science, engineering, fine art, design, business, and many other disciplines.
 
-* Clinical Research [🔗](https://research.jefferson.edu/clinical.html)
-> Clinical Research at Jefferson consists of the Sidney Kimmel Medical College, College of Life Sciences, College of Health Professions, College of Pharmacy, College of Nursing, College of Population Health, and associated support services. Our mission is to serve society through enhancement of health and well-being. We pursue that mission through medical research, health services, and education of physicians, health professionals and scientists in related disciplines.
+## Clinical Research [🔗](https://research.jefferson.edu/clinical.html)
+Clinical Research at Jefferson consists of the Sidney Kimmel Medical College, College of Life Sciences, College of Health Professions, College of Pharmacy, College of Nursing, College of Population Health, and associated support services. Our mission is to serve society through enhancement of health and well-being. We pursue that mission through medical research, health services, and education of physicians, health professionals and scientists in related disciplines.
 
-### Careers [🔗](https://www.hcde.washington.edu/future/careers)
+# Careers after MS in User Experience & Interaction Design -  Thomas Jefferon University [🔗](https://www.hcde.washington.edu/future/careers)
 > Graduates from the University of Washington's department of Human Centered Design & Engineering find careers as designers and researchers who improve people's interactions with technology and the world around them.
 
-#### Job Titles
+## Job Titles
 * Interaction Design
 * User Experience Design
 * User Research
@@ -108,11 +106,11 @@ Thomas Jefferson University is a medicine focused university. Hence if you want 
 * Interactive Design
 * Web and Multimedia Design
 
-#### Companies
+## Companies
 Recent graduates have found themselves in creative positions at a diverse range of companies from small to medium businesses and larger companies such as Comcast Interactive Media, QVC, Disney ABC Television Group, SAP, and NBCUniversal. Many graduates also find themselves seeking a fast-paced career in an agency environment. Rosetta, Digitas Health, Night Kitchen Media, Red Tettemer, AYC Media and Razorfish are just a few of the notable agencies where Jefferson graduates have expanded their professional careers.
 
 ---
-## Social Handles of the program
+# Social Handles of the program
 
 * 🐦  [Thomas Jefferson University on Twitter ](https://twitter.com/JeffersonUniv)  
 * 💢  [Thomas Jefferson University on Instagram ](https://www.instagram.com/jeffersonuniv/?hl=en) 
