@@ -18,7 +18,7 @@ const Contact = () => {
       <Article>
         <PageHeader title="Contact" />
         <Content>
-            Find any errors? or just want to say thank you! Reach me via the form below
+          Find any errors? or just want to say thank you! Reach me via the form below
         </Content>
         <Form />
       </Article>

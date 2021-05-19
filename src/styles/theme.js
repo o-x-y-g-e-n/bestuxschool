@@ -50,7 +50,7 @@ const theme = createMuiTheme({
       postsHeader: colors.gray
     },
     sizes: {
-      closedHeight: 80,
+      closedHeight: 40,
       postsListItemH1Font: 1.3,
       postsListItemH2Font: 1.1,
       fontIncraseForM: 1.15,
@@ -83,6 +83,7 @@ const theme = createMuiTheme({
         lineHeight: 1.1
       },
       subTitle: {
+        sizeS: 0.5,
         size: 1.5,
         sizeM: 1.8,
         sizeL: 1.95,
@@ -140,6 +141,7 @@ const theme = createMuiTheme({
     }
   },
   mediaQueryTresholds: {
+    S: 480,
     M: 600,
     L: 1024
   },

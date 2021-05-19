@@ -9,8 +9,8 @@ const styles = theme => ({
     borderTop: "1px solid #ddd"
   },
   box: {
-    display : "flex",
-    justifyContent : 'center',
+    display: "flex",
+    justifyContent: "center",
     // backgroundColor : "red",
     height: "100px",
     alignItems: "center"

@@ -98,7 +98,4 @@ const mapDispatchToProps = {
   setNavigatorPosition
 };
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(injectSheet(styles)(InfoBar));
+export default connect(mapStateToProps, mapDispatchToProps)(injectSheet(styles)(InfoBar));
