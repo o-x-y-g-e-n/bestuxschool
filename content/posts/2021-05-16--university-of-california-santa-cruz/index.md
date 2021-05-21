@@ -1,11 +1,3 @@
----
-menuTitle: University of California Santa Cruz
-title: HCI at UC Santa Cruz
-subTitle: The University of California, Santa Cruz is a public land-grant research university in Santa Cruz, California. 
-description: Learn everything about pursuing your masters in Human Computer Interaction  from UC Santa Cruz, California
-cover: logo.png
-category: "US"
----
 
 # Masters in Human Computer Interaction (HCI) [🔗](https://grad.soe.ucsc.edu/hci/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZBFz4BqiuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
