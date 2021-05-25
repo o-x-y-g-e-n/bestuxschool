@@ -2,7 +2,7 @@
 menuTitle: University of California Irvine
 title: Master of Human-Computer Interaction & Design Program(MHCID) | UC Irvine
 subTitle: Public land grant university in Irvine, California
-description: Learn everything about pursuing your masters in Human Computer Interaction & Design at leading university at California, United States. 
+description: Learn everything about pursuing your Master of Human Computer Interaction & Design at leading university at California, United States. 
 cover: logo.png
 category: "Online"
 ---
@@ -55,7 +55,7 @@ category: "Online"
 
 # What's special about Master of Human-Computer Interaction & Design Program(MHCID) - UC Irvine?
 
-## Learning in a year [🔗](https://www.hcde.washington.edu/research/directed)
+## Learning in a year
 In just one year, students will learn: 
     * Theories of human behavior and cognition
     * To develop user facing software, including high and low fidelity prototypes
@@ -95,7 +95,7 @@ The MHCID program is housed in the Department of Informatics at UC Irvine, a lea
 # Research Areas at Master of Human-Computer Interaction & Design Program(MHCID) - UC Irvine
 Project teams work together to solve a variety of user experience challenges in nearly any domain (education, the environment, healthcare, retail, and more) working with an external client. 
 
-# Careers after Master of Human-Computer Interaction & Design Program(MHCID) - UC Irvine [🔗](https://www.hcde.washington.edu/future/careers)
+# Careers after Master of Human-Computer Interaction & Design Program(MHCID) - UC Irvine
 Yes! Our Program Director works alongside student affairs, our industry advisory board, and the program faculty to support career development and placement.
 
 ---

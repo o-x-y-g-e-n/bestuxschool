@@ -2,7 +2,7 @@
 menuTitle: University of Maryland Baltimore County
 title: Master of Science in Human-Centered Computing (HCC) | UMBC
 subTitle: The University of Maryland, Baltimore County College of Natural and Mathematical Sciences focuses in the areas of life science, including Biology, Chemistry, Biochemistry, Mathematics, Statistics, Marine Biology, and Physics. 
-description: Learn everything about pursuing your masters in Human Computer Interaction & Design at leading university at Baltimore, United States. 
+description: Learn everything about pursuing your Master of Human Computer Interaction & Design at leading university at Baltimore, United States. 
 category: "US"
 cover: UMBC-logo.png
 ---
@@ -71,7 +71,7 @@ The Interactive Systems Research Center (ISRC) acts as a bridge for faculty acro
 | Top 50 Best Value UX Design Graduate Programs  | **#33**  |valuecolleges.com | 
 | Top UX School      | **#37**      | topuxschool.com|
 ---
-# Faculty at Master of Science in Human-Centered Computing (HCC) - UMBC [🔗](https://mhcid.washington.edu/faculty/)
+# Faculty at Master of Science in Human-Centered Computing (HCC) - UMBC [🔗](https://hcc.umbc.edu/people/faculty/)
 Faculty in the department of HCC at UMBC collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -84,8 +84,8 @@ Faculty in the department of HCC at UMBC collaborate throughout the university a
 ## Interactive Systems Research Center (ISRC) [🔗](https://isrc.umbc.edu/)
 The Interactive Systems Research Center (ISRC) acts as a bridge for faculty across the UMBC campus with expertise in designing, building, or studying uses of interactive computing systems. It facilitates the sharing of resources and experience in solving computing problems from a user-centered perspective grounded in user needs and not in simply applying previously designed solutions to new domains.
 
-# Careers after Master of Science in Human-Centered Computing (HCC) - UMBC [🔗](https://www.hcde.washington.edu/future/careers)
-> Graduates from the University of Washington's department of Human Centered Design & Engineering find careers as designers and researchers who improve people's interactions with technology and the world around them.
+# Careers after Master of Science in Human-Centered Computing (HCC) - UMBC
+> Graduates from the UMBC's department of Information Systems find careers as designers and researchers who improve people's interactions with technology and the world around them.
 
 ## Job Titles
 * User Experience Design

@@ -89,8 +89,8 @@ Applied Research is a form of systematic inquiry involving the practical integra
 ## Clinical Research [🔗](https://research.jefferson.edu/clinical.html)
 Clinical Research at Jefferson consists of the Sidney Kimmel Medical College, College of Life Sciences, College of Health Professions, College of Pharmacy, College of Nursing, College of Population Health, and associated support services. Our mission is to serve society through enhancement of health and well-being. We pursue that mission through medical research, health services, and education of physicians, health professionals and scientists in related disciplines.
 
-# Careers after MS in User Experience & Interaction Design -  Thomas Jefferon University [🔗](https://www.hcde.washington.edu/future/careers)
-> Graduates from the University of Washington's department of Human Centered Design & Engineering find careers as designers and researchers who improve people's interactions with technology and the world around them.
+# Careers after MS in User Experience & Interaction Design -  Thomas Jefferon University 
+Recent graduates have found themselves in creative positions at a diverse range of companies from small to medium businesses and larger companies such as *Comcast Interactive Media, QVC, Disney ABC Television Group, SAP, and NBCUniversal. Many graduates also find themselves seeking a fast-paced career in an agency environment. Rosetta, Digitas Health, Night Kitchen Media, Red Tettemer, AYC Media and Razorfish* are just a few of the notable agencies where Jefferson graduates have expanded their professional careers.
 
 ## Job Titles
 * Interaction Design
@@ -105,9 +105,6 @@ Clinical Research at Jefferson consists of the Sidney Kimmel Medical College, Co
 * Front End Web Development
 * Interactive Design
 * Web and Multimedia Design
-
-## Companies
-Recent graduates have found themselves in creative positions at a diverse range of companies from small to medium businesses and larger companies such as Comcast Interactive Media, QVC, Disney ABC Television Group, SAP, and NBCUniversal. Many graduates also find themselves seeking a fast-paced career in an agency environment. Rosetta, Digitas Health, Night Kitchen Media, Red Tettemer, AYC Media and Razorfish are just a few of the notable agencies where Jefferson graduates have expanded their professional careers.
 
 ---
 # Social Handles of the program

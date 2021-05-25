@@ -2,15 +2,15 @@
 menuTitle: Rochester Institute of Technology
 title: Master of Science Degree in Human-Computer Interaction
 subTitle: Rochester Institute of Technology is a private research university in the town of Henrietta in the Rochester, New York metropolitan area.
-description: Learn everything about pursuing your masters in Human Computer Interaction from Rochester Institute of Technology
+description: Learn everything about pursuing your Master of Human Computer Interaction from Rochester Institute of Technology
 cover: logo.jpg
 category: "US"
 --- 
 
-# Masters in Human Computer Interaction (HCI) [🔗](https://www.rit.edu/study/human-computer-interaction-ms)
+# Master of Human Computer Interaction (HCI) [🔗](https://www.rit.edu/study/human-computer-interaction-ms)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sp2rCO5aPug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About Master in Human Computer Interaction (HCI) - Rochester Institute of Technology
+### About Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 ---
 |   |   |
 |---|---|
@@ -27,7 +27,7 @@ category: "US"
 |Department| [School of Information](https://www.rit.edu/computing/school-of-information) |
 
 
-# Entry Requirements for Master in Human Computer Interaction (HCI) - Rochester Institute of Technology
+# Entry Requirements for Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 ---
 |   |   |
 |---|---|
@@ -56,7 +56,7 @@ address:
 * What prior experience you have with respect to your chosen program?
 * Specifically why you want to attend RIT?
 
-# Cost of Attendence at Master in Human Computer Interaction (HCI) - Rochester Institute of Technology
+# Cost of Attendence at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 ---
 |   |   |
 |---|---|
@@ -66,7 +66,7 @@ address:
 ---
 
 
-# What's special about Master in Human Computer Interaction (HCI) - Rochester Institute of Technology
+# What's special about Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 
 ## Co-op [🔗](https://www.rit.edu/cooperative-education)
 There’s a classic conundrum that recent college graduates have to untangle: Employers want candidates who have work experience. But how do you get experience without a job?
@@ -110,7 +110,7 @@ Graduate Applicants: We will automatically consider all graduate applicants for 
 
 
 
-# Master in Human Computer Interaction (HCI) - Rochester Institute of Technology Course Ranking
+# Master of Human Computer Interaction (HCI) - Rochester Institute of Technology Course Ranking
 ---
 |||
 |---|---|---|
@@ -118,14 +118,14 @@ Graduate Applicants: We will automatically consider all graduate applicants for 
 | Top UX School      | **#23**      | topuxschool.com|
 ---
 
-# Faculty at Master in Human Computer Interaction (HCI) - Rochester Institute of Technology[🔗](https://www.rit.edu/computing/school-of-information#faculty-staff) 
+# Faculty at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology[🔗](https://www.rit.edu/computing/school-of-information#faculty-staff) 
 Faculty in the department of Information at RIT collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
 ## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-# Research Areas at Master in Human Computer Interaction (HCI) - Rochester Institute of Technology
+# Research Areas at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 * Human-AI Collaboration for Identifying UX Problems (AI-Assisted UX Analysis)
 * Aging and Accessibility
 * Mobile, Wearable, and Ubiquitous Sensing & Interaction Techniques
@@ -139,7 +139,7 @@ Faculty in the department of Information at RIT collaborate throughout the unive
 
 
 
-# Careers after Master in Human Computer Interaction (HCI) - Rochester Institute of Technology [🔗](https://www.rit.edu/careerservices/study/human-computer-interaction-ms)
+# Careers after Master of Human Computer Interaction (HCI) - Rochester Institute of Technology [🔗](https://www.rit.edu/careerservices/study/human-computer-interaction-ms)
 > In the human-computer interaction master's degree, you'll study how people interact with websites, computer systems, and software, enabling you to create intuitive interfaces that improve how we interact with and use emerging technologies.
 
 ## Job Titles

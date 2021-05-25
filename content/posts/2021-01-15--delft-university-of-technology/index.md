@@ -103,8 +103,8 @@ Faculty of Industrial Design Engineering
 * Research for our Future [🔗](https://d2k0ddhflgrk1i.cloudfront.net/IO/Onderzoek/IDE_Research_Assessment_2007-2012.pdf)
 > IN 2014, AN INTERNATIONAL COMMITTEE CONDUC-TED THE ASSESSMENT OF OUR RESEARCH IN THE PERIOD 2007-2012. THE COMMITTEE CONCLUDED THAT THE FACULTY TAKES A UNIQUE LEADING POSITION IN THE WORLD. IN THIS LEAFLET WE HIGH-LIGHT SOME OF THE IMPORTANT DEVELOPMENTS IN DESIGN RESEARCH AT IDE, AND ILLUSTRATE IT WITH QUOTES FROM THE COMMITTEE’S FINDINGS.
 
-# Careers at MSc Design for Interaction - TU Delft [🔗](https://www.hcde.washington.edu/future/careers)
-> Graduates of the programme have been hired in recent years by companies such as Philips, Vodafone, HP, Microsoft, TomTom, Océ, and many smaller firms, and by design and market research agencies. 
+# Careers at MSc Design for Interaction - TU Delft [🔗](https://www.tudelft.nl/en/education/programmes/masters/design-for-interaction/msc-design-for-interaction/programme/career-prospects)
+Graduates of the programme have been hired in recent years by companies such as Philips, Vodafone, HP, Microsoft, TomTom, Océ, and many smaller firms, and by design and market research agencies. 
 
 
 ---

@@ -6,7 +6,13 @@ category: "US"
 description: With MS in Human Computer Interaction & MA in User Experience Design at DePaul University, master the art of concepts and methods from computer science, graphic design and the social science, user-centered and participatory design approaches as they create information and communication technologies (ICTs), exploratory user research, information architecture, interaction design, and prototype development.
 cover: university-logo-min.jpeg
 ---
+* [M.S in Human Computer Interaction](#hci)
+* [MA in Experience Design](#exdesign)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2HpJUBNHFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<div id="hci"></div>
 
 # Master of Science in Human Computer Interaction [🔗](https://www.cdm.depaul.edu/academics/Pages/MS-In-Human-Computer-Interaction.aspx)
 
@@ -141,6 +147,7 @@ Graduates have job titles including interaction designer, information architect,
 
 
 
+<div id="exdesign"></div>
 
 # Master of Arts in Experience Design [🔗](https://www.cdm.depaul.edu/academics/Pages/MA-In-Experience-Design.aspx)
 

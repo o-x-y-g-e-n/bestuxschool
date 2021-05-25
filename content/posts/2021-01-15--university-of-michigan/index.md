@@ -2,7 +2,7 @@
 menuTitle: University of Michigan
 title: Master of Science in Information with UX Concentration | UMich
 subTitle: The University of Michigan, often simply referred to as Michigan, is a public research university in Ann Arbor, Michigan. 
-description: Learn everything about pursuing your masters in Information with concentration in User experience (UX) research and design, human computer interaction (HCI), and social computing from University of Michigan, Ann Arbor, United States
+description: Learn everything about pursuing your Master of Information with concentration in User experience (UX) research and design, human computer interaction (HCI), and social computing from University of Michigan, Ann Arbor, United States
 cover: logo.png
 category: "US"
 ---
@@ -84,7 +84,7 @@ You are encouraged to compose your essay in a Word document and then copy-and-pa
 > UMSI offers dual-degree programs to help students meet their specific career interests. In addition to the formalized dual degrees below, students can also initiate a dual degree with any other academic unit on campus.
 
 
-* **Engaged learning** [🔗](https://www.hcde.washington.edu/ux)
+* **Engaged learning** [🔗](https://www.si.umich.edu/programs/master-science-information/engaged-learning)
 > At UMSI, MSI students have the opportunity to enhance their educational experience by participating in engaged learning. Engaged learning is high-impact and experiential learning. It happens in environments where students from multiple disciplines collaborate on real-world, ambiguous and unscripted challenges. Since the School of Information’s founding in 1996, this form of educational practice has been central to the way we teach and prepare students to be change agents in their careers in industry and the public sector, in entrepreneurial activities, and in their service to the world. 
 
 * **Shanghai Jiao Tong University partnership** [🔗](https://www.si.umich.edu/programs/master-science-information/shanghai-jiao-tong-university-partnership)
@@ -119,7 +119,7 @@ Faculty in the department of UMSI  collaborate throughout the university and bey
 * Social Media and Social Computing
 * Ubiquitous Computing
 
-# Careers after Master of Science in Information with UX Concentration - UMich [🔗](https://www.hcde.washington.edu/future/careers)
+# Careers after Master of Science in Information with UX Concentration - UMich [🔗](https://www.si.umich.edu/programs/master-science-information/career-outcomes)
 University of Michigan School of Information graduates obtain innovative, diverse professional jobs in a wide range of work settings and positions, from innovative tech startups and global healthcare organizations to nonprofits, libraries, Fortune 100 companies and some of the leading tech companies in the world. Positions range from entry level to senior level and management positions.
 
 <iframe width="714" height="401" src="https://www.youtube.com/embed/D33Gf6qkn7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

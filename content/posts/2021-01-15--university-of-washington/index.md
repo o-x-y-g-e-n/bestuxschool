@@ -1,17 +1,19 @@
 ---
 menuTitle: University of Washington
-title: Masters in Human Centered Design & Engineering (HCDE) | UW
+title: Master of Human Centered Design & Engineering (HCDE) | UW
 subTitle: University of Washington is a public research university in Seattle, Washington, United States.
-description: Learn everything about pursuing your masters in Human Centered Design & Engineering and Human-Computer Interaction and Design (MHCI+D) with concentration in User experience (UX) research and design, human computer interaction (HCI), and social computing from University of Seattle, Washington, United States
+description: Learn everything about pursuing your Master of Human Centered Design & Engineering and Human-Computer Interaction and Design (MHCI+D) with concentration in User experience (UX) research and design, human computer interaction (HCI), and social computing from University of Seattle, Washington, United States
 cover: W-Logo_RegistrationMark_Purple_26851.png
 category: "US"
 ---
 
-# Masters in Human Centered Design & Engineering (HCDE) [🔗](https://www.hcde.washington.edu/ms)
+* [Master of Human Centered Design & Engineering (HCDE)](#hcde)
+* [Master of Human-Computer Interaction and Design (MHCI+D)](#mhcid)
+
+<div id="hcde"></div>
+# Master of Human Centered Design & Engineering (HCDE) [🔗](https://www.hcde.washington.edu/ms)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g4a2cAkV1f4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About Master in Human Centered Design & Engineering (HCDE) - University of Washington
----
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -26,9 +28,10 @@ category: "US"
 |STEM| ✅ |
 |Information Session Conducted| ✅ [click here to register](https://www.hcde.washington.edu/information-sessions) |
 
-
-# Entry Requirements for Master in Human Centered Design & Engineering (HCDE) - University of Washington
 ---
+
+# Entry Requirements for Master of Human Centered Design & Engineering (HCDE) - University of Washington
+
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -43,23 +46,25 @@ category: "US"
 
 **English proficiency can be shown in many ways, click [here](https://grad.uw.edu/policies-procedures/graduate-school-memoranda/memo-8-graduate-school-english-language-proficiency-requirements/) for more information
 
-
 ## Personal Statement Prompt
-> How have your prior activities and experiences (e.g., things you have done at school, in the workplace, in your community, and/or extracurricular activities) prepared you for this program and this field? Please provide specific examples. [600 words maximum]
+How have your prior activities and experiences (e.g., things you have done at school, in the workplace, in your community, and/or extracurricular activities) prepared you for this program and this field? Please provide specific examples. [600 words maximum]
 
->Please describe your particular interest in Human Centered Design & Engineering, and explain what specific elements of the program make it a good fit for you. How will this program assist you in your longer-term goals? Please provide specific examples. [600 words maximum]
+Please describe your particular interest in Human Centered Design & Engineering, and explain what specific elements of the program make it a good fit for you. How will this program assist you in your longer-term goals? Please provide specific examples. [600 words maximum]
 
-# Cost of Attendence at Master in Human Centered Design & Engineering (HCDE) - University of Washington
 ---
+
+# Cost of Attendence at Master of Human Centered Design & Engineering (HCDE) - University of Washington
+
 |   |   |
 |---|---|
 | Cost (per Credit) (in-state)      | **$860**          |
 | Cost (per Credit) (out-of-state)      | **$860**      |
 |Approx. Total Cost| **$41,280**|
+
 ---
 
 
-# What's special about Master in Human Centered Design & Engineering (HCDE) - University of Washington?
+# What's special about Master of Human Centered Design & Engineering (HCDE) - University of Washington?
 
 ## DRG's (Directed Research Groups) [🔗](https://www.hcde.washington.edu/research/directed)
 Faculty and research scientists in the department of Human Centered Design & Engineering run directed research groups, which offer students a wide range of opportunities to do hands-on work, from conducting usability tests for local companies all the way to collecting data on communication issues internationally.
@@ -75,24 +80,26 @@ In winter quarter, the Department of Human Centered Design & Engineering hosts a
 ## Study abroad in London [🔗](https://www.hcde.washington.edu/london)
 Join Human Centered Design & Engineering faculty members Drs. Brock Craft and Tyler Fox on an international exploration of Experience Design. London is a globally significant crossroads for creative cultures of all kinds, and has a thriving Design and UX scene. The city presents opportunities for developing a deeper understanding of how to engineer interactions and experiences. The program is designed for students who are eager to explore experience design in the diverse and rich context that is London.
 
-
-# Master in Human Centered Design & Engineering (HCDE) - University of Washington Course Ranking
 ---
+
+# Master of Human Centered Design & Engineering (HCDE) - University of Washington Course Ranking
 |||
 |---|---|---|
 | Top 50 Best Value UX Design Graduate Programs  | **#27**  |valuecolleges.com | 
 | Top UX School      | **#3**      | topuxschool.com|
 |Top UX Graduate Degree Programs| **#10**| usertesting.com|
+
 ---
 
-# Faculty at Master in Human Centered Design & Engineering (HCDE) - University of Washington [🔗](https://www.hcde.washington.edu/faculty) 
+# Faculty at Master of Human Centered Design & Engineering (HCDE) - University of Washington [🔗](https://www.hcde.washington.edu/faculty) 
 Faculty in the department of Human Centered Design & Engineering at the University of Washington in Seattle collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-# Research Areas at Master in Human Centered Design & Engineering (HCDE) - University of Washington
+
+# Research Areas at Master of Human Centered Design & Engineering (HCDE) - University of Washington
 * Influencing Behavior, Thinking, and Awareness [🔗](https://www.hcde.washington.edu/research/areas#influencing-behavior-thinking-and-awareness)
 * Design for Emergent Collaborations and Organizations [🔗](https://www.hcde.washington.edu/research/areas#design-for-emergent-collaborations-and-organizations)
 * Low Resource and Underserved Populations [🔗](https://www.hcde.washington.edu/research/areas#low-resource-and-underserved-populations)
@@ -100,8 +107,11 @@ Faculty in the department of Human Centered Design & Engineering at the Universi
 * Data Science and Data Visualization [🔗](https://www.hcde.washington.edu/research/areas#data-visualization-and-big-data)
 * Learning in Professional and Technical Environments [🔗](https://www.hcde.washington.edu/research/areas#learning-in-professional-and-technical-environments)
 
-# Careers after Master in Human Centered Design & Engineering (HCDE) - University of Washington [🔗](https://www.hcde.washington.edu/future/careers)
-> Graduates from the University of Washington's department of Human Centered Design & Engineering find careers as designers and researchers who improve people's interactions with technology and the world around them.
+---
+
+# Careers after Master of Human Centered Design & Engineering (HCDE) - University of Washington [🔗](https://www.hcde.washington.edu/future/careers)
+Graduates from the University of Washington's department of Human Centered Design & Engineering find careers as designers and researchers who improve people's interactions with technology and the world around them.
+
 
 ## Job Titles
 * 18% User Experience (UX) Designer
@@ -122,6 +132,9 @@ Faculty in the department of Human Centered Design & Engineering at the Universi
 * 🛑  [Youtube](https://www.youtube.com/channel/UChzdu4-qUiC4IYPEUru9JFA)
 * 🌀  [HCDE News](https://www.hcde.washington.edu/news)
 
+
+
+---
 ---
 
 
@@ -134,15 +147,10 @@ Faculty in the department of Human Centered Design & Engineering at the Universi
 
 
 
-
-
-
-
+<div id="mhcid"></div>
 # Master of Human-Computer Interaction and Design (MHCI+D)  [🔗](https://mhcid.washington.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeKw6LpDeTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# About Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington
----
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -157,9 +165,9 @@ Faculty in the department of Human Centered Design & Engineering at the Universi
 |STEM| ✅ |
 |Information Session Conducted| ✅ [click here to register](https://mhcid.washington.edu/how-to-learn-more/) |
 
+---
 
 # Entry Requirements for Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington
----
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -174,18 +182,20 @@ Faculty in the department of Human Centered Design & Engineering at the Universi
 
 **English proficiency can be shown in many ways, click [here](https://grad.uw.edu/policies-procedures/graduate-school-memoranda/memo-8-graduate-school-english-language-proficiency-requirements/) for more information
 
+
 ## Personal Statement Prompt
-> describe your interest in HCI and design, and explain what specific elements of the MHCI+D Program make it a good fit for you. How have your prior experiences (at school and in the workplace if applicable) prepared you for this program and this field? How will this program assist you in your longer-term goals? The personal statement is your opportunity to present your goals and experience as they relate to human-computer interaction and design. We’re interested in how you see the field and this program from your own personal perspective.
+describe your interest in HCI and design, and explain what specific elements of the MHCI+D Program make it a good fit for you. How have your prior experiences (at school and in the workplace if applicable) prepared you for this program and this field? How will this program assist you in your longer-term goals? The personal statement is your opportunity to present your goals and experience as they relate to human-computer interaction and design. We’re interested in how you see the field and this program from your own personal perspective.
+
+---
 
 # Cost of attendence for Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington
----
 |   |   |
 |---|---|
 | Cost (per Credit) (in-state)      | **$1,098**          |
 | Cost (per Credit) (out-of-state)      | **$1,098**      |
 |Approx. Total Cost| **$52,704**|
----
 
+---
 
 # What's special about Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington?
 
@@ -200,20 +210,21 @@ MHCI+D’s annual Career Conference is a fantastic opportunity for industry and 
 ## The Curriculum [🔗](https://mhcid.washington.edu/curriculum/)
 Learn about core and elective classes that create the MHCI+D experience
 
+---
 
 # Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington Course Ranking
----
 |||
 |---|---|---|
 | Top 50 Best Value UX Design Graduate Programs  | **#17**  |valuecolleges.com | 
 | Top UX School      | **#3**      | topuxschool.com|
+
 ---
 
 # Faculty at Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [🔗](https://mhcid.washington.edu/faculty/)
 Faculty in the department of Human Centered Design & Engineering at the University of Washington in Seattle collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
 
@@ -230,9 +241,9 @@ As a student in the MHCI+D Program, your main focus is on coursework and learnin
 |Design Technologist |	4% |	7|
 |Other| 	16% |	30|
 
-
 ---
-## Social Handles of the program
+
+# Social Handles of the program
 
 * 🐦  [MHCID on Twitter ](https://twitter.com/uwmhcid)  
 * 💢  [MHCID on Instagram ](https://www.instagram.com/uwmhcid/) 

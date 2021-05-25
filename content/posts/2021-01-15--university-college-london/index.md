@@ -2,7 +2,7 @@
 menuTitle: University College London
 title: Human-Computer Interaction MSc - University College London
 subTitle: UCL is the number one London university for Research Strength (REF2014), recognised for its academic excellence and global impact.
-description: Everything you need to know about pursing your masters in Human Computer Interaction at University College, London. 
+description: Everything you need to know about pursing your Master of Human Computer Interaction at University College, London. 
 cover: logo.png
 category: "UK"
 ---

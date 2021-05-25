@@ -2,15 +2,15 @@
 menuTitle: University of California Santa Cruz
 title: HCI at UC Santa Cruz
 subTitle: The University of California, Santa Cruz is a public land-grant research university in Santa Cruz, California. 
-description: Learn everything about pursuing your masters in Human Computer Interaction  from UC Santa Cruz, California
+description: Learn everything about pursuing your Master of Human Computer Interaction  from UC Santa Cruz, California
 cover: logo.png
 category: "US"
 ---
 
-# Masters in Human Computer Interaction (HCI) [🔗](https://grad.soe.ucsc.edu/hci/)
+# Master of Human Computer Interaction (HCI) [🔗](https://grad.soe.ucsc.edu/hci/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZBFz4BqiuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About Master in Human Computer Interaction (HCI) - University of California, Santa Cruz
+### About Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
 ---
 |   |   |
 |---|---|
@@ -25,7 +25,7 @@ category: "US"
 |Information Session Conducted| ❌ [click here to book an appointement with advisor](https://grad.soe.ucsc.edu/contacts) |
 
 
-# Entry Requirements for Master in Human Computer Interaction (HCI) - University of California, Santa Cruz
+# Entry Requirements for Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
 ---
 |   |   |
 |---|---|
@@ -52,7 +52,7 @@ The Personal History Statement is required of all applicants.This statement will
 
 **Read [here](https://www.gradadmissions.ucsc.edu/instructions) the complete admission guide**
 
-# Cost of Attendence at Master in Human Computer Interaction (HCI) - University of California, Santa Cruz
+# Cost of Attendence at Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
 ![Cost of Attendence](coa.png)
 
 
@@ -63,7 +63,7 @@ The Personal History Statement is required of all applicants.This statement will
 # Financial Support 
 Read [here](https://grad.soe.ucsc.edu/financial-support)
 
-# What's special about Master in Human Computer Interaction (HCI) - University of California, Santa Cruz?
+# What's special about Master of Human Computer Interaction (HCI) - University of California, Santa Cruz?
 
 ## Silicon Valley Campus [🔗](https://siliconvalley.ucsc.edu/)
 Located in the heart of Silicon Valley, the UCSC Human Computer Interaction Master's program offers unprecedented access to HCI industry companies and events.
@@ -82,17 +82,17 @@ Assistive Sociotechnical Solutions for Individuals with Special needs using Tech
 The Alternative Learning Technologies and Games (ALT Games) Lab is an interdisciplinary team with projects ranging across multiple domains such as Human-Computer Interaction, Learning Science, Electrical Engineering, Psychology, and Digital Arts. The mission of the lab is to create and explore the potential of alternative controllers, novel interfaces, and other forms of unique input/output.
 
 
-# Master in Master in Human Computer Interaction (HCI) - University of California, Santa Cruz Course Ranking
+# Master of Master of Human Computer Interaction (HCI) - University of California, Santa Cruz Course Ranking
 The program was introduced this year
 
-# Faculty at Master in Human Computer Interaction (HCI) - University of California, Santa Cruz [🔗](https://grad.soe.ucsc.edu/hci/faculty) 
+# Faculty at Master of Human Computer Interaction (HCI) - University of California, Santa Cruz [🔗](https://grad.soe.ucsc.edu/hci/faculty) 
 Faculty in the department of Human Computer Interaction at the California, Santa Cruz collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
 ## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-# Research Areas at Master in Master in Human Computer Interaction (HCI) - University of California, Santa Cruz
+# Research Areas at Master of Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
 * Information visualization
 * computer graphics
 * VR/AR
@@ -116,7 +116,7 @@ Faculty in the department of Human Computer Interaction at the California, Santa
 ## Student Handbook
 View [here](https://grad.soe.ucsc.edu/hci/handbook)
 
-# Careers after Master in Human Computer Interaction (HCI) - University of California, Santa Cruz [🔗](https://grad.soe.ucsc.edu/hci/jobs)
+# Careers after Master of Human Computer Interaction (HCI) - University of California, Santa Cruz [🔗](https://grad.soe.ucsc.edu/hci/jobs)
 An M.S. in Human Computer Interaction from UCSC provides students with tangible skills and a portfolio necessary to pursue a career in human computer interaction, user experience (UX) design, user interface (UI) design, and more.
 
 ## Job Titles

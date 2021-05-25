@@ -1,15 +1,15 @@
 ---
 menuTitle: San Jose State University
-title: Master in Human Factors / Ergonomics(HFE) | San Jose
+title: Master of Human Factors / Ergonomics(HFE) | San Jose
 subTitle: San José State University is a public university in San Jose, California  
 description: Learn everything about San Jose State University Human Factors and Ergonomics Master's interdisciplinary degree program. Pursue Human Factors / Physcology Masters Program in California, United States
 category: "US"
 cover: logo.png
 ---
 
-# Master in Human Factors / Ergonomics(HFE)[🔗](https://www.sjsu.edu/hfe/)
+# Master of Human Factors / Ergonomics(HFE)[🔗](https://www.sjsu.edu/hfe/)
 
-# About Master in Human Factors / Ergonomics(HFE) | San Jose
+# About Master of Human Factors / Ergonomics(HFE) | San Jose
 ---
 |    |   |
 |---|---|
@@ -25,7 +25,7 @@ cover: logo.png
 |Information Session Conducted| ❌  |
 
 
-# Entry Requirements for Master in Human Factors / Ergonomics(HFE) - SJSU
+# Entry Requirements for Master of Human Factors / Ergonomics(HFE) - SJSU
 ---
 |   |   |
 |---|---|
@@ -45,7 +45,7 @@ cover: logo.png
 ## Personal Statement Prompt
 Read [here](https://www.sjsu.edu/people/glenn.callaghan/grad_school/WRITING-A-STATEMENT-OF-PURPOSE.pdf)
 
-# Cost of attendence at Master in Human Factors / Ergonomics(HFE) - SJSU
+# Cost of attendence at Master of Human Factors / Ergonomics(HFE) - SJSU
 ---
 |   |   |
 |---|---|
@@ -56,7 +56,7 @@ Read [here](https://www.sjsu.edu/people/glenn.callaghan/grad_school/WRITING-A-ST
 *this data is from topuxschool.com*
 
 
-# What's special about Master in Human Factors / Ergonomics(HFE) - SJSU
+# What's special about Master of Human Factors / Ergonomics(HFE) - SJSU
 
 ## HFE Track Ideas [🔗](https://www.sjsu.edu/hfe/prospective-students/hfe-trackideas/)
 Students are welcome to create their own emphases within the HFE program. All HFE students must complete the core course requirements as outlined in the course requirements page of this site. 
@@ -73,7 +73,7 @@ A research and testing showcase laboratory for Industrial & Systems Engineering,
 
 
 
-# Master in Human Factors / Ergonomics(HFE) | San Jose Course Ranking
+# Master of Human Factors / Ergonomics(HFE) | San Jose Course Ranking
 ---
 |||
 |---|---|---|
@@ -82,19 +82,19 @@ A research and testing showcase laboratory for Industrial & Systems Engineering,
 |Top UX Graduate Degree Programs| **#6**| usertesting.com|
 ---
 
-# Faculty at Master in Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/faculty/index.html) 
+# Faculty at Master of Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/faculty/index.html) 
 Faculty in the department of HFE at the SJSU collaborate throughout the university and beyond on their research.
 
 ## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
-# Study Areas for Master in Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/program/program-emphases/index.html)
+# Study Areas for Master of Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/program/program-emphases/index.html)
 * Cognitive Psychology Emphasis
 * Human-Computer Interaction Emphasis
 * Ergonomics Emphasis
 * Human Performance Emphasis
 
-# Careers after  Master in Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/about/hfe-jobs/)
+# Careers after  Master of Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/about/hfe-jobs/)
 
 
 ---

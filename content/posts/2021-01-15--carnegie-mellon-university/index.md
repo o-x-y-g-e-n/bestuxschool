@@ -1,13 +1,13 @@
 ---
-title: Master in Human-Computer Interaction - Carnegie Mellon  
+title: Master of Human-Computer Interaction - Carnegie Mellon  
 menuTitle : Carnegie Mellon University 
 subTitle: Carnegie Mellon University is a private research university based in Pittsburgh, Pennsylvania. 
-description: Learn why you should pursue your MS in Human Computer Interaction at Carnegie Mellon University, One of the world's leading Masters in HCI and PHD in HCI in USA and the world.     
+description: Learn why you should pursue your MS in Human Computer Interaction at Carnegie Mellon University, One of the world's leading Master of HCI and PHD in HCI in USA and the world.     
 cover: logo.png
 category: "US"
 ---
 
-Master in Human-Computer Interaction [🔗](https://www.hcii.cmu.edu/academics/mhci)
+Master of Human-Computer Interaction [🔗](https://www.hcii.cmu.edu/academics/mhci)
 ==
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IoMThB-6Odc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -88,7 +88,7 @@ Research faculty are engaged in research, and also teach and supervise undergrad
 * People
 * Science of Interaction
 
-# Careers after MSc in Interactive Arts and Technology (SIAT) Simon Fraser [🔗](https://www.hcde.washington.edu/future/careers)
+# Careers after MSc in Interactive Arts and Technology (SIAT) Simon Fraser [🔗](https://www.sfu.ca/career/WCID/fcat/SIAT.html)
 > If you want to study the future with other technologists, artists and designers, then you will be interested in this program. Study team management and human relations while building technical skills.
 
 ## Job Titles

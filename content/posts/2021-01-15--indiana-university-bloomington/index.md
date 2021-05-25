@@ -1,12 +1,12 @@
 ---
 title: Human Computer Interaction Design (HCID) - Indiana University
 menuTitle: Indiana University
-subTitle: Learn everything about Indiana University Luddy School Human Computer Interaction Design, one of the leading UX school in United States. Get your masters in Human Computer Interaction at Indiana University in United States. 
+subTitle: Learn everything about Indiana University Luddy School Human Computer Interaction Design, one of the leading UX school in United States. Get your Master of Human Computer Interaction at Indiana University in United States. 
 cover: logo.png
 category: "US"
 ---
 
-# Masters in Human Computer Interaction Design (HCI/d) [🔗](https://hcid.luddy.indiana.edu/)
+# Master of Human Computer Interaction Design (HCI/d) [🔗](https://hcid.luddy.indiana.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_6EY_diCPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # About Human Computer Interaction Design (HCID) - Indiana University

@@ -2,7 +2,7 @@
 menuTitle: New York University
 title: ITP MPS Graduate Program - New York University
 subTitle: New York University (NYU) is a private research university based in New York City.
-description: Learn everything about New York University (NYU) ITP MPS Graduate Program, pursue your fast-paced masters in User Experience & Product Design in New York, United States
+description: Learn everything about New York University (NYU) ITP MPS Graduate Program, pursue your fast-paced Master of User Experience & Product Design in New York, United States
 cover: logo.jpg
 category: "US"
 ---
@@ -82,7 +82,7 @@ ITP has over 100 adjunct professors who teach at ITP on a rotating basis. You ca
 Learn about everything they do [here](https://itp.nyu.edu/ranch/projects/) 
 
 # Careers after ITP MPS Graduate Program - New York University [🔗](https://itp.nyu.edu/ima/curriculum/life-after-ima/)
-> Graduates from the University of Washington's department of Human Centered Design & Engineering find careers as designers and researchers who improve people's interactions with technology and the world around them.
+> Graduates from the NYU's department of MPS find careers as designers and researchers who improve people's interactions with technology and the world around them.
 
 ## Job Titles
 * See the interactive chart [here](https://itp.nyu.edu/registration/alum/beta.php)
@@ -97,125 +97,7 @@ Learn about everything they do [here](https://itp.nyu.edu/ranch/projects/)
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Master of Human-Computer Interaction and Design (MHCI+D)  [🔗](https://mhcid.washington.edu/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xeKw6LpDeTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### About
----
-|   |   |
-|---|---|
-| Degree Offered |  **Master of Science** |
-| Other Degrees Offered| -|
-| Duration       | **11 months**                      |
-| Location       | **Seattle, Washington**          |
-| Total Credits  | **46**                           | 
-| Program Offered| **FALL**|
-|Deadline| **January 15**  |
-|Offer Made| **March 15**|
-|Admission Type| **Regular Decision** |
-|STEM| ✅ |
-|Information Session Conducted| ✅ [click here to register](https://mhcid.washington.edu/how-to-learn-more/) |
-
-
-### Entry Requirements
----
-|   |   |
-|---|---|
-| GRE | ❌ |
-| TOEFL**       | **106** (for non-native speakers)|
-| Personal Statement       | ✅          |
-|Personal Statement Word limit| **500-800 words** |
-| Letter of Recommendation  | **3**                           | 
-|Resume / CV|✅|
-|Transcripts|✅ (unofficial) |
-|Portfolio|💡 (optional) |
-|Application Fee| **$85** |
-
-**English proficiency can be shown in many ways, click [here](https://grad.uw.edu/policies-procedures/graduate-school-memoranda/memo-8-graduate-school-english-language-proficiency-requirements/) for more information
-
-#### Personal Statement Prompt
-> describe your interest in HCI and design, and explain what specific elements of the MHCI+D Program make it a good fit for you. How have your prior experiences (at school and in the workplace if applicable) prepared you for this program and this field? How will this program assist you in your longer-term goals? The personal statement is your opportunity to present your goals and experience as they relate to human-computer interaction and design. We’re interested in how you see the field and this program from your own personal perspective.
-
-### Cost
----
-|   |   |
-|---|---|
-| Cost (per Credit) (in-state)      | **$1,098**          |
-| Cost (per Credit) (out-of-state)      | **$1,098**      |
-|Approx. Total Cost| **$52,704**|
----
-
-### Subjects
-
-## What's special?
-
-* **Capstone Projects** [🔗](https://mhcid.washington.edu/capstone-projects/)
-> Capstone projects are focused on solving current problems in professional practice and may address domains such as health & wellbeing, the environment, education, assistive technology, retail, or travel. Student teams work with mentorship from industry advisors to apply iterative research, design, prototyping, and evaluation methods to produce a comprehensive solution or product design, and portfolio presentation.
-
-* **Career Conference** [🔗](https://mhcid.washington.edu/career/)
-> MHCI+D’s annual Career Conference is a fantastic opportunity for industry and students to interact one-on-one and get to know each other. It’s not about who has jobs, it’s about building relationships with our graduates and they with you.
-
-
-
-* **The Curriculum** [🔗](https://mhcid.washington.edu/curriculum/)
-> Learn about core and elective classes that create the MHCI+D experience
-
-
-### Course Ranking
----
-|||
-|---|---|---|
-| Top 50 Best Value UX Design Graduate Programs  | **#17**  |valuecolleges.com | 
-| Top UX School      | **#3**      | topuxschool.com|
----
-
-### Faculty [🔗](https://mhcid.washington.edu/faculty/)
-Faculty in the department of Human Centered Design & Engineering at the University of Washington in Seattle collaborate throughout the university and beyond on their research.
-![research_stats](research_stats.png)
-
-#### ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
-
----
-
-### Careers [🔗](https://mhcid.washington.edu/career-services/)
-> As a student in the MHCI+D Program, your main focus is on coursework and learning as much as possible in the one year you are here. Building your skills and knowledge during the program is the single most important means of preparing for your career.
-
-#### Job Titles
-||||
-|---|---|---|
-|UX Designer 	|34%| 	62|
-|Product Designer |	21% 	|39|
-|Interaction Designer |	13% |	24|
-|User Researcher 	|11% |	20|
-|Design Technologist |	4% |	7|
-|Other| 	16% |	30|
-
-
----
-## Social Handles of the program
-
-* 🐦  [MHCID on Twitter ](https://twitter.com/uwmhcid)  
-* 💢  [MHCID on Instagram ](https://www.instagram.com/uwmhcid/) 
-* 🛑  [MHCID on Youtube](https://www.youtube.com/user/UWMHCID)
-* 🌀  [MHCID Homepage](https://mhcid.washington.edu/)
-
----
-
 ## Housing (off-campus & on-campus) links
-* [UW Student Housing](https://www.washington.edu/about/housing/)
-* [University of Washington (UW) Housing, Sublets & Roommates](https://www.facebook.com/groups/445293202296621/)
-* [University of Washington Housing, Rooms, Apartments, Sublets](https://www.facebook.com/groups/2010322712550585/)
+* [NYU Student Housing](https://www.nyu.edu/students/student-information-and-resources/housing-and-dining.html)
+* [NYU Off-Campus Housing](https://www.facebook.com/groups/241764626288140//)
+* [NYU Off-Campus Housing](https://www.facebook.com/groups/241764626288140/)
