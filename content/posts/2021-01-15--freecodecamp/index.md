@@ -11,8 +11,8 @@ category: "MOOC"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlxrMOVT7gM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About
----
+# About
+
 |   |   |
 |---|---|
 | Degree Offered |  **Certificate** |
@@ -22,7 +22,7 @@ category: "MOOC"
 |Language| **English**|
 |Time needed| **300 hours**|
 
-### What will you learn?
+# What will you learn?
 * Basic HTML & HTML5
 * Basic CSS
 * Applied Visual Design
@@ -32,41 +32,41 @@ category: "MOOC"
 * CSS grid
 * Responsive Web Design Projects
 
-### Entry Requirements
----
+# Entry Requirements
+
 |   |   |
 |---|---|
 | Internet Connection | ✅ |
 
 
-### Cost
+# Cost
 **F R E E**
 
 
-### What's special?
+# What's special?
 It's one of the best courses out there!
 
 
-### Faculty
+# Faculty
 * [Quincy Larson](https://www.linkedin.com/in/quincylarson/)
 
 ---
 
-### Tools/Technologies you will learn/use
+# Tools/Technologies you will learn/use
 * HTML
 * CSS
 * Chrome / Firefox
 * DevTools
 * Responsive Design (Flexbox & CSS Grid)
 
-### Watch him complete the whole course online!!
+# Watch him complete the whole course online!!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OvRz9mkJDEs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
-### How to claim your certificate?
+# How to claim your certificate?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qluRGWqehfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Social Handles of the program
+# Social Handles of the program
 
 * 🐦  [FreeCodeCamp on Twitter](https://twitter.com/freeCodeCamp)  
 * 💢  [FreeCodeCamp on Instagram ](https://www.instagram.com/freecodecamp) 

@@ -13,7 +13,7 @@ MSc Design for Interaction  [🔗](https://www.tudelft.nl/en/education/programme
 
 
 # About MSc Design for Interaction - TU Delft
----
+
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -27,9 +27,9 @@ MSc Design for Interaction  [🔗](https://www.tudelft.nl/en/education/programme
 |STEM| ✅ |
 |Information Session Conducted| ❌  |
 
+---
 
 # Entry Requirements for MSc Design for Interaction - TU Delft
----
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -52,13 +52,15 @@ MSc Design for Interaction  [🔗](https://www.tudelft.nl/en/education/programme
 * Describe your hypothetical thesis project: what kind of project would you prefer? What would you want to explore? Please limit your answer to three possible topics.
 * Summarize in a maximum of 250 words your BSc thesis work or final assignment/project. Please include information about the workload.
 
-# Cost of attendence for MSc Design for Interaction - TU Delft
 ---
+
+# Cost of attendence for MSc Design for Interaction - TU Delft
 |   |   |
 |---|---|
 | Cost (per year) (EU/Dutch)      | **-**          |
 | Cost (per year) (NON EU)      | **€ 18.750**      |
 |Approx. Total Cost| **€37,500**(non EU)|
+
 ---
 
 # What's special about MSc Design for Interaction - TU Delft?
@@ -78,9 +80,9 @@ The annotation Entrepreneurship trains students to become entrepreneurial, throu
 ## Sustainable Development Annotation [🔗](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/values-technology-and-innovation/sections/economics-of-technology-and-innovation/education/annotation-tido/electives-tisd)
 The annotation Technology in Sustainable Development (TiSD) is open to all TU Delft master students (except IE and SET), who intend to integrate sustainable development into their graduation project. This annotation covers both broader and deeper knowledge regarding Sustainable Development and technology.
 
-# MSc Design for Interaction - TU Delft Course Ranking
-
 ---
+
+# MSc Design for Interaction - TU Delft Course Ranking
 |||
 |---|---|---|
 | QS Global World University Rankings 2021  | **#57**  |- | 
@@ -90,24 +92,30 @@ The annotation Technology in Sustainable Development (TiSD) is open to all TU De
 # Scholorships for MSc Design for Interaction - TU Delft
 Click [here](https://www.tudelft.nl/en/education/practical-matters/scholarships) to learn more
 
+---
+
 # Faculty at MSc Design for Interaction - TU Delft [🔗](https://www.tudelft.nl/en/ide) 
 Faculty of Industrial Design Engineering
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
+
 # Research Areas at MSc Design for Interaction - TU Delft
 * Research Labs [🔗](https://www.tudelft.nl/en/ide/research/research-labs)
 
 * Research for our Future [🔗](https://d2k0ddhflgrk1i.cloudfront.net/IO/Onderzoek/IDE_Research_Assessment_2007-2012.pdf)
-> IN 2014, AN INTERNATIONAL COMMITTEE CONDUC-TED THE ASSESSMENT OF OUR RESEARCH IN THE PERIOD 2007-2012. THE COMMITTEE CONCLUDED THAT THE FACULTY TAKES A UNIQUE LEADING POSITION IN THE WORLD. IN THIS LEAFLET WE HIGH-LIGHT SOME OF THE IMPORTANT DEVELOPMENTS IN DESIGN RESEARCH AT IDE, AND ILLUSTRATE IT WITH QUOTES FROM THE COMMITTEE’S FINDINGS.
+IN 2014, AN INTERNATIONAL COMMITTEE CONDUC-TED THE ASSESSMENT OF OUR RESEARCH IN THE PERIOD 2007-2012. THE COMMITTEE CONCLUDED THAT THE FACULTY TAKES A UNIQUE LEADING POSITION IN THE WORLD. IN THIS LEAFLET WE HIGH-LIGHT SOME OF THE IMPORTANT DEVELOPMENTS IN DESIGN RESEARCH AT IDE, AND ILLUSTRATE IT WITH QUOTES FROM THE COMMITTEE’S FINDINGS.
+
+---
 
 # Careers at MSc Design for Interaction - TU Delft [🔗](https://www.tudelft.nl/en/education/programmes/masters/design-for-interaction/msc-design-for-interaction/programme/career-prospects)
 Graduates of the programme have been hired in recent years by companies such as Philips, Vodafone, HP, Microsoft, TomTom, Océ, and many smaller firms, and by design and market research agencies. 
 
 
 ---
+
 # Social Handles of MSc Design for Interaction - TU Delft
 
 * 🐦  [IDE on Twitter ](https://twitter.com/idetudelft?lang=en)  
@@ -116,6 +124,7 @@ Graduates of the programme have been hired in recent years by companies such as 
 * 🌀  [TuDelft News](https://www.tudelft.nl/en/ide/news/archive/)
 
 ---
+
 # Housing (off-campus & on-campus) links for TU Delft
 * [TuDelft Student Housing](https://www.tudelft.nl/en/student/faculties/tpm-student-portal/education/study-abroad/housing/)
 * [Find room / roommate in Delft](https://www.facebook.com/groups/roomandroommateindelft/)

@@ -60,7 +60,7 @@ const LayoutWrapper = props => {
           className={classes.annContent}
           style={{ background: "#f7cde0", zIndex: 10000, color: "black" }}
         >
-          <div className={classes.annText}>🔥 Added 3 new courses & <Link to={`/alumni-questionnaire-template/`}>Questionnaire Template</Link> 🔥</div>
+          <div className={classes.annText}>🔥 Added 8 new courses 🔥</div>
           <div className={classes.icon}>
             {" "}
             <a

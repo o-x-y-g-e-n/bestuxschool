@@ -17,7 +17,7 @@ cover: university-logo-min.jpeg
 # Master of Science in Human Computer Interaction [🔗](https://www.cdm.depaul.edu/academics/Pages/MS-In-Human-Computer-Interaction.aspx)
 
 # About Human Computer Interaction (HCI) at DePaul University
----
+
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -32,6 +32,7 @@ cover: university-logo-min.jpeg
 |STEM| ✅ |
 |Information Session Conducted| ✅ [click here to register](https://grad.depaul.edu/portal/cdm-information-session) |
 
+---
 
 # Entry Requirements for Human Computer Interaction (HCI) at DePaul University
 ---
@@ -51,18 +52,18 @@ cover: university-logo-min.jpeg
 
 
 ## Personal Statement Prompt
-> Graduate schools often require a written statement—often called a “statement of purpose,” “personal statement” or “letter of intent”—as a part of the application. Some require fairly specific information. Others are unstructured, leaving the applicant free to address a wide range of topics. Usually the purpose is to persuade the admissions committee that you are a distinctive applicant who should be selected. Read the complete guide [here](https://resources.depaul.edu/career-center/resumes-interviews/Pages/personal-statements.aspx)
+Graduate schools often require a written statement—often called a “statement of purpose,” “personal statement” or “letter of intent”—as a part of the application. Some require fairly specific information. Others are unstructured, leaving the applicant free to address a wide range of topics. Usually the purpose is to persuade the admissions committee that you are a distinctive applicant who should be selected. Read the complete guide [here](https://resources.depaul.edu/career-center/resumes-interviews/Pages/personal-statements.aspx)
 
 
-
+---
 
 # Cost of attendence at Human Computer Interaction (HCI) at DePaul University
----
 |   |   |
 |---|---|
 | Cost (per Credit) (in-state)      | **$865**          |
 | Cost (per Credit) (out-of-state)      | **$865**      |
 |Approx. Total Cost| **$44,980**|
+
 ---
 
 
@@ -82,9 +83,9 @@ The health and safety of everyone at DePaul depends on the cooperation of all wh
 ## Online Learning
 This degree can be completed entirely online. One hundred percent of the program’s lectures—from audio and video to whiteboard writing and supplemental materials—are captured and available online.
 
+---
 
 # Human Computer Interaction (HCI) at DePaul University Course Ranking
----
 |||
 |---|---|---|
 | Top 50 Best Value UX Design Graduate Programs  | **#22**  |valuecolleges.com | 
@@ -96,9 +97,10 @@ This degree can be completed entirely online. One hundred percent of the program
 
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
+
 # Research Areas at Human Computer Interaction (HCI) at DePaul University
 - Child-Computer Interaction
 -Interactive technologies/toys designed for children/students who have autism
@@ -109,13 +111,14 @@ This degree can be completed entirely online. One hundred percent of the program
 - human factors and human-computer interaction methodologies, design principles and theories to understand health care systems to promote safety and patient-centered care.
 
 ---
+
 # Tution and Financial Aid for Human Computer Interaction (HCI) at DePaul University [🔗](https://www.cdm.depaul.edu/Admission-and-Aid/Pages/TuitionandFinancialAid.aspx)     
 
-
-
+---
 
 # Careers after Human Computer Interaction (HCI) at DePaul University [🔗](https://www.cdm.depaul.edu/academics/Pages/MS-In-Human-Computer-Interaction.aspx)
-> A graduate degree in HCI prepares students for many different kinds of careers in user experience (UX). 
+A graduate degree in HCI prepares students for many different kinds of careers in user experience (UX). 
+
 ## Job Titles
 Graduates have job titles including interaction designer, information architect, user experience designer, usability specialist, and user researcher.
 
@@ -125,6 +128,7 @@ Graduates have job titles including interaction designer, information architect,
 * **94%** of reporting program graduates were employed, continuing education, or not seeking employment within six months of graduation
 
 ---
+
 # Social Handles of Human Computer Interaction (HCI) at DePaul University
 
 * 🐦  [DePaul CDM on Twitter ](https://twitter.com/CDMDePaul)  
@@ -132,7 +136,6 @@ Graduates have job titles including interaction designer, information architect,
 * 🛑  [DePaul CDM on Youtube](https://www.youtube.com/channel/UCp4E9iH12CPU2faG8a6cq3w)
 * 🌀  [DePaul News](https://depauliaonline.com/)
 
----
 
 
 

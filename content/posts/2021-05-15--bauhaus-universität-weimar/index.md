@@ -10,8 +10,7 @@ category: "Europe"
 # Master of Human Computer Interaction [🔗](https://www.uni-weimar.de/en/media/studies/human-computer-interaction-msc/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D57GzQ6UuMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About Master of Human Computer Interaction - Bauhaus-Universität Weimar
----
+# About Master of Human Computer Interaction - Bauhaus-Universität Weimar
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -24,6 +23,7 @@ category: "Europe"
 |Admission Type| **Regular Decision** |
 |Information Session Conducted| ❌ |
 
+---
 
 # Entry Requirements for Master of Human Computer Interaction - Bauhaus-Universität Weimar
 ---
@@ -46,12 +46,14 @@ category: "Europe"
 ## Personal Statement Prompt
 Explain the specific motivation for doing an HCI degree, and an overview of educational or work experience, in particular regarding projects, internships, extracurricular activities or research activity with relevance for HCI. Wherever possible, these activities should be documented. 
 
-# Cost of Attendence at Master of Human Computer Interaction - Bauhaus-Universität Weimar
 ---
+
+# Cost of Attendence at Master of Human Computer Interaction - Bauhaus-Universität Weimar
 |   |   |
 |---|---|
 | Cost (per semester)      | **200 €**          |
 |Approx. Total Cost | **800 €**|
+
 ---
 
 
@@ -76,7 +78,7 @@ The students are often actively involved in international publishing activities,
 Faculty in the department of Human Computer Interaction at the Bauhaus-Universität Weimar in Weimar collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
 # Research Areas at Master of Human Computer Interaction - Bauhaus-Universität Weimar
@@ -97,6 +99,7 @@ Faculty in the department of Human Computer Interaction at the Bauhaus-Universit
 * Collaborative work
 * Computer aided design
 
+---
 
 # Careers after Master of Human Computer Interaction - Bauhaus-Universität Weimar [🔗](https://www.uni-weimar.de/en/media/studies/human-computer-interaction-msc/career-prospects/)
 The HCI Master was developed based on our experience with the longstanding Master of Computer Science for digital media. All CS4DM graduates have easily found employment in industry and science, in research and development departments of large companies (e.g. Volkswagen, BMW), research institutes (e.Fraunhofer) and at universities, and many are pursuing their doctorate.

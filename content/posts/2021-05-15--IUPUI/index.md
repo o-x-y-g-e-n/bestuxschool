@@ -10,8 +10,7 @@ category: "US"
 # Master of Human Computer Interaction (HCI) [🔗](https://soic.iupui.edu/hcc/graduate/hci/masters/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvsY5_NjqJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About Master of Human Computer Interaction (HCI) - IUPUI
----
+# About Master of Human Computer Interaction (HCI) - IUPUI
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -26,9 +25,9 @@ category: "US"
 |STEM| ✅ |
 |Information Session Conducted| ✅ [click here to register](https://soic.iupui.edu/admissions/visit/graduate-visit/) |
 
+---
 
 # Entry Requirements for Master of Human Computer Interaction (HCI) - IUPUI
----
 |   |   |
 |---|---|
 | GRE | ✅ |
@@ -51,18 +50,22 @@ category: "US"
 
 Read more [here](www.indiana.edu/~wts/pamphlets.shtml)
 
-# Cost of Attendence at Master of Human Computer Interaction (HCI) - IUPUI
 ---
+
+# Cost of Attendence at Master of Human Computer Interaction (HCI) - IUPUI
 |   |   |
 |---|---|
 | Cost (per Credit) (in-state)      | **$420**          |
 | Cost (per Credit) (out-of-state)      | **$1275**      |
 |Approx. Total Cost| **$15,120** (in-state)  **$45,900** (out-of-state)|
+
 ---
 
 # Scholorship & Funding
 * Read about available scholorships [here](https://soic.iupui.edu/cost-financial-aid/scholarships/)
 * Graduate Assistantship info [here](https://science.iupui.edu/cs/admissions/fin-aid-scholarships/index.html) 
+
+---
 
 # What's special about Master of Human Computer Interaction (HCI) - IUPUI?
 
@@ -75,21 +78,24 @@ The COnvergent Media and Exploratory Technologies (COMET) Lab is an applied rese
 ## USER (User Simulation and Experience Research) Lab [🔗](https://soic.iupui.edu/people/davide-bolchini/)
 An incubator for user experience research.
 
-# Master of Master of Human Computer Interaction (HCI) - IUPUI Course Ranking
 ---
+
+# Master of Master of Human Computer Interaction (HCI) - IUPUI Course Ranking
 |||
 |---|---|---|
 | Top 50 Best Value UX Design Graduate Programs  | **#40**  |valuecolleges.com | 
 | Top UX School      | **#26**      | topuxschool.com|
+
 ---
 
 # Faculty at Master of Human Computer Interaction (HCI) - IUPUI [🔗](https://soic.iupui.edu/hcc/graduate/hci/masters/) 
 Faculty in the department of Human Computer Interaction at IUPUI collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
+
 # Research Areas at Master of Human Computer Interaction (HCI) - IUPUI
 * Android Science and Human-robot Interaction
 * Interactive Accessibility for the Blind and Visually Impaired
@@ -100,8 +106,10 @@ Faculty in the department of Human Computer Interaction at IUPUI collaborate thr
 * Web and Mobile Technologies
 * Graphics, Visualization, Video and Animation
 
+---
+
 # Careers after Master of Human Computer Interaction (HCI) - IUPUI [🔗](https://soic.iupui.edu/careers/)
-> Graduates from the IUPUI's department of Human Computer Interactionfind careers as designers and researchers who improve people's interactions with technology and the world around them.
+Graduates from the IUPUI's department of Human Computer Interactionfind careers as designers and researchers who improve people's interactions with technology and the world around them.
 
 ## Job Titles
 * Interaction Designer
@@ -124,6 +132,7 @@ HCI graduates have found full-time jobs and internships with *Amazon, Ammunition
 **$83,500** - AVERAGE STARTING SALARY AT GRADUATION
 
 ---
+
 # Social Handles of the program
 
 * 🐦  [Twitter ](https://twitter.com/IUPUInformatics)  

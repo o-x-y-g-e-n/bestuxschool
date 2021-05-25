@@ -10,8 +10,7 @@ category: "US"
 # Master of Human Computer Interaction (HCI) [🔗](https://grad.soe.ucsc.edu/hci/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZBFz4BqiuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
----
+# About Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -24,9 +23,10 @@ category: "US"
 |STEM| ✅ |
 |Information Session Conducted| ❌ [click here to book an appointement with advisor](https://grad.soe.ucsc.edu/contacts) |
 
+---
+
 
 # Entry Requirements for Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
----
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -50,7 +50,10 @@ The Statement of Purpose should be a concise, well-written essay about your back
 ## Personal History Statement Prompt
 The Personal History Statement is required of all applicants.This statement will be used in conjunction with your application for graduate admission and financial support. Please note that the Personal History Statement should not duplicate the Statement of Purpose. As with the Statement of Purpose, the requirements may vary depending on the program you are applying to. Read the program's application requirements page: go to Graduate Programs; scroll down and click on the name of the program; application requirements will open in a new window.
 
-**Read [here](https://www.gradadmissions.ucsc.edu/instructions) the complete admission guide**
+Read [here](https://www.gradadmissions.ucsc.edu/instructions) the complete admission guide
+
+---
+
 
 # Cost of Attendence at Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
 ![Cost of Attendence](coa.png)
@@ -62,6 +65,8 @@ The Personal History Statement is required of all applicants.This statement will
 
 # Financial Support 
 Read [here](https://grad.soe.ucsc.edu/financial-support)
+
+---
 
 # What's special about Master of Human Computer Interaction (HCI) - University of California, Santa Cruz?
 
@@ -81,15 +86,19 @@ Assistive Sociotechnical Solutions for Individuals with Special needs using Tech
 ## ALT Games Lab [🔗](https://altgameslab.soe.ucsc.edu/)
 The Alternative Learning Technologies and Games (ALT Games) Lab is an interdisciplinary team with projects ranging across multiple domains such as Human-Computer Interaction, Learning Science, Electrical Engineering, Psychology, and Digital Arts. The mission of the lab is to create and explore the potential of alternative controllers, novel interfaces, and other forms of unique input/output.
 
+---
+
 
 # Master of Master of Human Computer Interaction (HCI) - University of California, Santa Cruz Course Ranking
 The program was introduced this year
+
+---
 
 # Faculty at Master of Human Computer Interaction (HCI) - University of California, Santa Cruz [🔗](https://grad.soe.ucsc.edu/hci/faculty) 
 Faculty in the department of Human Computer Interaction at the California, Santa Cruz collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
 # Research Areas at Master of Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
@@ -115,6 +124,9 @@ Faculty in the department of Human Computer Interaction at the California, Santa
 
 ## Student Handbook
 View [here](https://grad.soe.ucsc.edu/hci/handbook)
+
+---
+
 
 # Careers after Master of Human Computer Interaction (HCI) - University of California, Santa Cruz [🔗](https://grad.soe.ucsc.edu/hci/jobs)
 An M.S. in Human Computer Interaction from UCSC provides students with tangible skills and a portfolio necessary to pursue a career in human computer interaction, user experience (UX) design, user interface (UI) design, and more.

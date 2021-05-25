@@ -10,8 +10,7 @@ category: "US"
 # Master of Human Computer Interaction (HCI) [🔗](https://www.rit.edu/study/human-computer-interaction-ms)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sp2rCO5aPug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
----
+# About Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -26,9 +25,9 @@ category: "US"
 |Information Session Conducted| ✅ [click here to register](https://join.rit.edu/portal/ntid_reception) |
 |Department| [School of Information](https://www.rit.edu/computing/school-of-information) |
 
+---
 
 # Entry Requirements for Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
----
 |   |   |
 |---|---|
 | GRE | ✅ (for international students)  |
@@ -56,15 +55,16 @@ address:
 * What prior experience you have with respect to your chosen program?
 * Specifically why you want to attend RIT?
 
-# Cost of Attendence at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 ---
+
+# Cost of Attendence at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 |   |   |
 |---|---|
 | Cost (per Credit) (in-state)      | **$2,171**          |
 | Cost (per Credit) (out-of-state)      | **$2,171**      |
 |Approx. Total Cost| **$91,170**|
----
 
+---
 
 # What's special about Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 
@@ -101,6 +101,7 @@ A capstone project is a large body of work, which you undertake independently un
 ## Thesis Option 
 As compared to a Project, a Thesis deals with a research question and involves a master’s level of original insight. The expectations for background research and justification are much higher for a Thesis, as compared to a Project.  It is expected that the quality of research produced in a Thesis would be suitable for submission as a research paper to a conference, a journal, or other form of public dissemination, and in general, students who are pursuing a Thesis option are expected to submit their research to such venues.  More specifically, the difference between a project and thesis is the nature of the work involved.
 
+---
 
 
 # Aid & Scholorship
@@ -108,21 +109,23 @@ RIT does not offer full cost or full tuition scholarships. The typical maximum s
 
 Graduate Applicants: We will automatically consider all graduate applicants for available merit-based tuition scholarships and assistantships. Scholarship and assistantship awards are made by the academic department at the time you apply for admission, are based on academic excellence, and vary by student and department. To be considered, complete the graduate application for admission.
 
+---
 
 
 # Master of Human Computer Interaction (HCI) - Rochester Institute of Technology Course Ranking
----
 |||
 |---|---|---|
 | Top 50 Best Value UX Design Graduate Programs  | **#13**  |valuecolleges.com | 
 | Top UX School      | **#23**      | topuxschool.com|
+
 ---
+
 
 # Faculty at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology[🔗](https://www.rit.edu/computing/school-of-information#faculty-staff) 
 Faculty in the department of Information at RIT collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
 # Research Areas at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
@@ -136,11 +139,12 @@ Faculty in the department of Information at RIT collaborate throughout the unive
 * Effective Access Technology
 * Healthcare Technology
 
+---
 
 
 
 # Careers after Master of Human Computer Interaction (HCI) - Rochester Institute of Technology [🔗](https://www.rit.edu/careerservices/study/human-computer-interaction-ms)
-> In the human-computer interaction master's degree, you'll study how people interact with websites, computer systems, and software, enabling you to create intuitive interfaces that improve how we interact with and use emerging technologies.
+In the human-computer interaction master's degree, you'll study how people interact with websites, computer systems, and software, enabling you to create intuitive interfaces that improve how we interact with and use emerging technologies.
 
 ## Job Titles
 Entrepreneur, Frontend Developer & UX Designer, Mobile Applications Designer, Product Designer, Research Associate, Senior Software Engineer, UI/UX Designer, UX/UI Developer, User Experience Researcher
@@ -148,10 +152,14 @@ Entrepreneur, Frontend Developer & UX Designer, Mobile Applications Designer, Pr
 ## Salary Range
 **$80K** - Median First-Year Salary of RIT Graduates 
 
+---
+
 # Social Handles of the program
 
 * 🐦  [Twitter ](twitter.com/RITtigers)  
 * 🌀  [HCI News](https://www.rit.edu/study/human-computer-interaction-ms)
+
+---
 
 # Housing (off-campus & on-campus) links for Rochester Institute of Technology
 * [RIT Off Campus Housing](https://www.rit.edu/studentaffairs/iss/life-rit/campus-housing)

@@ -12,7 +12,7 @@ Master of Human-Computer Interaction [🔗](https://www.hcii.cmu.edu/academics/m
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IoMThB-6Odc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # About Human-Computer Interaction (HCI) at Carnegie Mellon University
----
+
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -26,9 +26,9 @@ Master of Human-Computer Interaction [🔗](https://www.hcii.cmu.edu/academics/m
 |STEM| ✅ |
 |Information Session Conducted| ❌ |
 
+---
 
 # Entry Requirements for Human-Computer Interaction (HCI) at Carnegie Mellon University 
----
 |   |   |
 |---|---|
 | GRE | ✅ |
@@ -44,18 +44,19 @@ Master of Human-Computer Interaction [🔗](https://www.hcii.cmu.edu/academics/m
 
 
 ## Personal Statement Prompt for Human-Computer Interaction (HCI) at Carnegie Mellon University
-> Your objective in pursuing a Master of Human-Computer Interaction, including your career goals and your reasons for applying to Carnegie Mellon's MHCI program.
-> Your background in human-computer interaction or other fields relevant to your objective. Describe how your academic, industry or commercial experience prepares you for admission to the MHCI program.
+* Your objective in pursuing a Master of Human-Computer Interaction, including your career goals and your reasons for applying to Carnegie Mellon's MHCI program.
+* Your background in human-computer interaction or other fields relevant to your objective. Describe how your academic, industry or commercial experience prepares you for admission to the MHCI program.
+
+---
 
 # Cost of attendence for Human-Computer Interaction (HCI) at Carnegie Mellon University
----
 |   |   |
 |---|---|
 | Cost (per semester) (in-state)      | **$25,928**          |
 | Cost (per Credit) (out-of-state)      | **$25,928**      |
 |Approx. Total Cost| **$77,784**|
----
 
+---
 
 # What's special about Human-Computer Interaction (HCI) at Carnegie Mellon University?
 
@@ -73,22 +74,25 @@ The DevLab provides facilities and equipment supporting rapid prototyping of int
 ## Pittsburgh Science of Learning Center[🔗](https://learnlab.org/)
 The Pittsburgh Science of Learning Center is a National Science Foundation Center housed jointly at Carnegie Mellon University and the University of Pittsburgh. This center provides a national resource called LearnLab courses for researchers to investigate mathematics, science and language arts. As part of the Pittsburgh Science of Learning Center (PSLC), the current project has access to the LearnLab, an international resource that provides a number of assets for learning scientists (PSLC, 2005).
 
-# Human-Computer Interaction (HCI) at Carnegie Mellon University Course Ranking 
 ---
+
+# Human-Computer Interaction (HCI) at Carnegie Mellon University Course Ranking 
 |||
 |---|---|---|
 | Top 50 Best Value UX Design Graduate Programs  | **#2**  |valuecolleges.com | 
 | Top UX School      | **#1**      | topuxschool.com|
 |Top UX Graduate Degree Programs| **#2**| usertesting.com|
+
 ---
 
 # Faculty at Human-Computer Interaction (HCI) at Carnegie Mellon University [🔗](https://www.hcii.cmu.edu/people/faculty) 
 Faculty in the department of HCI at the university collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
+
 # Research Areas at Human-Computer Interaction (HCI) at Carnegie Mellon University [🔗](https://www.hcii.cmu.edu/research/faculty/grid)
 * Social Cybersecurity [🔗](https://www.hcii.cmu.edu/research/social-cybersecurity)
 * Increasing Design Innovation [🔗](https://www.hcii.cmu.edu/research/increasing-design-innovation)
@@ -97,10 +101,13 @@ Faculty in the department of HCI at the university collaborate throughout the un
 
 and many more...
 
+---
+
 # Careers at Human-Computer Interaction (HCI) at Carnegie Mellon University [🔗](https://www.cmu.edu/career/employers/index.html)
-> Carnegie Mellon University (CMU) is recognized as one of the top universities in the country. Our bright and talented students truly comprehend the connection between academics and work.  Our alumni are consistently recognized as leaders in their fields.  It’s no surprise Carnegie Mellon was ranked by top corporate recruiters as the #1 private university for recruiting according to a recent Wall Street Journal survey.  
+Carnegie Mellon University (CMU) is recognized as one of the top universities in the country. Our bright and talented students truly comprehend the connection between academics and work.  Our alumni are consistently recognized as leaders in their fields.  It’s no surprise Carnegie Mellon was ranked by top corporate recruiters as the #1 private university for recruiting according to a recent Wall Street Journal survey.  
 
 ---
+
 # Social Handles of Human-Computer Interaction (HCI) at Carnegie Mellon University
 
 * 🐦  [CMU HCI on Twitter ](https://twitter.com/cmuhcii)  
@@ -108,7 +115,6 @@ and many more...
 * 🛑  [CMU HCI on Youtube](https://www.youtube.com/channel/UC4-yjDHMlMGDEQQQ4WlbQaw)
 * 🌀  [CMU HCI News](https://www.hcii.cmu.edu/news)
 
----
 
 
 

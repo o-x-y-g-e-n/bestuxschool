@@ -11,7 +11,6 @@ category: "UK"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mv_4S8C-KyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # About MSc Human Computer Interaction Design - City University
----
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science (MSc)** |
@@ -23,6 +22,8 @@ category: "UK"
 |Deadline| **-**  |
 |Admission Type| **Rolling Decision** |
 |Information Session Conducted| ✅ [click here to register](https://www.city.ac.uk/study/visit-us/online-events) |
+
+---
 
 
 # Entry Requirements for MSc Human Computer Interaction Design - City University [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
@@ -45,12 +46,14 @@ category: "UK"
 ## Personal Statement Prompt
 Read [here](https://www.city.ac.uk/__data/assets/pdf_file/0005/226751/personal-statements-for-postgraduate-study.pdf)
 
-# Cost of attendence at MSc Human Computer Interaction Design - City University [🔗](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design#during-your-course)
 ---
+
+# Cost of attendence at MSc Human Computer Interaction Design - City University [🔗](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design#during-your-course)
 |   |   |
 |---|---|
 | UK      | **£10,200** (FT) **£5,100** (PT)          |
 | Overseas      | **£20,400** (FT) **£10,200** (PT)      |
+
 ---
 
 # What will you learn during MSc Human Computer Interaction Design - City University?
@@ -76,6 +79,8 @@ A series of optional, but recommended, practitioner tutorials supplement the tau
 * Understanding User Interactions (15 credits)
 * Research Methods and Professional Issues (15 credits)
 
+---
+
 
 # What's special about MSc Human Computer Interaction Design - City University?
 
@@ -90,17 +95,19 @@ The Centre for HCI Design is one of the longest serving Human-Computer Interacti
 Our academics are regularly sought by journalists to provide advice and comment on breaking news.
 ![research_stats](research_stats.png)
 
-## ** Visit [CSRankings](http://csrankings.org/#/index?all&uk) for more stats 
+Visit [CSRankings](http://csrankings.org/#/index?all&uk) for more stats 
 
 ---
 
 
-### Research Areas for MSc Human Computer Interaction Design - City University
+# Research Areas for MSc Human Computer Interaction Design - City University
 * The study of *individual and social issues* arising from and surrounding the proliferation of information and communication technologies.
 * The development of *design methods* that enable us to engage with people and communities and explore new technological possibilities.
 * The prototyping of *interactive systems* that use existing and novel technologies in response to real-world needs.
 
 and many [more](https://hcid.city/centre/research)
+
+---
 
 # Careers at MSc Human Computer Interaction Design - City University  [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction) 
 *96.1% of graduates in employment or further study six months after completing the course*
@@ -117,16 +124,17 @@ This course enables you to make informed decisions on how to apply your knowledg
 * Accessibility Specialist.
 
 ---
+
 # Social Handles of MSc Human Computer Interaction Design - City University
 
 * 🐦  [HCID City on Twitter ](https://twitter.com/cityuni_hcid?)  
 * 💢  [City on Instagram ](https://www.instagram.com/cityuniversitylondon) 
 * 🛑  [City on Youtube](https://www.youtube.com/channel/UCdcOr9UlR_vZglIFntHnVnQ)
 * 🌀  [UCL News](https://www.city.ac.uk/news)
+---
 
 
 # Housing (off-campus & on-campus) links for City University
 * [Postgraduate halls](https://www.city.ac.uk/study/living-in-london/accommodation/private-accommodation)
 * [Private accommodation](https://www.city.ac.uk/study/living-in-london/accommodation/private-accommodation)
 
----
