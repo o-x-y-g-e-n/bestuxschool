@@ -31,7 +31,6 @@ const styles = theme => ({
 
 const Article = props => {
   const { children, classes } = props;
-
   return <article className={classes.article}>{children}</article>;
 };
 

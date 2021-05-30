@@ -11,6 +11,10 @@ class SpringScrollbars extends Component {
   constructor(props, ...rest) {
     super(props, ...rest);
     this.handleSpringUpdate = this.handleSpringUpdate.bind(this);
+    this.scrollProgress = this.scrollProgress.bind(this);
+    this.state = {
+      scrolled: 0
+    };
   }
 
   componentDidUpdate(prevProps, prevState) {
@@ -28,6 +32,19 @@ class SpringScrollbars extends Component {
     this.spring = this.springSystem.createSpring();
     this.spring.addListener({ onSpringUpdate: this.handleSpringUpdate });
   }
+
+  scrollProgress = () => {
+    const scrollPx = this.getScrollTop();
+    const winHeightPx =
+     this.getScrollHeight() -
+      this.getClientHeight();
+    const scrolled = `${scrollPx / winHeightPx * 100}%`;
+
+    
+    this.setState({
+      scrolled: scrolled
+    });
+  };
 
   componentWillUnmount() {
     this.springSystem.deregisterSpring(this.spring);
@@ -49,6 +66,9 @@ class SpringScrollbars extends Component {
     return this.scrollbars.getHeight();
   }
 
+  getClientHeight() {
+    return this.scrollbars.getClientHeight();
+  }
   scrollTop(top) {
     const scrollTop = this.scrollbars.getScrollTop();
     const scrollHeight = this.scrollbars.getScrollHeight();
@@ -70,18 +90,43 @@ class SpringScrollbars extends Component {
     });
   }
 
+  ass() {
+    console.log("shivam")
+  }
+
   render() {
     const { children, forceCheckOnScroll } = this.props;
+     const progressContainerStyle = {
+      background: "#343f56",
+      boxShadow: "0 2px 4px rgba(0, 0, 0, 0.3)",
+      height: "5px",
+      position: "fixed",
+      top: 0,
+      left: 0,
+      width: "100vw",
+      zIndex: 99
+    };
 
+    const progressBarStyle = {
+      height: "5px",
+      background: "#fb9300",
+      width: this.state.scrolled
+    };
     return (
       <Scrollbars
         autoHide
         universal={true}
-        onScroll={forceCheckOnScroll && forceCheck}
+        onScroll={() => {
+          forceCheckOnScroll && forceCheck();
+          this.scrollProgress();
+        }}
         ref={comp => {
           this.scrollbars = comp;
         }}
       >
+       {this.props.pageScrollNavDisplay && <div className="progress-container" style={progressContainerStyle}>
+          <div className="progress-bar" style={progressBarStyle} />
+      </div>}
         {children}
       </Scrollbars>
     );

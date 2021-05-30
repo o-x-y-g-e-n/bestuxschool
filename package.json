@@ -38,6 +38,7 @@
   "dependencies": {
     "@material-ui/core": "^1.4.0",
     "@material-ui/icons": "^1.1.0",
+    "@tanem/react-nprogress": "^3.0.67",
     "color": "^3.0.0",
     "dotenv": "^6.0.0",
     "gatsby": "^1.9.274",

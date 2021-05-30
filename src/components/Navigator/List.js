@@ -58,7 +58,7 @@ class List extends React.Component {
 
     return (
       <div className={classes.posts}>
-        <SpringScrollbars forceCheckOnScroll={true} isNavigator={true}>
+        <SpringScrollbars forceCheckOnScroll={true} isNavigator={true} pageScrollNavDisplay={false}>
           <div className={classes.inner}>
             <ListHeader
               expandOnClick={expandOnClick}

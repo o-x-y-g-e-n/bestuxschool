@@ -27,11 +27,11 @@ export default {
      * 2. Show the overflow in Edge and IE.
      */
     hr: {
-      boxSizing: "content-box" /* 1 */,
-      height: 0 /* 1 */,
-      overflow: "visible" /* 2 */
+      border: 0,
+      margin: "48px 0",
+      height: "1px",
+      backgroundImage: "linear-gradient(to right, #f0f0f0, #00b9ff, #59d941, #f0f0f0)"
     },
-
     /**
      * 1. Correct the inheritance and scaling of font size in all browsers.
      * 2. Correct the odd `em` font sizing in all browsers.
@@ -47,13 +47,6 @@ export default {
      * 3. Remove the outline on focused links when they are also
      *    active or hovered in all browsers (opinionated).
      */
-    // a: {
-    //   background: "transparent" /* 1 */,
-    //   textDecorationSkip: "objects" /* 2 */
-    // },
-    "a:active, a:hover": {
-      outlineWidth: 0 /* 3 */
-    },
 
     /**
      * 1. Remove the bottom border in Firefox 39-.

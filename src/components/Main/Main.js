@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 import SpringScrollbars from "../SpringScrollbars";
+import { useNProgress } from "@tanem/react-nprogress";
 
 const styles = theme => ({
   main: {
@@ -73,10 +74,9 @@ const styles = theme => ({
 
 const Main = props => {
   const { classes, children } = props;
-
   return (
     <main className={classes.main}>
-      <SpringScrollbars>{children}</SpringScrollbars>
+      <SpringScrollbars pageScrollNavDisplay={true} >{children}</SpringScrollbars>
     </main>
   );
 };

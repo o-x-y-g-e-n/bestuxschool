@@ -2,7 +2,7 @@ const colors = require("../../src/styles/colors");
 module.exports = {
 siteTitle: "bestuxschool- Top HCI/UX programs in the world", // <title>
   shortSiteTitle: "Top HCI/UX programs in the world", // <title> ending for posts and pages
-  siteDescription: "",
+  siteDescription: "Get Detailed information about top HCI/UX programs in the world",
   siteUrl: "http://bestuxschool.com",
   pathPrefix: "",
   siteImage: "preview.png",
@@ -25,6 +25,7 @@ siteTitle: "bestuxschool- Top HCI/UX programs in the world", // <title>
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/o-x-y-g-e-n/bestuxschools" },
-    { name: "twitter", url: "https://twitter.com/bestuxschool" }
+    { name: "twitter", url: "https://twitter.com/urbanlegendfro1" },
+    {name : 'email' , url: "mailto:shivamgohel777@gmail.com"},
   ]
 };

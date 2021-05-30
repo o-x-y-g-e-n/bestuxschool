@@ -6,7 +6,7 @@ require("core-js/fn/array/find");
 import asyncComponent from "../common/AsyncComponent/";
 import PostAuthor from "./PostAuthor";
 import PostComments from "./PostComments";
-
+import ProductHuntFloat from "../ProductHuntFloat";
 const styles = theme => ({
   footer: {
     color: theme.main.colors.footer,
@@ -29,8 +29,16 @@ const PostShare = asyncComponent(() =>
 const PostFooter = ({ classes, author, post, slug, facebook }) => {
   return (
     <footer className={classes.footer}>
+      <hr/>
       <PostShare post={post} slug={slug} />
-      <PostAuthor author={author} />
+      <hr/>
+      <ProductHuntFloat
+        options={{
+          name: "Best UX School",
+          url: "https://www.producthunt.com/posts/bestuxschool",
+          text: "Don't be a stranger! Come like us on Product Hunt 🚀",
+        }}
+      />
       {/* <PostComments post={post} slug={slug} facebook={facebook} /> */}
     </footer>
   );

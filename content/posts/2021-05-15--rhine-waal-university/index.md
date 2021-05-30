@@ -10,8 +10,7 @@ category: "Europe"
 # Master of Usability Engineering [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/master-degree-programmes/usability)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YR3_52l6Bbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### About Master of Usability Engineering - Rhine-Waal University
----
+## About Master of Usability Engineering - Rhine-Waal University
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science** |
@@ -24,9 +23,9 @@ category: "Europe"
 |Admission Type| **Regular Decision** |
 |Information Session Conducted| ❌  |
 
-
-# Entry Requirements for Master of Usability Engineering - Rhine-Waal University
 ---
+
+## Entry Requirements for Master of Usability Engineering - Rhine-Waal University
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -43,52 +42,60 @@ category: "Europe"
 **English proficiency can be shown in many ways, click [here](https://www.hochschule-rhein-waal.de/en/academics/prospective-students/admission-requirements/faqs-prospective-students#1) for more information
 
 
-## Personal Statement Prompt
+### Personal Statement Prompt
 internship, semester abroad, essay
 
+---
 
-# Cost of Attendence at Master of Usability Engineering - Rhine-Waal University
+## Cost of Attendence at Master of Usability Engineering - Rhine-Waal University
 ---
 |   |   |
 |---|---|
 | Cost (per semester)       | **€310.68**          |
 |Approx. Total Cost| **€932.04**|
+
 ---
 
-# Scholorships & Financial Aid
+## Scholorships & Financial Aid
 Read [here](https://www.hochschule-rhein-waal.de/en/academics/students/costs-scholarships-and-grants/scholarships-and-financial-aid)
 
 
 
-# What's special about Master of Usability Engineering - Rhine-Waal University?
+---
 
-## Career paths
+
+## What's special about Master of Usability Engineering - Rhine-Waal University?
+
+### Career paths
 Our degree course places particular emphasis on innovative problem-solving methods and takes interdisciplinary and international approaches into account. We would like to prepare you for a career that corresponds to the current and future requirements and trends of the job market. It strengthens your employability in all areas where interactive systems are designed and developed ,used by people.
 
 
-## Thesis Option
+### Thesis Option
 In your third semester, you develop your master's thesis, if possible, in collaboration with a professor from the university and the company. Here, too, a high academic level and the practical relevance of your subject are of great importance.
 
 
-## Usability Lab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/laboratories/usability-lab)
+### Usability Lab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/laboratories/usability-lab)
 Our modern and well-equipped usability laboratory consists of a test laboratory and a control room, which are separated by a glass wall. The large experiment room is equipped with various technologies (e.g. eye trackers, virtual and augmented reality devices, sensors, cameras, and microphones) that can be used to conduct modern user experience studies. For example, to evaluate everyday objects or media services such as websites, print media or web shops. Group studies.
 
-## Media Labs [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/labore/media-labs)
+### Media Labs [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/labore/media-labs)
 In our media lab, students will benefit from the latest technology when working on projects, learn about virtual reality and augmented reality environments, and can explore high-tech equipment such as virtual reality glasses, augmented reality, and mixed reality. Reality is like Oculus Rift. , HTC Vive and Microsoft HoloLens. We also provide virtual reality motion control platforms and professional motion detection systems to record body and facial movements in movies, performances or computer games. We cooperate with external partners in many projects.
 
-## IoT Lab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/laboratories/iot-lab)
+### IoT Lab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/laboratories/iot-lab)
 The Internet of Things (IoT) is a concept in which sensors and actuators are connected to each other and can be accessed from a distance. As the cost of sensors decreases and the importance of data in decision-making increases, it has become an increasingly important area of ​​research. manufacturing. In various research fields, such as low-power sensors, data transmission technology, fault-tolerant runtime and middleware software components, and tools for data visualization and analysis. Control system and sensor development.
 
-## FabLab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/organisation/professors/prof-dr-karsten-nebe/fablab-call)
+### FabLab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/organisation/professors/prof-dr-karsten-nebe/fablab-call)
 We welcome people who are interested in helping others developing prototypes and making things. Volunteers already having experiences with machines and/or process of digital fabrication are preferred. Some activities are in the frame of workshops and event learning about operation and methods of fabrication with machines for modelling, programing, and prototyping in laser cutting, 3D printing, CNC routing 2D/3D CAD among others. 
 
  
+---
 
-# Faculty at Master of Usability Engineering - Rhine-Waal University [🔗](https://www.hochschule-rhein-waal.de/en/faculties/technology-and-bionics/organisation-and-office-hours/professors/prof-dr-william-m-megill-5) 
+
+
+## Faculty at Master of Usability Engineering - Rhine-Waal University [🔗](https://www.hochschule-rhein-waal.de/en/faculties/technology-and-bionics/organisation-and-office-hours/professors/prof-dr-william-m-megill-5) 
 Read more about the research [here](https://www.hochschule-rhein-waal.de/en/research)
 
 ---
-# Research Areas at Master of Usability Engineering - Rhine-Waal University
+## Research Areas at Master of Usability Engineering - Rhine-Waal University
 * A Generic Approach for the Selection of Appropriate Usability Methods
 * Hedonic Quality, Intuitiveness, User Experience - A Question of Measurement
 * Innovation Methods in Human-Centred Design
@@ -99,11 +106,14 @@ Read more about the research [here](https://www.hochschule-rhein-waal.de/en/rese
 * Learning by Making
 
 
-# Careers after Master of Master of Usability Engineering - Rhine-Waal University
+---
+
+
+## Careers after Master of Master of Usability Engineering - Rhine-Waal University
 Our degree programs focus on innovative problem-solving methods using interdisciplinary and international approaches, aiming to prepare you for a career that adapts to future needs and labor market trends. In all areas of design and development of interactive systems, when people need to use products, using the system will be very beneficial.
 
 ---
-# Social Handles of the program
+## Social Handles of the program
 
 * 🐦  [Twitter ](https://twitter.com/hsrheinwaal)  
 * 💢  [Instagram ](https://www.instagram.com/hsrheinwaal/?hl=en) 
@@ -112,7 +122,7 @@ Our degree programs focus on innovative problem-solving methods using interdisci
 
 ---
 
-# Housing (off-campus & on-campus) links for Rhine-Waal University
+## Housing (off-campus & on-campus) links for Rhine-Waal University
 * [UW Student Housing](https://www.hochschule-rhein-waal.de/en/academics/students/welcome-centre/what-we-offer/housing)
 * [How do I want to live?](https://www.hochschule-rhein-waal.de/en/academics/students/welcome-centre/what-we-offer/housing/how-do-i-want-live)
 * [Student Accommodation Kleve](https://www.facebook.com/studentaccommodationkleve/)

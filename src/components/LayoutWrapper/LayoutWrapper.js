@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
 import CloseIcon from "!svg-react-loader!../../images/svg-icons/close.svg?name=CloseIcon";
@@ -51,10 +51,9 @@ const styles = theme => ({
 
 const LayoutWrapper = props => {
   const { classes, children } = props;
-  const [show, setShow] = React.useState(true);
-
+  const [show, setShow] = React.useState(false);
   return (
-    <div>
+      <div>
       {show && (
         <div
           className={classes.annContent}

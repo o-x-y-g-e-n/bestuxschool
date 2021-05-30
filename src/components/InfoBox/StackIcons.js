@@ -52,21 +52,11 @@ const StackIcons = props => {
 
   return (
     <div className={classes.stack}>
-      <h5 className={classes.header}>UI Template Provided by:</h5>
+      <h5 className={classes.header}>Created By :</h5>
 
       <div className={classes.box}>
-        <a className={classes.link} target="_blank" href="https://github.com/greglobinski">
-          <h5>Greg Lobinski</h5>
-        </a>
-        <a
-          href={item.url}
-          key={item.name}
-          className={classes.link}
-          target="_blank"
-          rel="noopener noreferrer"
-          title={item.name}
-        >
-          <item.comp className={classes.svg} />
+        <a className={classes.link} target="_blank" href="https://www.linkedin.com/in/shivamgohel/">
+          <h5>Shivam Gohel</h5>
         </a>
       </div>
     </div>

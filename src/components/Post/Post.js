@@ -20,10 +20,9 @@ const Post = props => {
   return (
     <Article>
       <PostHeader title={title} subTitle={subTitle} date={date} />
-      {/* <GoogleAds slot="7323753803" layout='inArticle'></GoogleAds> */}
       <Content html={html} />
       <PostFooter author={author} post={post} slug={slug} facebook={facebook} />
-      {/* <GoogleAds slot="5978347110" layout="image"></GoogleAds> */}
+      
     </Article>
   );
 };

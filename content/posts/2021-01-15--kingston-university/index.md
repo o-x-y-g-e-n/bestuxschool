@@ -10,8 +10,8 @@ category: "UK"
 # User Experience Design MSc [🔗](https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0A_GjZ6YKmM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# About User Experience Design Msc Kingston University
----
+## About User Experience Design Msc Kingston University
+
 |   |   |
 |---|---|
 | Degree Offered |  **Master of Science (MSc)** |
@@ -22,9 +22,9 @@ category: "UK"
 | Program Offered| **September 2021, January 2022**|
 |Information Session Conducted| ✅ [click here to register](https://www.kingston.ac.uk/open-days/) |
 
-
-# Entry Requirements for User Experience Design Msc Kingston University [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
 ---
+
+## Entry Requirements for User Experience Design Msc Kingston University [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -39,22 +39,27 @@ category: "UK"
 |Application Fee| **$0** (no-fee!|
 
 
-## Personal Statement Prompt
+### Personal Statement Prompt
 Click [here](https://www.kingston.ac.uk/undergraduate/courses/how-to-apply/personal-statement/) to get more information
 
-### Scholorship & Funding [🔗](https://www.kingston.ac.uk/international/scholarships-and-fees/scholarships/)
+---
+
+## Scholorship & Funding [🔗](https://www.kingston.ac.uk/international/scholarships-and-fees/scholarships/)
 A variety of scholarships and bursaries are available to overseas students. 
 
-# Cost of attendence at User Experience Design Msc Kingston University (2021/22)
 ---
+
+## Cost of attendence at User Experience Design Msc Kingston University (2021/22)
 |   |   |
 |---|---|
 | UK      | **£9,430** (FT) **£5,187** (PT)          |
 | Overseas      | **£14,900** (FT) **£8,195** (PT)      |
----
-** Cost for the placement year can be found [here](https://www.kingston.ac.uk/postgraduate/work-placement/#placementfee)
 
-# What you will study at User Experience Design Msc Kingston University
+Cost for the placement year can be found [here](https://www.kingston.ac.uk/postgraduate/work-placement/#placementfee)
+
+---
+
+## What you will study at User Experience Design Msc Kingston University
 This programme will give you the following opportunities:
 
 * Take the role of a user experience (UX) designer/analyst in an interdisciplinary team of students from across the Digital Media Kingston programme, and use industry-standard techniques to deliver on time.
@@ -69,9 +74,9 @@ This programme will give you the following opportunities:
     
 * Work with industrial hosts, and research-active academics to produce excellent, professional pieces of work that push the boundaries of current understanding and achieve design innovation.
 
+---
 
-
-# Faculty at User Experience Design Msc Kingston University [🔗](https://uclic.ucl.ac.uk/people)
+## Faculty at User Experience Design Msc Kingston University [🔗](https://uclic.ucl.ac.uk/people)
 Digital Media Kingston (DMK) is an interdisciplinary, collaborative project between the School of Computer Science and Mathematics, and School of Design at Kingston University. Its mission is to bring together creative expression, theoretical analysis, scientific rigour and technological innovation to underpin innovation and excellence in the computational arts.
 * [Dr. kiruthika jayaramakrishnan (Jay)](https://www.kingston.ac.uk/staff/profile/dr-kiruthika-jayaramakrishnan-jay-1056/)
 
@@ -83,7 +88,7 @@ Digital Media Kingston (DMK) is an interdisciplinary, collaborative project betw
 ---
 
 
-# Careers after User Experience Design Msc Kingston University [🔗](https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/)
+## Careers after User Experience Design Msc Kingston University [🔗](https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/)
 Graduates of this course now work in roles such as user experience designer, user experience researcher, product owner, usability consultant, interaction designer, and information architect and content strategist.
 
 Some work in-house, at companies such as John Lewis, Aviva, IBM, E-Bay, BSkyB, RAC, Thomas Cook, BBC) in UK and around the world at Google (USA), Symantec, Microsoft and TPVision (India). Others work for agencies such as Systems Concepts, weare:London, AIA Worldwide, Amaro, Wilson Fletcher  and UI Centric, in the UK, and around the world at MediaEngine (Italy), Oxx (Norway) and Thoughtworks (Johannesburg).
@@ -93,11 +98,9 @@ Graduates increasingly find employment within UK Government, public sector and c
 You can find out even more (actual employers, career paths, in-demand skills) by asking to join the User Experience course Linkedin group. The group is open to anyone interested in UX careers.
 
 ---
-# Social Handles of the program
+## Social Handles of the program
 
 * 🐦  [KingstonUni on Twitter ](https://twitter.com/KingstonUni)  
 * 💢  [KingstonUni on Instagram ](https://www.instagram.com/kingstonuniversity/) 
 * 🛑  [KingstonUni on Youtube](https://www.youtube.com/c/kingstonuniversity)
 * 🌀  [KingstonUni News](https://www.kingston.ac.uk/news/)
-
----

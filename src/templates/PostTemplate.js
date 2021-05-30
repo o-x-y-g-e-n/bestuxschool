@@ -13,19 +13,16 @@ import Seo from "../components/Seo";
 
 class PostTemplate extends React.Component {
   moveNavigatorAside = moveNavigatorAside.bind(this);
-
-  componentDidMount() {
-    if (this.props.navigatorPosition === "is-featured") {
-      this.moveNavigatorAside();
-    }
-  }
+  constructor(props) {
+    super(props); 
+   }
 
   render() {
     const { data, pathContext } = this.props;
     const facebook = (((data || {}).site || {}).siteMetadata || {}).facebook;
-
+   
     return (
-      <Main>
+      <Main >
         <Post post={data.post} slug={pathContext.slug} author={data.author} facebook={facebook} />
         <Footer footnote={data.footnote} />
         <Seo data={data.post} facebook={facebook} />

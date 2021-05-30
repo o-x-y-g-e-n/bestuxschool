@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
 
@@ -21,9 +21,9 @@ class PageTemplate extends React.Component {
   render() {
     const { data } = this.props;
     const facebook = (((data || {}).site || {}).siteMetadata || {}).facebook;
-
+  
     return (
-      <Main>
+      <Main >
         <Page page={data.page} />
         <Footer footnote={data.footnote} />
         <Seo data={data.post} facebook={facebook} />
