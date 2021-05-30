@@ -24,7 +24,7 @@ title: About
 ---
 
 #####  WHY BESTUXSCHOOL?
-![bestuxschool](bex1tuxschool.gif)
+![bestuxschool](bestuxschool.png)
 I have been searching for UX Schools myself for Fall 2021. I have been lucky enough to have gathered a lot of information regarding different universities. 
 
 *But when I look around at top blogs, I realized that none of them gave a comparative picture of different universities. I mean we all struggle with the question right, "Why this university?" and that's what we are asked to write in personal statement.*

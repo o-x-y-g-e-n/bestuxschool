@@ -52,7 +52,7 @@ const StackIcons = props => {
 
   return (
     <div className={classes.stack}>
-      <h5 className={classes.header}>Created By :</h5>
+      <h5 className={classes.header}>Maintained By :</h5>
 
       <div className={classes.box}>
         <a className={classes.link} target="_blank" href="https://www.linkedin.com/in/shivamgohel/">
