@@ -8,7 +8,7 @@ cover: UMBC-logo.png
 ---
 
 # Master of Science in Human-Centered Computing (HCC)[🔗](https://informationsystems.umbc.edu/home/graduate-programs/master-of-science-programs/master-of-science-in-human-centered-computing-hcc/)
-![cover][cover.jpg]
+![washington](cover.jpg)
 
 ## About Master of Science in Human-Centered Computing (HCC) - UMBC
 |   |   |

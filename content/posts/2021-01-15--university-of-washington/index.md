@@ -144,8 +144,10 @@ Graduates from the University of Washington's department of Human Centered Desig
 
 
 
+---
 
 <div id="mhcid"></div>
+
 # Master of Human-Computer Interaction and Design (MHCI+D)  [🔗](https://mhcid.washington.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeKw6LpDeTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -165,7 +167,7 @@ Graduates from the University of Washington's department of Human Centered Desig
 
 ---
 
-# Entry Requirements for Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington
+## Entry Requirements for Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -181,12 +183,12 @@ Graduates from the University of Washington's department of Human Centered Desig
 **English proficiency can be shown in many ways, click [here](https://grad.uw.edu/policies-procedures/graduate-school-memoranda/memo-8-graduate-school-english-language-proficiency-requirements/) for more information
 
 
-## Personal Statement Prompt
+### Personal Statement Prompt
 describe your interest in HCI and design, and explain what specific elements of the MHCI+D Program make it a good fit for you. How have your prior experiences (at school and in the workplace if applicable) prepared you for this program and this field? How will this program assist you in your longer-term goals? The personal statement is your opportunity to present your goals and experience as they relate to human-computer interaction and design. We’re interested in how you see the field and this program from your own personal perspective.
 
 ---
 
-# Cost of attendence for Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington
+## Cost of attendence for Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington
 |   |   |
 |---|---|
 | Cost (per Credit) (in-state)      | **$1,098**          |
@@ -195,22 +197,22 @@ describe your interest in HCI and design, and explain what specific elements of 
 
 ---
 
-# What's special about Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington?
+## What's special about Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington?
 
-## Capstone Projects [🔗](https://mhcid.washington.edu/capstone-projects/)
+### Capstone Projects [🔗](https://mhcid.washington.edu/capstone-projects/)
 Capstone projects are focused on solving current problems in professional practice and may address domains such as health & wellbeing, the environment, education, assistive technology, retail, or travel. Student teams work with mentorship from industry advisors to apply iterative research, design, prototyping, and evaluation methods to produce a comprehensive solution or product design, and portfolio presentation.
 
-## Career Conference [🔗](https://mhcid.washington.edu/career/)
+### Career Conference [🔗](https://mhcid.washington.edu/career/)
 MHCI+D’s annual Career Conference is a fantastic opportunity for industry and students to interact one-on-one and get to know each other. It’s not about who has jobs, it’s about building relationships with our graduates and they with you.
 
 
 
-## The Curriculum [🔗](https://mhcid.washington.edu/curriculum/)
-Learn about core and elective classes that create the MHCI+D experience
+### The Curriculum
+Learn about core and elective classes that create the MHCI+D experience [here](https://mhcid.washington.edu/curriculum/)
 
 ---
 
-# Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington Course Ranking
+## Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington Course Ranking
 |||
 |---|---|---|
 | Top 50 Best Value UX Design Graduate Programs  | **#17**  |valuecolleges.com | 
@@ -218,7 +220,7 @@ Learn about core and elective classes that create the MHCI+D experience
 
 ---
 
-# Faculty at Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [🔗](https://mhcid.washington.edu/faculty/)
+## Faculty at Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [🔗](https://mhcid.washington.edu/faculty/)
 Faculty in the department of Human Centered Design & Engineering at the University of Washington in Seattle collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -226,10 +228,10 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-# Careers after Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [🔗](https://mhcid.washington.edu/career-services/)
+## Careers after Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [🔗](https://mhcid.washington.edu/career-services/)
 As a student in the MHCI+D Program, your main focus is on coursework and learning as much as possible in the one year you are here. Building your skills and knowledge during the program is the single most important means of preparing for your career.
 
-## Job Titles
+### Job Titles
 ||||
 |---|---|---|
 |UX Designer 	|34%| 	62|
@@ -250,7 +252,7 @@ As a student in the MHCI+D Program, your main focus is on coursework and learnin
 
 ---
 
-# Housing (off-campus & on-campus) links for University of Washington
+## Housing (off-campus & on-campus) links for University of Washington
 * [UW Student Housing](https://www.washington.edu/about/housing/)
 * [University of Washington (UW) Housing, Sublets & Roommates](https://www.facebook.com/groups/445293202296621/)
 * [University of Washington Housing, Rooms, Apartments, Sublets](https://www.facebook.com/groups/2010322712550585/)
