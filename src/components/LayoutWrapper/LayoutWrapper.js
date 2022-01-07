@@ -51,7 +51,7 @@ const styles = theme => ({
 
 const LayoutWrapper = props => {
   const { classes, children } = props;
-  const [show, setShow] = React.useState(false);
+  const [show, setShow] = React.useState(true);
   return (
       <div>
       {show && (
@@ -59,7 +59,7 @@ const LayoutWrapper = props => {
           className={classes.annContent}
           style={{ background: "#f7cde0", zIndex: 10000, color: "black" }}
         >
-          <div className={classes.annText}>🔥 Added 8 new courses 🔥</div>
+          <div className={classes.annText}>Assist me in improving the website. Take a brief survey <a href="https://forms.gle/VU2J16zPZXFDzvr46" target="_blank">here</a></div>
           <div className={classes.icon}>
             {" "}
             <a
