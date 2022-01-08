@@ -40,6 +40,17 @@ For more general information on cookies, please read "What Are Cookies" from Coo
 ### Google DoubleClick DART Cookie
 Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads
 
+### Hotjar usage 
+Hotjar is designed for websites to get insights. And respect your privacy.
+
+When you browse a website that has Hotjar installed, we collect data about your interactions (e.g. where you click, scroll your mouse, move in between pages) and use it to create visual representations of the experience. Website owners get these insights without tracking IP/MAC addresses-- the stuff that relates to the device you use.
+
+Some Hotjar tools, like session recordings, reconstruct the individual actions you took during a website visit; others, like heatmaps, aggregate data points from you and hundreds of other visitors in one report.
+
+But in all cases, by default, sensitive data that you might enter on the site (your credit card details or phone numbers) will never reach our servers: we cannot see it, and neither can the website owner. Hotjar customers viewing a session recording will only see asterisks (‘***’ ) instead of numbers.
+
+For more head over to [Hotjar privacy](https://www.hotjar.com/privacy/)
+
 ### Advertising Partners Privacy Policies
 You may consult this list to find the Privacy Policy for each of the advertising partners of **bestuxschool.com**.
 
