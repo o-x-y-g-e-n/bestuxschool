@@ -7,7 +7,7 @@ cover: logo.png
 category: "US"
 ---
 
-# Master of Science in Information [🔗](https://www.si.umich.edu/programs/master-science-information)
+# Master of Science in Information [read more](https://www.si.umich.edu/programs/master-science-information)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ankqzzMaNGM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Science in Information with UX Concentration - UMich
@@ -74,21 +74,21 @@ You are encouraged to compose your essay in a Word document and then copy-and-pa
 
 ## What's special about Master of Science in Information with UX Concentration - UMich?
 
-* **Areas of interest** [🔗](https://www.si.umich.edu/programs/master-science-information/areas-interest)
+* **Areas of interest** [read more](https://www.si.umich.edu/programs/master-science-information/areas-interest)
 
     * Data science, data analytics, and computational social science
     * Digital archives, library science, and preservation
     * User experience (UX) research and design, human computer interaction (HCI), and social computing
 
 
-* **Dual degree programs** [🔗](https://www.si.umich.edu/programs/master-science-information/dual-degree-programs)
+* **Dual degree programs** [read more](https://www.si.umich.edu/programs/master-science-information/dual-degree-programs)
 UMSI offers dual-degree programs to help students meet their specific career interests. In addition to the formalized dual degrees below, students can also initiate a dual degree with any other academic unit on campus.
 
 
-* **Engaged learning** [🔗](https://www.si.umich.edu/programs/master-science-information/engaged-learning)
+* **Engaged learning** [read more](https://www.si.umich.edu/programs/master-science-information/engaged-learning)
 At UMSI, MSI students have the opportunity to enhance their educational experience by participating in engaged learning. Engaged learning is high-impact and experiential learning. It happens in environments where students from multiple disciplines collaborate on real-world, ambiguous and unscripted challenges. Since the School of Information’s founding in 1996, this form of educational practice has been central to the way we teach and prepare students to be change agents in their careers in industry and the public sector, in entrepreneurial activities, and in their service to the world. 
 
-* **Shanghai Jiao Tong University partnership** [🔗](https://www.si.umich.edu/programs/master-science-information/shanghai-jiao-tong-university-partnership)
+* **Shanghai Jiao Tong University partnership** [read more](https://www.si.umich.edu/programs/master-science-information/shanghai-jiao-tong-university-partnership)
 A strategic partnership between University of Michigan and Shanghai Jiao Tong University (SJTU) led to the founding of the UM-SJTU Joint Institute (JI) to cultivate a new generation of leaders able to cooperate and innovate in a global context. The collaboration between the two universities, which started in 2006 with engineering, has now expanded to several University of Michigan schools and departments including business, science and the School of Information. Every year more than 150 SJTU students come to U-M through the dual degree or joint graduate programs.
 
 ---
@@ -101,7 +101,7 @@ A strategic partnership between University of Michigan and Shanghai Jiao Tong Un
 |Top UX Graduate Degree Programs| **#4**| usertesting.com|
 ---
 
-## Faculty at Master of Science in Information with UX Concentration - UMich [🔗](https://www.si.umich.edu/people/directory/faculty) 
+## Faculty at Master of Science in Information with UX Concentration - UMich [read more](https://www.si.umich.edu/people/directory/faculty) 
 Faculty in the department of UMSI  collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -109,7 +109,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Research Areas at Master of Science in Information with UX Concentration - UMich[🔗](https://www.si.umich.edu/research/research-areas)
+## Research Areas at Master of Science in Information with UX Concentration - UMich[read more](https://www.si.umich.edu/research/research-areas)
 * Educational Technology and Learning Analytics
 * Health Informatics
 * Human Computer Interaction   
@@ -124,7 +124,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 ---
 
 
-## Careers after Master of Science in Information with UX Concentration - UMich [🔗](https://www.si.umich.edu/programs/master-science-information/career-outcomes)
+## Careers after Master of Science in Information with UX Concentration - UMich [read more](https://www.si.umich.edu/programs/master-science-information/career-outcomes)
 University of Michigan School of Information graduates obtain innovative, diverse professional jobs in a wide range of work settings and positions, from innovative tech startups and global healthcare organizations to nonprofits, libraries, Fortune 100 companies and some of the leading tech companies in the world. Positions range from entry level to senior level and management positions.
 
 <iframe width="714" height="401" src="https://www.youtube.com/embed/D33Gf6qkn7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

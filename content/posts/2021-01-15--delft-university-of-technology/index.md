@@ -7,7 +7,7 @@ cover: logo.png
 category: "Europe"
 ---
 
-# MSc Design for Interaction  [🔗](https://www.tudelft.nl/en/education/programmes/masters/design-for-interaction/msc-design-for-interaction/)
+# MSc Design for Interaction  [read more](https://www.tudelft.nl/en/education/programmes/masters/design-for-interaction/msc-design-for-interaction/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q72gBQG4KdQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -65,19 +65,19 @@ category: "Europe"
 
 ## What's special about MSc Design for Interaction - TU Delft?
 
-## Specialisation Medisign [🔗](https://www.tudelft.nl/en/onderwijs/opleidingen/masters/dfi/msc-design-for-interaction/programme/specialisation-medisign)
+## Specialisation Medisign [read more](https://www.tudelft.nl/en/onderwijs/opleidingen/masters/dfi/msc-design-for-interaction/programme/specialisation-medisign)
 A specialisation allows the student to gain extra in-depth knowledge on and skills in a specific topic through dedicated projects and courses within the MSc curriculum. The Medisign specialisation is aimed at students who wish to design products for health care applications. Medisign focuses on medical-technological projects in a professional setting, including designs for diagnosis, treatment, surgery, and institutional or home care. Medisign projects have applications in medications, preventive medicine and products for disabled people. The objective is to train individuals to balance industrial design and health care perspectives as they design solutions for the health care industry.
 
-### Programme (Curriculum) [🔗](https://www.tudelft.nl/en/education/programmes/masters/design-for-interaction/msc-design-for-interaction/programme)
+### Programme (Curriculum) [read more](https://www.tudelft.nl/en/education/programmes/masters/design-for-interaction/msc-design-for-interaction/programme)
 The second year starts with a semester with an individual focus. Students can shape this semester to meet their professional ambitions. Examples of opportunities are to do a multidisciplinary design project, elective courses, a (research) internship, or a study abroad. The second year ends with establishing, defining and completing the individual graduation project.
 
-### Honours Programme Master [🔗](https://www.tudelft.nl/en/education/programmes/honours-programme-delft/honours-programme-master)
+### Honours Programme Master [read more](https://www.tudelft.nl/en/education/programmes/honours-programme-delft/honours-programme-master)
 The faculty offers excellent students who have finished their Bachelor programme with an average mark of 7.5 or higher, and/or nominal running students who have shown an excellent performance during their first master’s semester, the opportunity to follow an Honours Programme in addition to the regular Master programme. Altogether, IDE’s Honours Programme Master comprises a study load of 21 EC, to be completed in parallel to the regular Master programme and within the regular programme’s time.
 
-### Entrepreneurship Annotation [🔗](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/staff-departments/delft-centre-for-entrepreneurship)
+### Entrepreneurship Annotation [read more](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/staff-departments/delft-centre-for-entrepreneurship)
 The annotation Entrepreneurship trains students to become entrepreneurial, through a combination of entrepreneurship courses and a graduation project that partly focuses on entrepreneurship. The annotation is offered by the Delft Centre of Entrepreneurship (DCE).
 
-### Sustainable Development Annotation [🔗](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/values-technology-and-innovation/sections/economics-of-technology-and-innovation/education/annotation-tido/electives-tisd)
+### Sustainable Development Annotation [read more](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/values-technology-and-innovation/sections/economics-of-technology-and-innovation/education/annotation-tido/electives-tisd)
 The annotation Technology in Sustainable Development (TiSD) is open to all TU Delft master students (except IE and SET), who intend to integrate sustainable development into their graduation project. This annotation covers both broader and deeper knowledge regarding Sustainable Development and technology.
 
 ---
@@ -94,7 +94,7 @@ Click [here](https://www.tudelft.nl/en/education/practical-matters/scholarships)
 
 ---
 
-## Faculty at MSc Design for Interaction - TU Delft [🔗](https://www.tudelft.nl/en/ide) 
+## Faculty at MSc Design for Interaction - TU Delft [read more](https://www.tudelft.nl/en/ide) 
 Faculty of Industrial Design Engineering
 ![research_stats](research_stats.png)
 
@@ -103,14 +103,14 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 ---
 
 ## Research Areas at MSc Design for Interaction - TU Delft
-* Research Labs [🔗](https://www.tudelft.nl/en/ide/research/research-labs)
+* Research Labs [read more](https://www.tudelft.nl/en/ide/research/research-labs)
 
-* Research for our Future [🔗](https://d2k0ddhflgrk1i.cloudfront.net/IO/Onderzoek/IDE_Research_Assessment_2007-2012.pdf)
+* Research for our Future [read more](https://d2k0ddhflgrk1i.cloudfront.net/IO/Onderzoek/IDE_Research_Assessment_2007-2012.pdf)
 
 
 ---
 
-## Careers at MSc Design for Interaction - TU Delft [🔗](https://www.tudelft.nl/en/education/programmes/masters/design-for-interaction/msc-design-for-interaction/programme/career-prospects)
+## Careers at MSc Design for Interaction - TU Delft [read more](https://www.tudelft.nl/en/education/programmes/masters/design-for-interaction/msc-design-for-interaction/programme/career-prospects)
 Graduates of the programme have been hired in recent years by companies such as Philips, Vodafone, HP, Microsoft, TomTom, Océ, and many smaller firms, and by design and market research agencies. 
 
 

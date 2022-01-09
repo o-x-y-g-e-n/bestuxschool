@@ -7,7 +7,7 @@ cover: logo.jpg
 category: "US"
 --- 
 
-# Master of Human Computer Interaction (HCI) [🔗](https://www.rit.edu/study/human-computer-interaction-ms)
+# Master of Human Computer Interaction (HCI) [read more](https://www.rit.edu/study/human-computer-interaction-ms)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sp2rCO5aPug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
@@ -68,27 +68,27 @@ address:
 
 ## What's special about Master of Human Computer Interaction (HCI) - Rochester Institute of Technology
 
-### Co-op [🔗](https://www.rit.edu/cooperative-education)
+### Co-op [read more](https://www.rit.edu/cooperative-education)
 There’s a classic conundrum that recent college graduates have to untangle: Employers want candidates who have work experience. But how do you get experience without a job?
 That’s easy. Get a co-op.
 
-### Center for Accessibility and Inclusion Research [🔗](cair.rit.edu)
+### Center for Accessibility and Inclusion Research [read more](cair.rit.edu)
 The Center for Accessibility and Inclusion Research (CAIR) brings together faculty and students who conduct and publish research at leading computing and education venues on accessibility and assistive technology for diverse users, including people who are deaf or hard of hearing, people who are blind, people with communication impairments, and older adults.
 
 
-### Center for Human-aware AI (CHAI) [🔗](https://www.rit.edu/chai/)
+### Center for Human-aware AI (CHAI) [read more](https://www.rit.edu/chai/)
 To improve the quality of human life with breakthrough research in AI and to comprehensively equip future AI practitioners and scientists.
 
-### HCI Research [🔗](http://hci-research.rit.edu/)
+### HCI Research [read more](http://hci-research.rit.edu/)
 Faculty and students at RIT are conducting research in several areas of human computer interaction, including accessibility and inclusion, eye-tracking and visual perception, human-aware artificial intelligence, wearable and mobile computing, educational technology, consumer behavior, and usable security. This website is a hub for information across RIT. 
 
-### Linguistic and Assistive Technologies Laboratory [🔗](http://latlab.ist.rit.edu/)
+### Linguistic and Assistive Technologies Laboratory [read more](http://latlab.ist.rit.edu/)
 We conduct research in computational linguistics and human-computer interaction, with a primary focus on accessibility applications and assistive technology for people with disabilities. 
 
-### Effective Access Technology [🔗](https://www.rit.edu/accessability/)
+### Effective Access Technology [read more](https://www.rit.edu/accessability/)
 The mission of AccessAbility @ RIT is pursuing research and development that enhances accessibility and empowering individuals with varying abilities.
 
-### HCI Research [🔗](http://hci-research.rit.edu/)
+### HCI Research [read more](http://hci-research.rit.edu/)
 Faculty and students at RIT are conducting research in several areas of human computer interaction, including accessibility and inclusion, eye-tracking and visual perception, human-aware artificial intelligence, wearable and mobile computing, educational technology, consumer behavior, and usable security. This website is a hub for information across RIT.
 
 ### Project Option 
@@ -121,7 +121,7 @@ Graduate Applicants: We will automatically consider all graduate applicants for 
 ---
 
 
-## Faculty at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology[🔗](https://www.rit.edu/computing/school-of-information#faculty-staff) 
+## Faculty at Master of Human Computer Interaction (HCI) - Rochester Institute of Technology[read more](https://www.rit.edu/computing/school-of-information#faculty-staff) 
 Faculty in the department of Information at RIT collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -143,7 +143,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 
 
-## Careers after Master of Human Computer Interaction (HCI) - Rochester Institute of Technology [🔗](https://www.rit.edu/careerservices/study/human-computer-interaction-ms)
+## Careers after Master of Human Computer Interaction (HCI) - Rochester Institute of Technology [read more](https://www.rit.edu/careerservices/study/human-computer-interaction-ms)
 In the human-computer interaction master's degree, you'll study how people interact with websites, computer systems, and software, enabling you to create intuitive interfaces that improve how we interact with and use emerging technologies.
 
 ### Job Titles

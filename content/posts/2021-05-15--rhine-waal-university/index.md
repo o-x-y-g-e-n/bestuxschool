@@ -7,7 +7,7 @@ cover: logo.png
 category: "Europe"
 ---
 
-# Master of Usability Engineering [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/master-degree-programmes/usability)
+# Master of Usability Engineering [read more](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/master-degree-programmes/usability)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YR3_52l6Bbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Usability Engineering - Rhine-Waal University
@@ -74,16 +74,16 @@ Our degree course places particular emphasis on innovative problem-solving metho
 In your third semester, you develop your master's thesis, if possible, in collaboration with a professor from the university and the company. Here, too, a high academic level and the practical relevance of your subject are of great importance.
 
 
-### Usability Lab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/laboratories/usability-lab)
+### Usability Lab [read more](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/laboratories/usability-lab)
 Our modern and well-equipped usability laboratory consists of a test laboratory and a control room, which are separated by a glass wall. The large experiment room is equipped with various technologies (e.g. eye trackers, virtual and augmented reality devices, sensors, cameras, and microphones) that can be used to conduct modern user experience studies. For example, to evaluate everyday objects or media services such as websites, print media or web shops. Group studies.
 
-### Media Labs [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/labore/media-labs)
+### Media Labs [read more](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/labore/media-labs)
 In our media lab, students will benefit from the latest technology when working on projects, learn about virtual reality and augmented reality environments, and can explore high-tech equipment such as virtual reality glasses, augmented reality, and mixed reality. Reality is like Oculus Rift. , HTC Vive and Microsoft HoloLens. We also provide virtual reality motion control platforms and professional motion detection systems to record body and facial movements in movies, performances or computer games. We cooperate with external partners in many projects.
 
-### IoT Lab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/laboratories/iot-lab)
+### IoT Lab [read more](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/laboratories/iot-lab)
 The Internet of Things (IoT) is a concept in which sensors and actuators are connected to each other and can be accessed from a distance. As the cost of sensors decreases and the importance of data in decision-making increases, it has become an increasingly important area of ​​research. manufacturing. In various research fields, such as low-power sensors, data transmission technology, fault-tolerant runtime and middleware software components, and tools for data visualization and analysis. Control system and sensor development.
 
-### FabLab [🔗](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/organisation/professors/prof-dr-karsten-nebe/fablab-call)
+### FabLab [read more](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/organisation/professors/prof-dr-karsten-nebe/fablab-call)
 We welcome people who are interested in helping others developing prototypes and making things. Volunteers already having experiences with machines and/or process of digital fabrication are preferred. Some activities are in the frame of workshops and event learning about operation and methods of fabrication with machines for modelling, programing, and prototyping in laser cutting, 3D printing, CNC routing 2D/3D CAD among others. 
 
  
@@ -91,7 +91,7 @@ We welcome people who are interested in helping others developing prototypes and
 
 
 
-## Faculty at Master of Usability Engineering - Rhine-Waal University [🔗](https://www.hochschule-rhein-waal.de/en/faculties/technology-and-bionics/organisation-and-office-hours/professors/prof-dr-william-m-megill-5) 
+## Faculty at Master of Usability Engineering - Rhine-Waal University [read more](https://www.hochschule-rhein-waal.de/en/faculties/technology-and-bionics/organisation-and-office-hours/professors/prof-dr-william-m-megill-5) 
 Read more about the research [here](https://www.hochschule-rhein-waal.de/en/research)
 
 ---

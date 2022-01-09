@@ -60,6 +60,7 @@ class Layout extends React.Component {
 
   getCategories = () => {
     this.categories = this.props.data.posts.edges.reduce((list, edge, i) => {
+      localStorage.setItem("posts",JSON.stringify(this.props.data.posts.edges))
       const category = edge.node.frontmatter.category;
       if (category && !~list.indexOf(category)) {
         return list.concat(edge.node.frontmatter.category);

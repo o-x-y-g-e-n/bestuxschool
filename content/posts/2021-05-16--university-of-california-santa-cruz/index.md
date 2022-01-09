@@ -7,7 +7,7 @@ cover: logo.png
 category: "US"
 ---
 
-# Master of Human Computer Interaction (HCI) [🔗](https://grad.soe.ucsc.edu/hci/)
+# Master of Human Computer Interaction (HCI) [read more](https://grad.soe.ucsc.edu/hci/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZBFz4BqiuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Human Computer Interaction (HCI) - University of California, Santa Cruz
@@ -71,20 +71,20 @@ Read [here](https://grad.soe.ucsc.edu/financial-support)
 
 ## What's special about Master of Human Computer Interaction (HCI) - University of California, Santa Cruz?
 
-### Silicon Valley Campus [🔗](https://siliconvalley.ucsc.edu/)
+### Silicon Valley Campus [read more](https://siliconvalley.ucsc.edu/)
 Located in the heart of Silicon Valley, the UCSC Human Computer Interaction Master's program offers unprecedented access to HCI industry companies and events.
 
 
-### Center for Computational Experience  [🔗](https://cce.ucsc.edu/)
+### Center for Computational Experience  [read more](https://cce.ucsc.edu/)
 We innovate technology practices and platforms to enhance everyday, lived human experience. Founded in 2010 with a focus on games and playable media, the Center's mission has grown to encompass a broad range of computationally enabled activities--from VR stroke rehabilitation, to apps that help users track and manage mood, to wearables that assist conversational balance, as well as cutting edge games and playful experiences. Our world-class research faculty combine expertise in engineering, arts, humanities, and design. We draw upon the unique strengths and sensibilities of UC Santa Cruz--a deep concern for wellbeing and social good, closeness to and respect for the natural world, and technological skill (with Silicon Valley less than an hour away). Choose one of our research themes below, to learn more about what we do. 
 
-### Tech4Good Lab [🔗](https://tech4good.soe.ucsc.edu/#/)
+### Tech4Good Lab [read more](https://tech4good.soe.ucsc.edu/#/)
 We do research in social computing, exploring the intersection of computational systems and social interaction. Our mission is to develop systems--integrating design, modeling, and algorithms--to support flourishing in work, education, governance, and community engagement. 
 
-### Assist Lab [🔗](https://assist.soe.ucsc.edu/)
+### Assist Lab [read more](https://assist.soe.ucsc.edu/)
 Assistive Sociotechnical Solutions for Individuals with Special needs using Technology 
 
-### ALT Games Lab [🔗](https://altgameslab.soe.ucsc.edu/)
+### ALT Games Lab [read more](https://altgameslab.soe.ucsc.edu/)
 The Alternative Learning Technologies and Games (ALT Games) Lab is an interdisciplinary team with projects ranging across multiple domains such as Human-Computer Interaction, Learning Science, Electrical Engineering, Psychology, and Digital Arts. The mission of the lab is to create and explore the potential of alternative controllers, novel interfaces, and other forms of unique input/output.
 
 ---
@@ -95,7 +95,7 @@ The program was introduced this year
 
 ---
 
-## Faculty at Master of Human Computer Interaction (HCI) - University of California, Santa Cruz [🔗](https://grad.soe.ucsc.edu/hci/faculty) 
+## Faculty at Master of Human Computer Interaction (HCI) - University of California, Santa Cruz [read more](https://grad.soe.ucsc.edu/hci/faculty) 
 Faculty in the department of Human Computer Interaction at the California, Santa Cruz collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -131,7 +131,7 @@ View [here](https://grad.soe.ucsc.edu/hci/handbook)
 ---
 
 
-## Careers after Master of Human Computer Interaction (HCI) - University of California, Santa Cruz [🔗](https://grad.soe.ucsc.edu/hci/jobs)
+## Careers after Master of Human Computer Interaction (HCI) - University of California, Santa Cruz [read more](https://grad.soe.ucsc.edu/hci/jobs)
 An M.S. in Human Computer Interaction from UCSC provides students with tangible skills and a portfolio necessary to pursue a career in human computer interaction, user experience (UX) design, user interface (UI) design, and more.
 
 ### Job Titles

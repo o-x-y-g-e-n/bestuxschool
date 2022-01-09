@@ -7,7 +7,7 @@ cover: logo.png
 category: "Online"
 ---
 
-# Master of Human-Computer Interaction & Design Program(MHCID) [🔗](https://mhcid.ics.uci.edu/)
+# Master of Human-Computer Interaction & Design Program(MHCID) [read more](https://mhcid.ics.uci.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zviMRmZI4qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Human-Computer Interaction & Design Program(MHCID) - UC Irvine
@@ -71,10 +71,10 @@ In just one year, students will learn:
 
 
 
-### Capstone Project [🔗](https://mhcid.ics.uci.edu/program/capstone-projects/)
+### Capstone Project [read more](https://mhcid.ics.uci.edu/program/capstone-projects/)
 Capstone projects occur over the final six months of the program and are focused on bringing together all of the skills and knowledge developed throughout the project. Project teams work together to solve a variety of user experience challenges in nearly any domain (education, the environment, healthcare, retail, and more) working with an external client. Iterative research, design, development, and evaluation are the keys to success in the capstone projects. All projects are presented during the Summer Finale at the end of the program.
 
-### UX Career Conference [🔗](https://mhcid.ics.uci.edu/program/events/career-conference/)
+### UX Career Conference [read more](https://mhcid.ics.uci.edu/program/events/career-conference/)
 UC Irvine’s Executive Masters of Human-Computer Interaction and Design Program will host their annual UX Career Conference on Friday, September 10, 2021, This mini-conference is specifically designed for  UX professionals, industry executives, and UX recruiters. More information coming soon.
 
 ---
@@ -87,7 +87,7 @@ UC Irvine’s Executive Masters of Human-Computer Interaction and Design Program
 
 ---
 
-## Faculty at Master of Human-Computer Interaction & Design Program(MHCID) - UC Irvine [🔗](https://mhcid.ics.uci.edu/people/mhcid-faculty-and-staff/) 
+## Faculty at Master of Human-Computer Interaction & Design Program(MHCID) - UC Irvine [read more](https://mhcid.ics.uci.edu/people/mhcid-faculty-and-staff/) 
 The MHCID program is housed in the Department of Informatics at UC Irvine, a leading department in the intersection of people, design, and technology. The department is home to four ACM fellows, four members of the CHI Academy, three endowed chairs, and numerous winners of other prestigious awards. The MHCID program draws faculty members from a myriad of backgrounds to create a rich environment in which students can draw upon a wide range of expertise. Faculty come from across UCI and from industry. Students in the MHCID program will have the opportunity to interact closely with these faculty and with the prestigious members of our industry advisory board.
 ![research_stats](research_stats.png)
 

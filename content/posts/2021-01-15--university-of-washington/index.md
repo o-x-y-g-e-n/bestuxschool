@@ -11,7 +11,7 @@ category: "US"
 * [Master of Human-Computer Interaction and Design (MHCI+D)](#mhcid)
 
 <div id="hcde"></div>
-# Master of Human Centered Design & Engineering (HCDE) [🔗](https://www.hcde.washington.edu/ms)
+# Master of Human Centered Design & Engineering (HCDE) [read more](https://www.hcde.washington.edu/ms)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g4a2cAkV1f4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About  Master of Human Centered Design & Engineering (HCDE) - University of Washington
@@ -68,18 +68,18 @@ Please describe your particular interest in Human Centered Design & Engineering,
 
 ## What's special about Master of Human Centered Design & Engineering (HCDE) - University of Washington?
 
-### DRG's (Directed Research Groups) [🔗](https://www.hcde.washington.edu/research/directed)
+### DRG's (Directed Research Groups) [read more](https://www.hcde.washington.edu/research/directed)
 Faculty and research scientists in the department of Human Centered Design & Engineering run directed research groups, which offer students a wide range of opportunities to do hands-on work, from conducting usability tests for local companies all the way to collecting data on communication issues internationally.
 
 
-### Microsoft Mentorship Program [🔗](https://www.hcde.washington.edu/microsoft-mentor)
+### Microsoft Mentorship Program [read more](https://www.hcde.washington.edu/microsoft-mentor)
 UW’s Department of Human Centered Design & Engineering (HCDE) and the Microsoft Cloud + AI Studios team are continuing our year-long mentorship program for the 2020-21 academic year. 30-40 HCDE students will be matched with Microsoft mentors for one-on-one career coaching. Students will gain real world perspective and career guidance from working professionals in user research, UX design, content strategy, and product management.
 
 
-### UX Speaker Series [🔗](https://www.hcde.washington.edu/ux)
+### UX Speaker Series [read more](https://www.hcde.washington.edu/ux)
 In winter quarter, the Department of Human Centered Design & Engineering hosts a 10-week seminar series on User Experience (UX), where we welcome industry experts to speak about current issues and research in the field.
 
-### Study abroad in London [🔗](https://www.hcde.washington.edu/london)
+### Study abroad in London [read more](https://www.hcde.washington.edu/london)
 Join Human Centered Design & Engineering faculty members Drs. Brock Craft and Tyler Fox on an international exploration of Experience Design. London is a globally significant crossroads for creative cultures of all kinds, and has a thriving Design and UX scene. The city presents opportunities for developing a deeper understanding of how to engineer interactions and experiences. The program is designed for students who are eager to explore experience design in the diverse and rich context that is London.
 
 ---
@@ -93,7 +93,7 @@ Join Human Centered Design & Engineering faculty members Drs. Brock Craft and Ty
 
 ---
 
-## Faculty at Master of Human Centered Design & Engineering (HCDE) - University of Washington [🔗](https://www.hcde.washington.edu/faculty) 
+## Faculty at Master of Human Centered Design & Engineering (HCDE) - University of Washington [read more](https://www.hcde.washington.edu/faculty) 
 Faculty in the department of Human Centered Design & Engineering at the University of Washington in Seattle collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -102,16 +102,16 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 ---
 
 ## Research Areas at Master of Human Centered Design & Engineering (HCDE) - University of Washington
-* Influencing Behavior, Thinking, and Awareness [🔗](https://www.hcde.washington.edu/research/areas#influencing-behavior-thinking-and-awareness)
-* Design for Emergent Collaborations and Organizations [🔗](https://www.hcde.washington.edu/research/areas#design-for-emergent-collaborations-and-organizations)
-* Low Resource and Underserved Populations [🔗](https://www.hcde.washington.edu/research/areas#low-resource-and-underserved-populations)
-* Material and Embodied Technologies [🔗](https://www.hcde.washington.edu/research/areas#material-and-embodied-technologies-and-ubiquitous-computing)
-* Data Science and Data Visualization [🔗](https://www.hcde.washington.edu/research/areas#data-visualization-and-big-data)
-* Learning in Professional and Technical Environments [🔗](https://www.hcde.washington.edu/research/areas#learning-in-professional-and-technical-environments)
+* Influencing Behavior, Thinking, and Awareness [read more](https://www.hcde.washington.edu/research/areas#influencing-behavior-thinking-and-awareness)
+* Design for Emergent Collaborations and Organizations [read more](https://www.hcde.washington.edu/research/areas#design-for-emergent-collaborations-and-organizations)
+* Low Resource and Underserved Populations [read more](https://www.hcde.washington.edu/research/areas#low-resource-and-underserved-populations)
+* Material and Embodied Technologies [read more](https://www.hcde.washington.edu/research/areas#material-and-embodied-technologies-and-ubiquitous-computing)
+* Data Science and Data Visualization [read more](https://www.hcde.washington.edu/research/areas#data-visualization-and-big-data)
+* Learning in Professional and Technical Environments [read more](https://www.hcde.washington.edu/research/areas#learning-in-professional-and-technical-environments)
 
 ---
 
-## Careers after Master of Human Centered Design & Engineering (HCDE) - University of Washington [🔗](https://www.hcde.washington.edu/future/careers)
+## Careers after Master of Human Centered Design & Engineering (HCDE) - University of Washington [read more](https://www.hcde.washington.edu/future/careers)
 Graduates from the University of Washington's department of Human Centered Design & Engineering find careers as designers and researchers who improve people's interactions with technology and the world around them.
 
 
@@ -148,7 +148,7 @@ Graduates from the University of Washington's department of Human Centered Desig
 
 <div id="mhcid"></div>
 
-# Master of Human-Computer Interaction and Design (MHCI+D)  [🔗](https://mhcid.washington.edu/)
+# Master of Human-Computer Interaction and Design (MHCI+D)  [read more](https://mhcid.washington.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xeKw6LpDeTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 |   |   |
@@ -199,10 +199,10 @@ describe your interest in HCI and design, and explain what specific elements of 
 
 ## What's special about Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington?
 
-### Capstone Projects [🔗](https://mhcid.washington.edu/capstone-projects/)
+### Capstone Projects [read more](https://mhcid.washington.edu/capstone-projects/)
 Capstone projects are focused on solving current problems in professional practice and may address domains such as health & wellbeing, the environment, education, assistive technology, retail, or travel. Student teams work with mentorship from industry advisors to apply iterative research, design, prototyping, and evaluation methods to produce a comprehensive solution or product design, and portfolio presentation.
 
-### Career Conference [🔗](https://mhcid.washington.edu/career/)
+### Career Conference [read more](https://mhcid.washington.edu/career/)
 MHCI+D’s annual Career Conference is a fantastic opportunity for industry and students to interact one-on-one and get to know each other. It’s not about who has jobs, it’s about building relationships with our graduates and they with you.
 
 
@@ -220,7 +220,7 @@ Learn about core and elective classes that create the MHCI+D experience [here](h
 
 ---
 
-## Faculty at Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [🔗](https://mhcid.washington.edu/faculty/)
+## Faculty at Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [read more](https://mhcid.washington.edu/faculty/)
 Faculty in the department of Human Centered Design & Engineering at the University of Washington in Seattle collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -228,7 +228,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Careers after Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [🔗](https://mhcid.washington.edu/career-services/)
+## Careers after Master of Human-Computer Interaction and Design (MHCI+D) - University of Washington [read more](https://mhcid.washington.edu/career-services/)
 As a student in the MHCI+D Program, your main focus is on coursework and learning as much as possible in the one year you are here. Building your skills and knowledge during the program is the single most important means of preparing for your career.
 
 ### Job Titles

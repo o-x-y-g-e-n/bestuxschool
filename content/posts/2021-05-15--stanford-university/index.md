@@ -7,7 +7,7 @@ cover: logo.png
 category: "US"
 ---
 
-# Masters of Science in Engineering, Design Impact [🔗](https://designimpact.stanford.edu/)
+# Masters of Science in Engineering, Design Impact [read more](https://designimpact.stanford.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4w2YnX5ibi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Masters of Science in Engineering, Design Impact - Stanford University
@@ -60,10 +60,10 @@ There are many great graduate design programs in the US and in the world, each h
 
 ## What's special aboutMasters of Science in Engineering, Design Impact - Stanford University?
 
-### d.school connection [🔗](https://dschool.stanford.edu/)
+### d.school connection [read more](https://dschool.stanford.edu/)
 Attending any of the seven graduate schools at Stanford will make you eligible for classes at the d.school; simply apply for the individual d.school classes that most interest you. However, if you want to gain depth and expertise in design and make it the focus of your studies, projects, and community at Stanford, we welcome your application for the MS in Design Impact.
 
-### Loft [🔗](https://dloft.stanford.edu/)
+### Loft [read more](https://dloft.stanford.edu/)
 The inspiration for d.loft STEM is the "Design for the Other 90% Movement,” which consists of engineers, designers, scientists, technologists, architects, and mathematicians engaged in designing low-cost innovative solutions for large portion of the world’s population who do not have access to basic services and products.
 
 ---
@@ -76,7 +76,7 @@ The inspiration for d.loft STEM is the "Design for the Other 90% Movement,” wh
 
 ---
 
-## Faculty at Masters of Science in Engineering, Design Impact - Stanford University [🔗](https://designimpact.stanford.edu/about) 
+## Faculty at Masters of Science in Engineering, Design Impact - Stanford University [read more](https://designimpact.stanford.edu/about) 
 Faculty in the department of Design Impact, Stanford collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 

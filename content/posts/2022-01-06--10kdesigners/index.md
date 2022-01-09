@@ -8,7 +8,7 @@ category: "Online"
 ---
 
 <div id="hcde"></div>
-# UI/UX Design Cohort | 10kdesigners [🔗](https://www.10kdesigners.com/ui-ux)
+# UI/UX Design Cohort | 10kdesigners [read more](https://www.10kdesigners.com/ui-ux)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-76gQllO0A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About UI/UX Design Cohort | 10kdesigners 
@@ -69,7 +69,7 @@ Every assignment is a potential case study, so that you can confidently apply fo
 ---
 
 
-## Faculty at UI/UX Design Cohort | 10kdesigners  [🔗](https://www.10kdesigners.com/members) 
+## Faculty at UI/UX Design Cohort | 10kdesigners  [read more](https://www.10kdesigners.com/members) 
 
 10kdesigners is guided by the best industry leaders from companies like Gojek, Procedure, AirAsia, Zuddl, CRED, Hotstar etc.
 
@@ -89,12 +89,12 @@ Every assignment is a potential case study, so that you can confidently apply fo
 
 ---
 
-## Case Studies [🔗](https://www.10kdesigners.com/case-studies)
+## Case Studies [read more](https://www.10kdesigners.com/case-studies)
 Some amazing UI/UX Case Studies in the field of E-commerce, Ad-tech, fintech, fitness, marketplace, music, SaaS, Travel etc.
 
 ---
 
-## Careers after UI/UX Design Cohort | 10kdesigners [🔗](https://www.10kdesigners.com/alumni-mentors)
+## Careers after UI/UX Design Cohort | 10kdesigners [read more](https://www.10kdesigners.com/alumni-mentors)
 People graduating from 10kdesigners work at some top notch tech companies. 
 
 

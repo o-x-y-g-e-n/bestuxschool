@@ -7,7 +7,7 @@ cover: logo.png
 category: "US"
 ---
 
-# Master of Human Centered Design (HCD) [🔗](https://www.fit.edu/programs/human-centered-design-ms/)
+# Master of Human Centered Design (HCD) [read more](https://www.fit.edu/programs/human-centered-design-ms/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qq2-6BaXx_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Human-Centered Design - Florida Tech
@@ -63,18 +63,18 @@ category: "US"
 ### Specializations 
 Studying for a master's degree in human-centered design from Florida Institute of Technology is an interdisciplinary experience that covers other academic disciplines ranging from human-computer interaction and artificial intelligence to architecture, ethnographic design, and crisis management. Human-centered design, innovation and art also provide courses on creativity and design thinking, functional analysis, industrial design and user experience.
 
-### Human-Centered Design Institute [🔗](https://research.fit.edu/human-centered-design-institute/)
+### Human-Centered Design Institute [read more](https://research.fit.edu/human-centered-design-institute/)
 The Human-Centered Design Institute (HCDi) develops education and research in various domains such as aeronautics, space, energy production and management, health care, and education. We have research and innovation labs, such as the commercial aviation cockpit design lab (equipped with A320 and B737 fully equipped flight deck simulators) and 3D-moving spaceship simulator. We also have an advanced interaction research lab where various kinds of novel tangible interactive systems can be designed and tested. 
 
-### ATLAS Lab [🔗](https://research.fit.edu/atlas/)
+### ATLAS Lab [read more](https://research.fit.edu/atlas/)
 The ATLAS lab studies how individuals make decisions under stress and uncertainty.  This includes utilizing physiological measures to assess stress and workload, in hand with granular process-level measures of decision making and performance.  It has also resulted in development of a framework of factors which influence how individuals make decisions with conflicting information.
 
-### RiSE Lab [🔗](https://sites.google.com/view/rise-lab)
+### RiSE Lab [read more](https://sites.google.com/view/rise-lab)
 Research in Information Science for Engineeringh context that is London.
 
 ---
 
-## Faculty at Master of Master of Human-Centered Design - Florida Tech [🔗](https://catalog.fit.edu/content.php?catoid=4&navoid=97) 
+## Faculty at Master of Master of Human-Centered Design - Florida Tech [read more](https://catalog.fit.edu/content.php?catoid=4&navoid=97) 
 Faculty in the department of Human Centered Design Florida Tech collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -104,7 +104,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Careers after Master of Human-Centered Design - Florida Tech [🔗](https://www.fit.edu/programs/human-centered-design-ms/)
+## Careers after Master of Human-Centered Design - Florida Tech [read more](https://www.fit.edu/programs/human-centered-design-ms/)
 From the systems engineer to the cognitive scientist, human-centered design graduates find themselves in the heart of the design process in an industrial design career, creating new technologies in such careers as designing advanced cockpits, control rooms, educational tools, simulators and new living environments, to name a few.
 
 ---

@@ -7,7 +7,7 @@ cover: logo.png
 category: "Canada"
 ---
 
-# MSc in Interactive Arts and Technology (SIAT)  [🔗](https://www.sfu.ca/siat.html)
+# MSc in Interactive Arts and Technology (SIAT)  [read more](https://www.sfu.ca/siat.html)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xVD2gjPwCAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About MSc in Interactive Arts and Technology (SIAT) Simon Fraser
@@ -23,7 +23,7 @@ category: "Canada"
 
 ---
 
-## Entry Requirements for MSc in Interactive Arts and Technology (SIAT) Simon Fraser  [🔗](https://www.sfu.ca/content/dam/sfu/siat/Graduate/Forms/SIAT_Graduate_Application_Document_Checklist.pdf)
+## Entry Requirements for MSc in Interactive Arts and Technology (SIAT) Simon Fraser  [read more](https://www.sfu.ca/content/dam/sfu/siat/Graduate/Forms/SIAT_Graduate_Application_Document_Checklist.pdf)
 
 |   |   |
 |---|---|
@@ -47,7 +47,7 @@ Read [here](http://www.sfu.ca/olc/blog/csi-blog/how-write-your-way-grad-school)
 ---
 
 
-## Cost of attendence for MSc in Interactive Arts and Technology (SIAT) Simon Fraser [🔗](https://www.sfu.ca/gradstudies/apply/tuition-and-fees/tuition-types.html)
+## Cost of attendence for MSc in Interactive Arts and Technology (SIAT) Simon Fraser [read more](https://www.sfu.ca/gradstudies/apply/tuition-and-fees/tuition-types.html)
 |   |   |
 |---|---|
 | Cost (per term) (in-state)      | **$1,946.94**          |
@@ -58,7 +58,7 @@ Read [here](http://www.sfu.ca/olc/blog/csi-blog/how-write-your-way-grad-school)
 
 ## What's special about MSc in Interactive Arts and Technology (SIAT) Simon Fraser?
 
-### Research Themes [🔗](https://www.sfu.ca/siat/research/themes.html)
+### Research Themes [read more](https://www.sfu.ca/siat/research/themes.html)
 Research by faculty and students at SIAT is notable for its interdisciplinary focus on applied and use-inspired research, as well as collaboration with other researchers and external partners.  We are boundary crossers, developing new research approaches and methodologies to explore the possibilities created by the design of technology for humans.
 
 
@@ -80,7 +80,7 @@ mentorship in interdisciplinary research methods and various forms of disseminat
 
 ---
 
-## Faculty at MSc in Interactive Arts and Technology (SIAT) Simon Fraser [🔗](https://www.sfu.ca/siat/people/research-faculty.html) 
+## Faculty at MSc in Interactive Arts and Technology (SIAT) Simon Fraser [read more](https://www.sfu.ca/siat/people/research-faculty.html) 
 Research faculty are engaged in research, and also teach and supervise undergraduate and graduate students.
 ![research_stats](research_stats.png)
 
@@ -88,7 +88,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Research Areas at MSc in Interactive Arts and Technology (SIAT) Simon Fraser [🔗](https://www.sfu.ca/siat/research/themes.html)
+## Research Areas at MSc in Interactive Arts and Technology (SIAT) Simon Fraser [read more](https://www.sfu.ca/siat/research/themes.html)
 * Interactive Computing
 * Media
 * Design
@@ -98,7 +98,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 ---
 
 
-## Careers after MSc in Interactive Arts and Technology (SIAT) Simon Fraser [🔗](https://www.sfu.ca/career/WCID/fcat/SIAT.html)
+## Careers after MSc in Interactive Arts and Technology (SIAT) Simon Fraser [read more](https://www.sfu.ca/career/WCID/fcat/SIAT.html)
 If you want to study the future with other technologists, artists and designers, then you will be interested in this program. Study team management and human relations while building technical skills.
 
 ### Job Titles

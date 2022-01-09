@@ -7,7 +7,7 @@ cover: logo.jpg
 category: "US"
 ---
 
-# Master of Interaction Design [🔗](https://www.cca.edu/design/interaction-design/)
+# Master of Interaction Design [read more](https://www.cca.edu/design/interaction-design/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNC08N0E6A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Interaction Design - California College of the Arts (CCA)
@@ -70,18 +70,18 @@ Read [here](https://www.cca.edu/admissions/financial-aid/#section-contact)
 
 ## What's special about Master of Interaction Design - California College of the Arts (CCA)?
 
-### Social Lab [🔗](https://medium.com/social-lab/about)
+### Social Lab [read more](https://medium.com/social-lab/about)
 Faculty and research scientists in the department of Human Centered Design & Engineering run directed research groups, which offer students a wide range of opportunities to do hands-on work, from conducting usability tests for local companies all the way to collecting data on communication issues internationally.
 
-### Hybrid Lab [🔗](https://portal.cca.edu/learning/shops/hybrid-lab/)
+### Hybrid Lab [read more](https://portal.cca.edu/learning/shops/hybrid-lab/)
 CCA's Hybrid Lab is a shared interdisciplinary space for making with innovative technology that is built around the principles of being open, fast, and inspiring. Students have access to sensors, motors, and other digital fabrication materials.
 
 
-### SF VR LAB [🔗](https://portal.cca.edu/learning/shops/sf-computer-labs/sf-vr-lab/)
+### SF VR LAB [read more](https://portal.cca.edu/learning/shops/sf-computer-labs/sf-vr-lab/)
 This high-end computer lab is available to all CCA students and faculty, dedicated for Virtual Reality intensive work.
 
 
-### Rapid Prototyping Studio [🔗](https://portal.cca.edu/learning/shops/rps/)
+### Rapid Prototyping Studio [read more](https://portal.cca.edu/learning/shops/rps/)
 The Rapid Prototyping Studio is a prototyping and fabrication space enabled by computerized machinery. Tools include CNC Laser Cutters/Engravers, a Vinyl Cutter, and CNC Routers.
 
 ---
@@ -94,7 +94,7 @@ The Rapid Prototyping Studio is a prototyping and fabrication space enabled by c
 
 ---
 
-## Faculty at Master of Interaction Design - California College of the Arts (CCA) [🔗](https://portal.cca.edu/people/?usertype_filter[0]=Faculty&faculty_program_filter[0]=Graduate%20Interaction%20Design%20Program) 
+## Faculty at Master of Interaction Design - California College of the Arts (CCA) [read more](https://portal.cca.edu/people/?usertype_filter[0]=Faculty&faculty_program_filter[0]=Graduate%20Interaction%20Design%20Program) 
 All our professors practice with designers who have extensive industry connections. They work for Apple, Microsoft, Facebook, Google, IDEO, and many design consulting companies in the Bay Area and other regions. His expertise in user experience design, user interface, interactive media, game and service design, etc. will help shape our key curriculum for future design leaders.
 
 ---
@@ -118,7 +118,7 @@ All our professors practice with designers who have extensive industry connectio
 ---
 
 
-## Careers after Master of Interaction Design - California College of the Arts (CCA) [🔗](https://www.cca.edu/admissions/career-development/)
+## Careers after Master of Interaction Design - California College of the Arts (CCA) [read more](https://www.cca.edu/admissions/career-development/)
 Our students' talents in human-centered creative design prepare them for success in a variety of careers. Practical experience in the social laboratory provides them with the practical skills needed to apply design to social impact. Our students develop augmented reality. The surgeon interface, the development of semi-automatic electric vehicles, and the creation of applications enable people everywhere to overcome obsessions by influencing elegant, ethical and sustainable design practices
 
 ### Job Titles

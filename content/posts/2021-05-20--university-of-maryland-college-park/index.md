@@ -7,7 +7,7 @@ cover: logo.jpg
 category: "US"
 ---
 
-# Master of Human Computer Interaction (HCIM) [🔗](https://ischool.umd.edu/)
+# Master of Human Computer Interaction (HCIM) [read more](https://ischool.umd.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UPXV6sHERdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -45,7 +45,7 @@ category: "US"
 **English proficiency can be shown in many ways, click [here](https://gradschool.umd.edu/admissions/english-language-proficiency-requirements) for more information
 
 
-### Personal Statement Prompt [🔗](https://app.applyyourself.com/_fileroot/clnt-1072/umdstatementofpurpose.pdf)
+### Personal Statement Prompt [read more](https://app.applyyourself.com/_fileroot/clnt-1072/umdstatementofpurpose.pdf)
 * What are your reasons for undertaking graduate study at the University of Maryland, College Park? Indicate, if appropriate any specific areas of research
 interest. You may wish to discuss past work in your intended field or allied fields, your plans for a professional career, or how you developed your interest
 in or knowledge of your chosen subject.
@@ -63,7 +63,7 @@ Get it [here](https://ischool.umd.edu/academics/handbooks-policies-graduate)
 
 ---
 
-## Cost of Attendence for Master of Master of Human Computer Interaction (HCIM) - University of Maryland [🔗](https://ischool.umd.edu/academics/tuition-fees-graduate)
+## Cost of Attendence for Master of Master of Human Computer Interaction (HCIM) - University of Maryland [read more](https://ischool.umd.edu/academics/tuition-fees-graduate)
 |   |   |
 |---|---|
 | Cost (per Credit) (in-state)      | **$871.83**          |
@@ -76,23 +76,23 @@ Get it [here](https://ischool.umd.edu/academics/handbooks-policies-graduate)
 ## What's special about Master of Master of Human Computer Interaction (HCIM) - University of Maryland
 
 
-### The Human-Computer Interaction Lab (HCIL) [🔗](https://ischool.umd.edu/research/centers-and-labs/hcil)
+### The Human-Computer Interaction Lab (HCIL) [read more](https://ischool.umd.edu/research/centers-and-labs/hcil)
 The Human-Computer Interaction Lab has a long, rich history of transforming the experience people have with new technologies. From understanding user needs to developing and evaluating those technologies, the lab’s faculty, staff, and students have been leading the way in HCI research and teaching.
 
 
-### Center for Advanced Study of Communities and Information (CASCI) [🔗](https://ischool.umd.edu/research/centers-and-labs/casci)
+### Center for Advanced Study of Communities and Information (CASCI) [read more](https://ischool.umd.edu/research/centers-and-labs/casci)
 The Center for the Advanced Study of Communities and Information (CASCI) is a multidisciplinary research network, based at the University of Maryland. CASCI exists to facilitate research and education that advances our understanding of the technology, information, and organization approaches needed to realize the potential of 21st century communities to support learning, facilitate innovation, transform science and scholarship, promote economic development, and enhance individual and civic well-being.
 
-### Trace Research & Development Center [🔗](https://ischool.umd.edu/research/centers-and-labs/trace)
+### Trace Research & Development Center [read more](https://ischool.umd.edu/research/centers-and-labs/trace)
 Our mission is to capitalize on the potential that technologies hold for people experiencing barriers due to disability, aging, or digital literacy, and to prevent emerging technologies from creating new barriers for these individuals. In doing this, we bring together disciplines such as information science, computer science, engineering, disability studies, law, and public policy. We engage in research, development, tech transfer, education, policy, and advocacy. 
 
-### Interest Groups [🔗](https://ischool.umd.edu/interest-groups)
+### Interest Groups [read more](https://ischool.umd.edu/interest-groups)
 UMD iSchool Interest Groups & Lecture Series
 
-### iConsultancy Experiential Learning Program [🔗](https://ischool.umd.edu/iconsultancy)
+### iConsultancy Experiential Learning Program [read more](https://ischool.umd.edu/iconsultancy)
 To design and execute technology-based experiential learning projects.  From analytics to database design to user experience, we tackle these information challenges with our talented students and expert faculty to provide real-world experiences and a product you can use.
 
-### UXTerps [🔗](https://www.linkedin.com/company/uxterps/)
+### UXTerps [read more](https://www.linkedin.com/company/uxterps/)
 UXTerps aims to help students develop and strengthen the required skills to become competent UX practitioners! With the support of our advisors, UXTerps brings together a diverse design community comprised of University of Maryland students from all backgrounds and courses of study who share a passion for user experience (UX). Our mission is to support the out-of-class learning of user experience design and research and to provide peer mentorship to any students interested in UX-related fields. UXTerps is a space for students to share ideas, present projects, and learn from one another through student-led workshops.
 
 ---
@@ -105,7 +105,7 @@ UXTerps aims to help students develop and strengthen the required skills to beco
 
 ---
 
-## Faculty at Master of Master of Human Computer Interaction (HCIM) - University of Maryland [🔗](https://ischool.umd.edu/about/directory) 
+## Faculty at Master of Master of Human Computer Interaction (HCIM) - University of Maryland [read more](https://ischool.umd.edu/about/directory) 
 Faculty in the department of Human Computer Interaction at the University of Maryland in College Park collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -113,7 +113,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Research Areas at Master of Master of Human Computer Interaction (HCIM) - University of Maryland [🔗](https://hcil.umd.edu/research-areas/)
+## Research Areas at Master of Master of Human Computer Interaction (HCIM) - University of Maryland [read more](https://hcil.umd.edu/research-areas/)
 * Accessibility
 * Children as Design Partners
 * Computational Journalism
@@ -132,7 +132,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Careers after Master of Master of Human Computer Interaction (HCIM) - University of Maryland [🔗](https://ischool.umd.edu/academics/master-of-science-in-human-computer-interaction/faq)
+## Careers after Master of Master of Human Computer Interaction (HCIM) - University of Maryland [read more](https://ischool.umd.edu/academics/master-of-science-in-human-computer-interaction/faq)
 Graduates from the University of Maryland's department of Human Computer Interaction find careers as designers and researchers who improve people's interactions with technology and the world around them.
 
 ### Companies

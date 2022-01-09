@@ -7,7 +7,7 @@ cover: logo.jpeg
 category: "UK"
 ---
 
-# User Experience Design MSc [🔗](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experience-design-msc/)
+# User Experience Design MSc [read more](https://www.lboro.ac.uk/study/postgraduate/masters-degrees/a-z/user-experience-design-msc/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xRuPfwhjJhE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About User Experience Design MSc - Loughborough University
@@ -24,7 +24,7 @@ category: "UK"
 
 ---
 
-## Entry Requirements for User Experience Design MSc - Loughborough University [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
+## Entry Requirements for User Experience Design MSc - Loughborough University [read more](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -75,7 +75,7 @@ Why you should study this degree
 
 ---
 
-## Faculty at User Experience Design MSc - Loughborough University [🔗](https://www.lboro.ac.uk/departments/design-school/staff/)
+## Faculty at User Experience Design MSc - Loughborough University [read more](https://www.lboro.ac.uk/departments/design-school/staff/)
 Cees de Bont is the Dean of Loughborough Design School.
 ![research_stats](research_stats.png)
 

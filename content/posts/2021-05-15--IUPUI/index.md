@@ -7,7 +7,7 @@ cover: logo.png
 category: "US"
 ---
 
-# Master of Human Computer Interaction (HCI) [🔗](https://soic.iupui.edu/hcc/graduate/hci/masters/)
+# Master of Human Computer Interaction (HCI) [read more](https://soic.iupui.edu/hcc/graduate/hci/masters/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvsY5_NjqJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Human Computer Interaction (HCI) - IUPUI
@@ -69,13 +69,13 @@ Read more [here](www.indiana.edu/~wts/pamphlets.shtml)
 
 ## What's special about Master of Human Computer Interaction (HCI) - IUPUI?
 
-### BALM Lab [🔗](https://balm.soic.iupui.edu/index.php)
+### BALM Lab [read more](https://balm.soic.iupui.edu/index.php)
 The BALM Lab at IUPUI is dedicated to improving accessibility of the physical, digital, and social world. You can learn more about our ongoing projects, the members of our team, and current studies on this website.
 
-### Convergent Media & Exploratory Technology Lab [🔗](https://comet.soic.iupui.edu/)
+### Convergent Media & Exploratory Technology Lab [read more](https://comet.soic.iupui.edu/)
 The COnvergent Media and Exploratory Technologies (COMET) Lab is an applied research laboratory in the Department of Human-Centered Computing, School of Informatics and Computing IUPUI where faculty and students work together to deliver web, mobile and interactive media solutions for projects submitted by units from the IUPUI campus, external organizations and the community at large.  
 
-### USER (User Simulation and Experience Research) Lab [🔗](https://soic.iupui.edu/people/davide-bolchini/)
+### USER (User Simulation and Experience Research) Lab [read more](https://soic.iupui.edu/people/davide-bolchini/)
 An incubator for user experience research.
 
 ---
@@ -88,7 +88,7 @@ An incubator for user experience research.
 
 ---
 
-## Faculty at Master of Human Computer Interaction (HCI) - IUPUI [🔗](https://soic.iupui.edu/hcc/graduate/hci/masters/) 
+## Faculty at Master of Human Computer Interaction (HCI) - IUPUI [read more](https://soic.iupui.edu/hcc/graduate/hci/masters/) 
 Faculty in the department of Human Computer Interaction at IUPUI collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -108,7 +108,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Careers after Master of Human Computer Interaction (HCI) - IUPUI [🔗](https://soic.iupui.edu/careers/)
+## Careers after Master of Human Computer Interaction (HCI) - IUPUI [read more](https://soic.iupui.edu/careers/)
 Graduates from the IUPUI's department of Human Computer Interactionfind careers as designers and researchers who improve people's interactions with technology and the world around them.
 
 ### Job Titles

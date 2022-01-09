@@ -7,7 +7,7 @@ category: "US"
 cover: logo.png
 ---
 
-# Master of Science in Engineering Design Innovation (EDI) [🔗](https://design.northwestern.edu/engineering-design-innovation/)
+# Master of Science in Engineering Design Innovation (EDI) [read more](https://design.northwestern.edu/engineering-design-innovation/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dzXMvcBBcho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -70,14 +70,14 @@ Please respond to two of the four prompts below.
 
 ## What's special about MSc in Engineering Design Innovation (EDI) - Northwestern University?
 
-### Design Bootcamp [🔗](https://design.northwestern.edu/engineering-design-innovation/projects/design-boot-camp.html)
+### Design Bootcamp [read more](https://design.northwestern.edu/engineering-design-innovation/projects/design-boot-camp.html)
 First-year EDI students attend Design Boot Camp, a pre-term orientation workshop designed to familiarize new students with the people, resources, tools, and activities that will define the EDI Experience while helping them build relationships with EDI faculty members, staff, and peers. 
 
-### EDI Impact [🔗](https://design.northwestern.edu/engineering-design-innovation/edi-impact/)
+### EDI Impact [read more](https://design.northwestern.edu/engineering-design-innovation/edi-impact/)
 Explore five industry sectors where EDI alumni are driving innovation. We have mapped out relevant electives and extracurricular activities for each sector, plus we have collected advice from EDI alumni to help guide your journey. TECH, DESIGN CONSULTING, HEALTHCARE, SOCIAL IMPACT, CONSUMER PACKAGED GOODS
 
 
-### Studio Culture [🔗](https://design.northwestern.edu/engineering-design-innovation/edi-experience/studio-culture.html)
+### Studio Culture [read more](https://design.northwestern.edu/engineering-design-innovation/edi-experience/studio-culture.html)
 A dynamic and highly-engaged studio culture is central to how EDI students learn and live during the program. What we define as studio culture includes our learning spaces, how our courses are structured, and the relationships fostered during the program. 
 
 ---
@@ -89,7 +89,7 @@ A dynamic and highly-engaged studio culture is central to how EDI students learn
 | Top UX School      | **#30**      | topuxschool.com|
 ---
 
-## Faculty at MSc in Engineering Design Innovation (EDI) - Northwestern University [🔗](https://design.northwestern.edu/engineering-design-innovation/people/faculty.html) 
+## Faculty at MSc in Engineering Design Innovation (EDI) - Northwestern University [read more](https://design.northwestern.edu/engineering-design-innovation/people/faculty.html) 
 Faculty in the department of EDI at the Northwestern University collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -98,15 +98,15 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 ---
 
 ## Research Areas at MSc in Engineering Design Innovation (EDI) - Northwestern University
-* Tech [🔗](https://design.northwestern.edu/engineering-design-innovation/edi-impact/tech/)
-* Design Consulting [🔗](https://design.northwestern.edu/engineering-design-innovation/edi-impact/design-consulting/)
-* Healthcare [🔗](https://design.northwestern.edu/engineering-design-innovation/edi-impact/healthcare/)
-* Social Impact [🔗](https://design.northwestern.edu/engineering-design-innovation/edi-impact/social-impact/)
-* Consumer Packaged Goods [🔗](https://design.northwestern.edu/engineering-design-innovation/edi-impact/cpg/)
+* Tech [read more](https://design.northwestern.edu/engineering-design-innovation/edi-impact/tech/)
+* Design Consulting [read more](https://design.northwestern.edu/engineering-design-innovation/edi-impact/design-consulting/)
+* Healthcare [read more](https://design.northwestern.edu/engineering-design-innovation/edi-impact/healthcare/)
+* Social Impact [read more](https://design.northwestern.edu/engineering-design-innovation/edi-impact/social-impact/)
+* Consumer Packaged Goods [read more](https://design.northwestern.edu/engineering-design-innovation/edi-impact/cpg/)
 
 ---
 
-## Careers after MSc in Engineering Design Innovation (EDI) - Northwestern University [🔗](https://design.northwestern.edu/engineering-design-innovation/people/featured-alumni.html)
+## Careers after MSc in Engineering Design Innovation (EDI) - Northwestern University [read more](https://design.northwestern.edu/engineering-design-innovation/people/featured-alumni.html)
 Featured Alumni
 
 ### Job Titles

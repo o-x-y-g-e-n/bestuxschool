@@ -7,7 +7,7 @@ cover: logo.png
 category: "UK"
 ---
 
-# Human-Computer Interaction MSc [🔗](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/human-computer-interaction-msc)
+# Human-Computer Interaction MSc [read more](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/human-computer-interaction-msc)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nc_vRPg_Puo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Human-Computer Interaction (HCI) MSc - University College London
@@ -25,7 +25,7 @@ category: "UK"
 
 ---
 
-## Entry Requirements for Human-Computer Interaction (HCI) MSc - University College London [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
+## Entry Requirements for Human-Computer Interaction (HCI) MSc - University College London [read more](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -72,7 +72,7 @@ The MSc research project allows students to undertake cutting-edge research in h
 ---
 
 
-## Faculty at Human-Computer Interaction (HCI) MSc - University College London [🔗](https://uclic.ucl.ac.uk/people)
+## Faculty at Human-Computer Interaction (HCI) MSc - University College London [read more](https://uclic.ucl.ac.uk/people)
 UCLIC is a world leading Centre of Excellence in Human-Computer Interaction teaching and research, studying interactions between people and technology, drawing on the best scientific traditions in Computer Science and Human Sciences, and working collaboratively with the research community and industry. It is directed by Professor Yvonne Rogers and is housed jointly between the Department of Computer Science and the Division of Psychology and Language Sciences. During the last two years it has grown to over 40 interdisciplinary researchers (12 faculty staff, 6 post docs, 30 PhD students), working in a diversity of areas including ubiquitous computing, pervasive healthcare, behavioural change, in-the-wild studies, task performance, adaptive interfaces, design practice, affect and emotion, and new interaction techniques.
 ![research_stats](research_stats.png)
 
@@ -82,9 +82,9 @@ Visit [CSRankings](http://csrankings.org/#/index?all&uk) for more stats
 
 
 ## Research Areas at Human-Computer Interaction (HCI) MSc - University College London
-* Affective Computing [🔗](https://uclic.ucl.ac.uk/research/affective-computing)
-* Health and well being [🔗](https://uclic.ucl.ac.uk/research/health-and-well-being)
-* Collaboration & Communication [🔗](https://uclic.ucl.ac.uk/research/collaboration-and-communication)
+* Affective Computing [read more](https://uclic.ucl.ac.uk/research/affective-computing)
+* Health and well being [read more](https://uclic.ucl.ac.uk/research/health-and-well-being)
+* Collaboration & Communication [read more](https://uclic.ucl.ac.uk/research/collaboration-and-communication)
 
 and many more [here](https://uclic.ucl.ac.uk/research) 
 
@@ -92,7 +92,7 @@ and many more [here](https://uclic.ucl.ac.uk/research)
 ---
 
 
-## Careers after Human-Computer Interaction (HCI) MSc - University College London [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
+## Careers after Human-Computer Interaction (HCI) MSc - University College London [read more](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
 Our graduates are employed by technology multinationals, start-ups, government agencies, consultancies and in academia. They take up roles such as User Experience (UX) Researchers, Interaction Designers, Usability Specialists and Information Architects. Many progress to senior roles within a few years of graduation. This degree is highly regarded by our colleagues in industry. Along with developing HCI research skills, the programme allows students to demonstrate skills in presenting, writing and collaboration that are valued by employers. We have a large network of alumni working in London and across the world. Many of them are involved with our industry speaker series and careers events, and they regularly send opportunities to our jobs mailing list for recent graduates.
 
 ---

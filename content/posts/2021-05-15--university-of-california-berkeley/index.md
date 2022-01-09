@@ -6,7 +6,7 @@ description: Learn everything about pursuing Master of Information Management an
 cover: logo.png
 category: "US"
 ---
-# Master of Information Management and Systems (MIMS) [🔗](https://www.ischool.berkeley.edu/programs/mims)
+# Master of Information Management and Systems (MIMS) [read more](https://www.ischool.berkeley.edu/programs/mims)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vVrbEP4rsHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Information Management and Systems (MIMS) - UC Berkeley
@@ -87,7 +87,7 @@ The Short Answer Essay should answer the following question in `300 words or les
 
 ## What's special about Master of Information Management and Systems (MIMS) - UC Berkeley?
 
-### MIMS Learning Paths [🔗](https://www.ischool.berkeley.edu/programs/mims/paths)
+### MIMS Learning Paths [read more](https://www.ischool.berkeley.edu/programs/mims/paths)
 * Human-Computer Interaction and User Experience Design
 * Applied Data Science and Machine Learning
 * Information Policy and Ethical Technology
@@ -99,20 +99,20 @@ The Short Answer Essay should answer the following question in `300 words or les
 * Algorithmic fairness
 * Biosensing
 
-### HCI Research [🔗](https://hci.berkeley.edu/)
+### HCI Research [read more](https://hci.berkeley.edu/)
 UC Berkeley has top class HCI Research Faculties.
 
 
-### Berkeley Institute of Design [🔗](http://bid.berkeley.edu/)
+### Berkeley Institute of Design [read more](http://bid.berkeley.edu/)
 The Berkeley Institute of Design (BiD) is a research group that fosters a deeply interdisciplinary approach to design for the 21st century, spanning human-computer interaction, mechanical design, education, architecture and art practice.
 
-### Hybrid Ecologies Lab [🔗](http://www.hybrid-ecologies.org/)
+### Hybrid Ecologies Lab [read more](http://www.hybrid-ecologies.org/)
 The Hybrid Ecologies Lab (H•E•L) explores scientific research, design, and art through the innovation, development, deployment, and evaluation of novel physical devices and interactive systems that advance our computing culture, encourage broad participation by non-experts within science and engineering, improve human health and well-being, and provoke critical debate and inquiry concerning our existing and emerging technological society.
 
-### Berkeley Center for New Media [🔗](http://bcnm.berkeley.edu/)
+### Berkeley Center for New Media [read more](http://bcnm.berkeley.edu/)
 The Berkeley Center for New Media is a research, teaching, and public events program at UC Berkeley.
 
-### The Center for Information Technology Research in the Interest of Society (CITRIS) [🔗](https://citris-uc.org/)
+### The Center for Information Technology Research in the Interest of Society (CITRIS) [read more](https://citris-uc.org/)
 CITRIS and the Banatao Institute is a University of California research center focused on creating IT solutions that generate social and economic benefits for everyone.
 
 
@@ -128,31 +128,31 @@ CITRIS and the Banatao Institute is a University of California research center f
 
 ---
 
-## Faculty at Master of Information Management and Systems (MIMS) - UC Berkeley [🔗](https://www.ischool.berkeley.edu/people?role=122&faculty_type=72) 
+## Faculty at Master of Information Management and Systems (MIMS) - UC Berkeley [read more](https://www.ischool.berkeley.edu/people?role=122&faculty_type=72) 
 Faculty in the department of Information at the UC Berkeley in California collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
 Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats*
 
 ---
-## Research Areas at Master of Information Management and Systems (MIMS) - UC Berkeley [🔗](https://www.ischool.berkeley.edu/research/areas)
-* Computer-mediated Communication[🔗](https://www.ischool.berkeley.edu/research/cmc)
-* Design [🔗](https://www.ischool.berkeley.edu/research/design)
-* Entrepreneurship [🔗](https://www.ischool.berkeley.edu/research/entrepreneurship)
-* Human Computer Interaction [🔗](https://www.ischool.berkeley.edu/research/hci)
-* Information Economics [🔗](https://www.ischool.berkeley.edu/research/infoecon)
-* Information Organization [🔗](https://www.ischool.berkeley.edu/research/infoorganization)
-* Information Policy [🔗](https://www.ischool.berkeley.edu/research/infopolicy)
-* Information Retrieval & Search [🔗](https://www.ischool.berkeley.edu/research/search)
+## Research Areas at Master of Information Management and Systems (MIMS) - UC Berkeley [read more](https://www.ischool.berkeley.edu/research/areas)
+* Computer-mediated Communication[read more](https://www.ischool.berkeley.edu/research/cmc)
+* Design [read more](https://www.ischool.berkeley.edu/research/design)
+* Entrepreneurship [read more](https://www.ischool.berkeley.edu/research/entrepreneurship)
+* Human Computer Interaction [read more](https://www.ischool.berkeley.edu/research/hci)
+* Information Economics [read more](https://www.ischool.berkeley.edu/research/infoecon)
+* Information Organization [read more](https://www.ischool.berkeley.edu/research/infoorganization)
+* Information Policy [read more](https://www.ischool.berkeley.edu/research/infopolicy)
+* Information Retrieval & Search [read more](https://www.ischool.berkeley.edu/research/search)
 infoorganization)
-* Information Visualization [🔗](https://www.ischool.berkeley.edu/research/infoviz)
-* Social & Cultural Studies [🔗](https://www.ischool.berkeley.edu/research/social)
+* Information Visualization [read more](https://www.ischool.berkeley.edu/research/infoviz)
+* Social & Cultural Studies [read more](https://www.ischool.berkeley.edu/research/social)
 
 
 ---
 
 
-## Careers after Master of Information Management and Systems (MIMS) - UC Berkeley [🔗](https://www.ischool.berkeley.edu/programs/mims/careers)
+## Careers after Master of Information Management and Systems (MIMS) - UC Berkeley [read more](https://www.ischool.berkeley.edu/programs/mims/careers)
 MIMS graduates can be found in a wide range of jobs and industries at the intersection of technology, people, and information.
 [Career Report 2018](https://www.ischool.berkeley.edu/sites/default/files/mims_career_report_2018.pdf)
 

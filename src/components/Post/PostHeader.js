@@ -1,7 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
 import injectSheet from "react-jss";
-
+import { IconButton } from "@material-ui/core";
+import Link from "gatsby-link";
+import KeyboardDoubleArrowLeftIcon from "@material-ui/icons/KeyboardArrowLeft";
 const styles = theme => ({
   header: {
     margin: "0 0 3em"
@@ -55,6 +57,12 @@ const PostHeader = props => {
 
   return (
     <header className={classes.header}>
+      <Link to="/">
+        <div style={{ letterSpacing: "2px", marginBottom: "4px", display: "flex" }}>
+          <KeyboardDoubleArrowLeftIcon />
+          back to the main page
+        </div>
+      </Link>
       <h1 className={classes.title}>{title}</h1>
       <h2 className={classes.subTitle}>{subTitle}</h2>
       <div className={classes.meta}>

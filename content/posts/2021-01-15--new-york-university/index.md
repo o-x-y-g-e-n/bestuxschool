@@ -7,7 +7,7 @@ cover: logo.jpg
 category: "US"
 ---
 
-# ITP MPS Graduate Program [🔗](https://tisch.nyu.edu/itp/admissions/itp-mps)
+# ITP MPS Graduate Program [read more](https://tisch.nyu.edu/itp/admissions/itp-mps)
 ![nyu](nyu.jpg)
 
 ## About ITP MPS Graduate Program - New York University
@@ -62,7 +62,7 @@ We ask for a personal statement because we want to get a sense of who you are in
 ### ITP Graduate Courses
 Read [here](https://tisch.nyu.edu/itp/courses/itp-courses)
 
-### Diversity, Equity & Inclusion [🔗](https://tisch.nyu.edu/diversity.html)
+### Diversity, Equity & Inclusion [read more](https://tisch.nyu.edu/diversity.html)
 While we have always strived for a community upheld by these values, recent conversations with a dedicated group of students, faculty, staff, alumni, and school leaders prove that we have a long way to go. We must do more than witness and stand in solidarity. We must commit to honest and difficult conversations about the structures and practices in our school that support and sustain inequities, and collectively work to dismantle racism by aligning our practices and resources to the values we celebrate: equity and racial justice.
 
 ## ITP MPS Graduate Program - New York University Course Ranking
@@ -73,7 +73,7 @@ While we have always strived for a community upheld by these values, recent conv
 
 ---
 
-## Faculty at ITP MPS Graduate Program - New York University [🔗](https://tisch.nyu.edu/itp/itp-people/faculty) 
+## Faculty at ITP MPS Graduate Program - New York University [read more](https://tisch.nyu.edu/itp/itp-people/faculty) 
 ITP has over 100 adjunct professors who teach at ITP on a rotating basis. You can find bios at the ITP People Directory.
 ![research_stats](research_stats.png)
 
@@ -83,7 +83,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 ## Research Areas at ITP MPS Graduate Program - New York University
 Learn about everything they do [here](https://itp.nyu.edu/ranch/projects/) 
 
-## Careers after ITP MPS Graduate Program - New York University [🔗](https://itp.nyu.edu/ima/curriculum/life-after-ima/)
+## Careers after ITP MPS Graduate Program - New York University [read more](https://itp.nyu.edu/ima/curriculum/life-after-ima/)
 Graduates from the NYU's department of MPS find careers as designers and researchers who improve people's interactions with technology and the world around them.
 
 ### Job Titles

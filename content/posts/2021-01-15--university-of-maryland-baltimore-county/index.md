@@ -7,7 +7,7 @@ category: "US"
 cover: UMBC-logo.png
 ---
 
-# Master of Science in Human-Centered Computing (HCC)[🔗](https://informationsystems.umbc.edu/home/graduate-programs/master-of-science-programs/master-of-science-in-human-centered-computing-hcc/)
+# Master of Science in Human-Centered Computing (HCC)[read more](https://informationsystems.umbc.edu/home/graduate-programs/master-of-science-programs/master-of-science-in-human-centered-computing-hcc/)
 ![washington](cover.jpg)
 
 ## About Master of Science in Human-Centered Computing (HCC) - UMBC
@@ -58,10 +58,10 @@ Read the guide [here](https://careers.umbc.edu/students/gradschool/personal-stat
 
 ## What's special about Master of Science in Human-Centered Computing (HCC) - UMBC?
 
-### Multiple Tracks [🔗](https://informationsystems.umbc.edu/home/graduate-programs/master-of-science-programs/master-of-science-in-human-centered-computing-hcc/)
+### Multiple Tracks [read more](https://informationsystems.umbc.edu/home/graduate-programs/master-of-science-programs/master-of-science-in-human-centered-computing-hcc/)
 The MS program in HCC is an interdisciplinary program that has been training HCC practitioners and researchers since 2007. The program has two tracks: a Practitioner Track for those who wish to become user experience, information architecture, or usability professionals and a Research Track for those who are interested in pursuing a Master’s Thesis and possibly apply to a PhD program. Graduates from our program have moved on to be UX directors in both government and industrial positions, and graduates from the research track have joined top HCC PhD research programs.
 
-### ISRC Research [🔗](https://isrc.umbc.edu/)
+### ISRC Research [read more](https://isrc.umbc.edu/)
 The Interactive Systems Research Center (ISRC) acts as a bridge for faculty across the UMBC campus with expertise in designing, building, or studying uses of interactive computing systems. It facilitates the sharing of resources and experience in solving computing problems from a user-centered perspective grounded in user needs and not in simply applying previously designed solutions to new domains.
 
 ---
@@ -74,7 +74,7 @@ The Interactive Systems Research Center (ISRC) acts as a bridge for faculty acro
 
 ---
 
-## Faculty at Master of Science in Human-Centered Computing (HCC) - UMBC [🔗](https://hcc.umbc.edu/people/faculty/)
+## Faculty at Master of Science in Human-Centered Computing (HCC) - UMBC [read more](https://hcc.umbc.edu/people/faculty/)
 Faculty in the department of HCC at UMBC collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -85,7 +85,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 ## Research Areas at Master of Science in Human-Centered Computing (HCC) - UMBC
 
 
-### Interactive Systems Research Center (ISRC) [🔗](https://isrc.umbc.edu/)
+### Interactive Systems Research Center (ISRC) [read more](https://isrc.umbc.edu/)
 The Interactive Systems Research Center (ISRC) acts as a bridge for faculty across the UMBC campus with expertise in designing, building, or studying uses of interactive computing systems. It facilitates the sharing of resources and experience in solving computing problems from a user-centered perspective grounded in user needs and not in simply applying previously designed solutions to new domains.
 
 ---

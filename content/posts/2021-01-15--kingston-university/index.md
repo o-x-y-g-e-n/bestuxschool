@@ -7,7 +7,7 @@ cover: logo.png
 category: "UK"
 ---
 
-# User Experience Design MSc [🔗](https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/)
+# User Experience Design MSc [read more](https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0A_GjZ6YKmM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About User Experience Design Msc Kingston University
@@ -24,7 +24,7 @@ category: "UK"
 
 ---
 
-## Entry Requirements for User Experience Design Msc Kingston University [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
+## Entry Requirements for User Experience Design Msc Kingston University [read more](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
 |   |   |
 |---|---|
 | GRE | ❌ |
@@ -44,7 +44,7 @@ Click [here](https://www.kingston.ac.uk/undergraduate/courses/how-to-apply/perso
 
 ---
 
-## Scholorship & Funding [🔗](https://www.kingston.ac.uk/international/scholarships-and-fees/scholarships/)
+## Scholorship & Funding [read more](https://www.kingston.ac.uk/international/scholarships-and-fees/scholarships/)
 A variety of scholarships and bursaries are available to overseas students. 
 
 ---
@@ -76,7 +76,7 @@ This programme will give you the following opportunities:
 
 ---
 
-## Faculty at User Experience Design Msc Kingston University [🔗](https://uclic.ucl.ac.uk/people)
+## Faculty at User Experience Design Msc Kingston University [read more](https://uclic.ucl.ac.uk/people)
 Digital Media Kingston (DMK) is an interdisciplinary, collaborative project between the School of Computer Science and Mathematics, and School of Design at Kingston University. Its mission is to bring together creative expression, theoretical analysis, scientific rigour and technological innovation to underpin innovation and excellence in the computational arts.
 * [Dr. kiruthika jayaramakrishnan (Jay)](https://www.kingston.ac.uk/staff/profile/dr-kiruthika-jayaramakrishnan-jay-1056/)
 
@@ -88,7 +88,7 @@ Digital Media Kingston (DMK) is an interdisciplinary, collaborative project betw
 ---
 
 
-## Careers after User Experience Design Msc Kingston University [🔗](https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/)
+## Careers after User Experience Design Msc Kingston University [read more](https://www.kingston.ac.uk/postgraduate/courses/user-experience-design-msc/)
 Graduates of this course now work in roles such as user experience designer, user experience researcher, product owner, usability consultant, interaction designer, and information architect and content strategist.
 
 Some work in-house, at companies such as John Lewis, Aviva, IBM, E-Bay, BSkyB, RAC, Thomas Cook, BBC) in UK and around the world at Google (USA), Symantec, Microsoft and TPVision (India). Others work for agencies such as Systems Concepts, weare:London, AIA Worldwide, Amaro, Wilson Fletcher  and UI Centric, in the UK, and around the world at MediaEngine (Italy), Oxx (Norway) and Thoughtworks (Johannesburg).

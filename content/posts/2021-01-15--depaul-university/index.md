@@ -13,7 +13,7 @@ cover: university-logo-min.jpeg
 
 <div id="hci"></div>
 
-# Master of Science in Human Computer Interaction [🔗](https://www.cdm.depaul.edu/academics/Pages/MS-In-Human-Computer-Interaction.aspx)
+# Master of Science in Human Computer Interaction [read more](https://www.cdm.depaul.edu/academics/Pages/MS-In-Human-Computer-Interaction.aspx)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2HpJUBNHFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Human Computer Interaction (HCI) at DePaul University
@@ -68,15 +68,15 @@ Graduate schools often require a written statement—often called a “statement
 
 ## What's special about Human Computer Interaction (HCI) at DePaul University?
 
-### Student Research [🔗](https://www.cdm.depaul.edu/academics/research/Pages/StudentResearch.aspx)
+### Student Research [read more](https://www.cdm.depaul.edu/academics/research/Pages/StudentResearch.aspx)
 Undergraduate and graduate students who are looking for hands-on experience and the opportunity to collaborate with faculty in their field of study are encouraged to pursue research and creative projects at CDM.
 
 
-### Professional Organizations [🔗](https://dehub.campusgroups.com/xdr/home/)
+### Professional Organizations [read more](https://dehub.campusgroups.com/xdr/home/)
 Many HCI students and alums contribute to professional organizations such as XD Roundtable and Chicago Interaction Design Association, both of which provide opportunities to network with HCI professionals. XD Roundtable, a student group at DePaul, promotes lifelong independent learning though frequent peer-to-peer workshops and challenges right on campus.
 
 
-### Usability Lab [🔗](https://www.cdm.depaul.edu/Student-Resources/Pages/LabsAndResources/Lab805.aspx)
+### Usability Lab [read more](https://www.cdm.depaul.edu/Student-Resources/Pages/LabsAndResources/Lab805.aspx)
 The health and safety of everyone at DePaul depends on the cooperation of all who come to campus.
 
 ### Online Learning
@@ -92,7 +92,7 @@ This degree can be completed entirely online. One hundred percent of the program
 
 ---
 
-## Faculty at Human Computer Interaction (HCI) at DePaul University [🔗](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/Faculty.aspx?ftype=soc&selectedareataught=&lastnamefilter=ALL&level=-1) 
+## Faculty at Human Computer Interaction (HCI) at DePaul University [read more](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/Faculty.aspx?ftype=soc&selectedareataught=&lastnamefilter=ALL&level=-1) 
 
 ![research_stats](research_stats.png)
 
@@ -116,7 +116,7 @@ Read [here](https://www.cdm.depaul.edu/Admission-and-Aid/Pages/TuitionandFinanci
 
 ---
 
-## Careers after Human Computer Interaction (HCI) at DePaul University [🔗](https://www.cdm.depaul.edu/academics/Pages/MS-In-Human-Computer-Interaction.aspx)
+## Careers after Human Computer Interaction (HCI) at DePaul University [read more](https://www.cdm.depaul.edu/academics/Pages/MS-In-Human-Computer-Interaction.aspx)
 A graduate degree in HCI prepares students for many different kinds of careers in user experience (UX). 
 
 ### Job Titles
@@ -154,7 +154,7 @@ Graduates have job titles including interaction designer, information architect,
 
 ---
 
-# Master of Arts in Experience Design [🔗](https://www.cdm.depaul.edu/academics/Pages/MA-In-Experience-Design.aspx)
+# Master of Arts in Experience Design [read more](https://www.cdm.depaul.edu/academics/Pages/MA-In-Experience-Design.aspx)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mGeF4Zzb5jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -207,15 +207,15 @@ describe your interest in HCI and design, and explain what specific elements of 
 
 ## What's special about MA in Experience Design at DePaul University?
 
-### Idea Realization Lab [🔗](http://irl.depaul.edu/)
+### Idea Realization Lab [read more](http://irl.depaul.edu/)
 Students have a wealth of resources available to them including research assistantships, independent studies, media and computer labs, and design facilities like the student-driven makerspace, the Idea Realization Lab.
 
-### Technology for Social Good(TSG) Lab [🔗](https://tsg.cdm.depaul.edu/)
+### Technology for Social Good(TSG) Lab [read more](https://tsg.cdm.depaul.edu/)
 TSG is focused on designing, building, and studying tools with the goal of fostering equitable education and empowerment in urban communities.
 
 
 
-### School of Design Talks [🔗](https://www.cdm.depaul.edu/academics/Creative%20Activity/Pages/Visiting-Designer-Series.aspx)
+### School of Design Talks [read more](https://www.cdm.depaul.edu/academics/Creative%20Activity/Pages/Visiting-Designer-Series.aspx)
 The School of Design Talks series invites leading designers who have created innovative responses to the personal, local, and global challenges of the 21st century. Organized by CDM’s School of Design, the series prepares students to imagine, develop, and deploy cutting-edge visual and interactive designs that positively impact individuals and communities using emerging social practices and technologies. I
 
 
@@ -231,12 +231,12 @@ The School of Design Talks series invites leading designers who have created inn
 
 ---
 
-## Faculty at MA in Experience Design at DePaul University [🔗](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/Faculty.aspx?ftype=sod&selectedareataught=&lastnamefilter=ALL&level=-1)
+## Faculty at MA in Experience Design at DePaul University [read more](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/Faculty.aspx?ftype=sod&selectedareataught=&lastnamefilter=ALL&level=-1)
 Faculty at the DePaul CDM collaborate throughout the university and beyond on their research.
 
 ---
 
-## Careers after MA in Experience Design at DePaul University [🔗](https://www.cdm.depaul.edu/academics/Pages/MA-In-Experience-Design.aspx)
+## Careers after MA in Experience Design at DePaul University [read more](https://www.cdm.depaul.edu/academics/Pages/MA-In-Experience-Design.aspx)
 Graduates will be prepared for the many varied career options available to those skilled in experience design.
 
 ### Job Titles

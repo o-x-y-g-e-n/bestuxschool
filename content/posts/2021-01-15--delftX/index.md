@@ -7,7 +7,7 @@ cover: logo.png
 category: "MOOC"
 ---
 
-# Product Design & Health[🔗](https://online-learning.tudelft.nl/programs/product-design-Health/)
+# Product Design & Health[read more](https://online-learning.tudelft.nl/programs/product-design-Health/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJrtIwNQrLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Product Design & Health (MOOC) Professional Certificate - TU Delft

@@ -6,7 +6,7 @@ cover: logo.png
 category: "US"
 ---
 
-# Master of Human Computer Interaction Design (HCI/d) [🔗](https://hcid.luddy.indiana.edu/)
+# Master of Human Computer Interaction Design (HCI/d) [read more](https://hcid.luddy.indiana.edu/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_6EY_diCPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Human Computer Interaction Design (HCID) - Indiana University
@@ -25,7 +25,7 @@ category: "US"
 
 ---
 
-## Entry Requirements for Human Computer Interaction Design (HCID) - Indiana University [🔗](https://ois.iu.edu/admissions/apply/graduate/equivalent.html)
+## Entry Requirements for Human Computer Interaction Design (HCID) - Indiana University [read more](https://ois.iu.edu/admissions/apply/graduate/equivalent.html)
 |   |   |
 |---|---|
 | GRE | 💡 (optional) |
@@ -63,14 +63,14 @@ category: "US"
 
 ## What's special about Human Computer Interaction Design (HCID) - Indiana University?
 
-### Cohort Culture [🔗](https://hcid.luddy.indiana.edu/)
+### Cohort Culture [read more](https://hcid.luddy.indiana.edu/)
 We carefully select students from various countries, backgrounds and cultures to form a multidisciplinary cohort which goes on to become a tightly knit community of designers. 
 
 
-### CULTURA [🔗](https://medium.com/iuhcid)
+### CULTURA [read more](https://medium.com/iuhcid)
 CULTURA is a place for current and past designers in the Human-Computer Interaction Design Masters program at Indiana University Bloomington to share their thoughts
 
-### Capstone Projects [🔗](https://hcid.luddy.indiana.edu/asset/files/Capstone-Book-2020.pdf)
+### Capstone Projects [read more](https://hcid.luddy.indiana.edu/asset/files/Capstone-Book-2020.pdf)
 
 
 ---
@@ -84,7 +84,7 @@ CULTURA is a place for current and past designers in the Human-Computer Interact
 
 ---
 
-## Faculty at Human Computer Interaction Design (HCID) - Indiana University [🔗](https://hcid.luddy.indiana.edu/faculty.html) 
+## Faculty at Human Computer Interaction Design (HCID) - Indiana University [read more](https://hcid.luddy.indiana.edu/faculty.html) 
 Faculty in the department of HCID at the Indiana University  collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -92,20 +92,20 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Research Areas at Human Computer Interaction Design (HCID) - Indiana University  [🔗](https://informatics.indiana.edu/research/index.html)
-* Center for complex Network and System research [🔗](https://cnets.indiana.edu/)
-* Computing Culture and Society [🔗](https://ccs.luddy.indiana.edu/)
-* Human Computer Interaction Design [🔗](https://hcid.luddy.indiana.edu/)
-* Proactive Health Lab [🔗](https://prohealth.luddy.indiana.edu/)
-* R-House [🔗](https://r-house.luddy.indiana.edu/)
-* Security & Privacy in Informatics, Computing and Engineering [🔗](https://spice.luddy.indiana.edu/)
+## Research Areas at Human Computer Interaction Design (HCID) - Indiana University  [read more](https://informatics.indiana.edu/research/index.html)
+* Center for complex Network and System research [read more](https://cnets.indiana.edu/)
+* Computing Culture and Society [read more](https://ccs.luddy.indiana.edu/)
+* Human Computer Interaction Design [read more](https://hcid.luddy.indiana.edu/)
+* Proactive Health Lab [read more](https://prohealth.luddy.indiana.edu/)
+* R-House [read more](https://r-house.luddy.indiana.edu/)
+* Security & Privacy in Informatics, Computing and Engineering [read more](https://spice.luddy.indiana.edu/)
 
 
 
 ---
 
 
-## Careers after Human Computer Interaction Design (HCID) - Indiana University [🔗](https://hcidconnect.sice.indiana.edu/)
+## Careers after Human Computer Interaction Design (HCID) - Indiana University [read more](https://hcidconnect.sice.indiana.edu/)
 
 ### Job Titles
 Our students are endowed with design thinking skills as a natural outcome of a strong cohort and critical thinking skills. As a result, they go to become design leaders, research leads, product leaders and hold high level strategy positions. 

@@ -8,7 +8,7 @@ category: "US"
 ---
 
 <div id="hcde"></div>
-# UI/UX Cohort | 10kdesigners [🔗](https://www.smu.edu/Lyle/Academics/Multidisciplinary-Programs/MADI)
+# UI/UX Cohort | 10kdesigners [read more](https://www.smu.edu/Lyle/Academics/Multidisciplinary-Programs/MADI)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-IxgGCQbsw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About  M.A in Design & Innovation - Southern Methodist University (SMU)
@@ -64,13 +64,13 @@ category: "US"
 
 
 ## What's special about M.A in Design & Innovation - Southern Methodist University (SMU)
-## Designer-in-Residence Program [🔗](https://www.smu.edu/Lyle/Academics/Multidisciplinary-Programs/MADI/Partnerships/Designer-in-Residence-Program)
+## Designer-in-Residence Program [read more](https://www.smu.edu/Lyle/Academics/Multidisciplinary-Programs/MADI/Partnerships/Designer-in-Residence-Program)
 The Designer-in-Residence program exists to enrich the MADI student experience by engaging with design professionals to bring the most up-to-date working knowledge to the curriculum. We partner with a designer that has skill sets aligned with our studio project each semester, where they come in for critique, guidance, and support. The program emphasizes direct contact with MADI students to broaden student exposure across multiple design disciplines. The Designers-in-Residence have spent approximately 2,400 hours over the last 5 years with our graduate students. We also highlight who they are and what their perspective is on design with a public event each semester.
 
-## SMU Design Council [🔗](https://www.smu.edu/Lyle/Academics/Multidisciplinary-Programs/MADI/Partnerships/SMU-Design-Council)
+## SMU Design Council [read more](https://www.smu.edu/Lyle/Academics/Multidisciplinary-Programs/MADI/Partnerships/SMU-Design-Council)
 The SMU Design Council is a forum for leaders who appreciate and acknowledge Human-Centered Design and Innovation as critical strategic elements of their future success. The Design Council along with the Master of Arts in Design and Innovation (MADI) and the Designer-in-Residence, come together to make up the Design and Innovation Programs at SMU.
 
-## MADI Events [🔗](https://blog.smu.edu/madievents/)
+## MADI Events [read more](https://blog.smu.edu/madievents/)
 Every year we work with our partners to put on timely, thought-provoking, and engaging events as a way to bring together the DFW design community.
 
 ### Orientation 
@@ -94,7 +94,7 @@ Read more [here](https://www.smu.edu/-/media/Site/_Lyle/Academics/Multidisciplin
 
 ---
 
-## Faculty at  M.A in Design & Innovation - Southern Methodist University (SMU) [🔗](https://www.smu.edu/Lyle/Academics/Multidisciplinary-Programs/MADI/People) 
+## Faculty at  M.A in Design & Innovation - Southern Methodist University (SMU) [read more](https://www.smu.edu/Lyle/Academics/Multidisciplinary-Programs/MADI/People) 
 Faculty in the department of Lyle School of Engineering at the Southern Methodist University  collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -102,7 +102,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Research Areas at M.A in Design & Innovation - Southern Methodist University (SMU) [🔗](https://catalog.smu.edu/preview_program.php?catoid=57&poid=15033)
+## Research Areas at M.A in Design & Innovation - Southern Methodist University (SMU) [read more](https://catalog.smu.edu/preview_program.php?catoid=57&poid=15033)
 * The Context and Impact of Design
 * Form and Composition
 * Human-Centered Design
@@ -118,7 +118,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Careers after  M.A in Design & Innovation - Southern Methodist University (SMU) [🔗](https://blog.smu.edu/madi/)
+## Careers after  M.A in Design & Innovation - Southern Methodist University (SMU) [read more](https://blog.smu.edu/madi/)
 We strive to be an academic program with open doors to professional practice and a space where our professional partners are fully welcome in our academic spaces. Students work on real-life projects from the beginning of the program as well as opportunities for other projects as they become available.
 
 Student positions are typically posted on the Handshake Job Board. [Read more about student jobs at SMU](https://www.smu.edu/EnrollmentServices/financialaid/TypesOfAid/StudentEmployment/WherecanIfindajob).

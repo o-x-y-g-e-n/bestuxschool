@@ -7,7 +7,7 @@ cover: logo.jpeg
 category: "MOOC"
 ---
 
-# Responsive Web Design Certification[🔗](https://www.freecodecamp.org/learn)
+# Responsive Web Design Certification[read more](https://www.freecodecamp.org/learn)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlxrMOVT7gM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

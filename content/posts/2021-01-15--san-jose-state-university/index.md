@@ -7,7 +7,7 @@ category: "US"
 cover: logo.png
 ---
 
-# Master of Human Factors / Ergonomics(HFE)[🔗](https://www.sjsu.edu/hfe/)
+# Master of Human Factors / Ergonomics(HFE)[read more](https://www.sjsu.edu/hfe/)
 ![cover](cover.jpg)
 
 ## About Master of Human Factors / Ergonomics(HFE) | San Jose
@@ -61,17 +61,17 @@ Read [here](https://www.sjsu.edu/people/glenn.callaghan/grad_school/WRITING-A-ST
 
 ## What's special about Master of Human Factors / Ergonomics(HFE) - SJSU
 
-### HFE Track Ideas [🔗](https://www.sjsu.edu/hfe/prospective-students/hfe-trackideas/)
+### HFE Track Ideas [read more](https://www.sjsu.edu/hfe/prospective-students/hfe-trackideas/)
 Students are welcome to create their own emphases within the HFE program. All HFE students must complete the core course requirements as outlined in the course requirements page of this site. 
 
 
-### HFES Chapter [🔗](https://www.hfes.org/Resources/Graduate-Programs-Directory/San-Jose-State-University)
+### HFES Chapter [read more](https://www.hfes.org/Resources/Graduate-Programs-Directory/San-Jose-State-University)
 The interdisciplinary nature of HF/E is emphasized through a broad curriculum and diverse student backgrounds. Projects provide practical experience in local (Silicon Valley) high-tech manufacturing, research, and professional workplace settings. 
 
-### VECTR Lab [🔗](https://www.sjsu.edu/hfe/about/vectrlab/index.html)
+### VECTR Lab [read more](https://www.sjsu.edu/hfe/about/vectrlab/index.html)
 The members of the Virtual Environments, Cognition, and Training Research (VECTR) Lab at SJSU work to improve individual and team performance in complex work settings. We are an applied experimental and human factors psychology laboratory focused on understanding and improving the fit between people and high-technology environments.  
 
-### Human Factors Engineering Laboratory [🔗](https://www.sjsu.edu/hfe/about/hfe-lab/index.html)
+### Human Factors Engineering Laboratory [read more](https://www.sjsu.edu/hfe/about/hfe-lab/index.html)
 A research and testing showcase laboratory for Industrial & Systems Engineering, the Human Factors Engineering Laboratory features two observation rooms separated by a shared control room, a large flexible workspace, and secure storage. This page provides a brief description of the facility. 
 
 ---
@@ -86,14 +86,14 @@ A research and testing showcase laboratory for Industrial & Systems Engineering,
 
 ---
 
-## Faculty at Master of Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/faculty/index.html) 
+## Faculty at Master of Human Factors / Ergonomics(HFE) - SJSU [read more](https://www.sjsu.edu/hfe/faculty/index.html) 
 Faculty in the department of HFE at the SJSU collaborate throughout the university and beyond on their research.
 
 Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats 
 
 ---
 
-## Study Areas for Master of Human Factors / Ergonomics(HFE) - SJSU [🔗](https://www.sjsu.edu/hfe/program/program-emphases/index.html)
+## Study Areas for Master of Human Factors / Ergonomics(HFE) - SJSU [read more](https://www.sjsu.edu/hfe/program/program-emphases/index.html)
 * Cognitive Psychology Emphasis
 * Human-Computer Interaction Emphasis
 * Ergonomics Emphasis

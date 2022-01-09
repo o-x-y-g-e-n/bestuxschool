@@ -9,7 +9,7 @@ cover: 07ff6b37e01f6fafe8d1cd45aa6a67af.jpeg
 ---
 ![](pmcfacade.jpeg)
 
-# Information Experience Design (M.S.) [🔗](https://www.pratt.edu/academics/information/degrees/information-experience-design-ms/)
+# Information Experience Design (M.S.) [read more](https://www.pratt.edu/academics/information/degrees/information-experience-design-ms/)
 
 
 ## About Information Experience Design (IXD) MS - Pratt Institute
@@ -62,14 +62,14 @@ our statement should discuss your long-range goals and interest in the chosen di
 
 ## What's special about Information Experience Design (IXD) MS - Pratt Institute?
 
-### Choose a program concentration [🔗](https://www.pratt.edu/academics/information/degrees/information-experience-design-ms/information-experience-design-program-concentrations)
+### Choose a program concentration [read more](https://www.pratt.edu/academics/information/degrees/information-experience-design-ms/information-experience-design-program-concentrations)
 Selecting a program concentration allows IXD students to focus their studies and build a cohesive set of knowledge and skills targeted to a specific career pathway within the User Experience (UX) profession. Students are encouraged to select a concentration early in their studies, but are also free to create their own customized study plan based on their career interests and academic goals.
 
 
-### Center for Digital Experiences [🔗](https://prattdx.org/)
+### Center for Digital Experiences [read more](https://prattdx.org/)
 Housed within the School of Information at Pratt Institute, the mission of the DX Center is to create better digital experiences through the application of a human-centered, ethical approach to the design and evaluation of user interfaces and interactive products.
 
-### IXD @ Pratt [🔗](http://ixd.prattsi.org/)
+### IXD @ Pratt [read more](http://ixd.prattsi.org/)
 IXD@Pratt is a collection of articles about User Experience and its related disciplines. Written and maintained by Pratt students, alumni, and faculty. 
 
 ---
@@ -82,7 +82,7 @@ IXD@Pratt is a collection of articles about User Experience and its related disc
 
 ---
 
-## Faculty at Information Experience Design (IXD) MS - Pratt Institute [🔗](https://www.pratt.edu/academics/information/si-faculty-staff/)
+## Faculty at Information Experience Design (IXD) MS - Pratt Institute [read more](https://www.pratt.edu/academics/information/si-faculty-staff/)
 Faculty in School of Infomation at Pratt Institute collaborate throughout the university.
 
 ---
@@ -99,7 +99,7 @@ These scholarships are awarded at the time of admission and are renewable for th
 
 ---
 
-## Career Outcomes at Information Experience Design (IXD) MS - Pratt Institute [🔗](https://www.pratt.edu/academics/information/degrees/information-experience-design-ms/key-statistics/)
+## Career Outcomes at Information Experience Design (IXD) MS - Pratt Institute [read more](https://www.pratt.edu/academics/information/degrees/information-experience-design-ms/key-statistics/)
 This presents key statistics for the MSIXD program at Pratt Institute School of Information. It is updated at the conclusion of each academic year, with the most recent update in July 2020.
 
 ### Internship Sites

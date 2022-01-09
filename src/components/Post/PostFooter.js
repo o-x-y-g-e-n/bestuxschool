@@ -7,6 +7,7 @@ import asyncComponent from "../common/AsyncComponent/";
 import PostAuthor from "./PostAuthor";
 import PostComments from "./PostComments";
 import ProductHuntFloat from "../ProductHuntFloat";
+import SuggestionCard from "../SuggestionCard/SuggestionCard";
 const styles = theme => ({
   footer: {
     color: theme.main.colors.footer,
@@ -27,19 +28,32 @@ const PostShare = asyncComponent(() =>
 );
 
 const PostFooter = ({ classes, author, post, slug, facebook }) => {
+  let [recommendation, setRecommendation] = React.useState([]);
+  React.useEffect(() => {
+    let posts = JSON.parse(localStorage.getItem("posts"));
+    
+    let x = Math.floor(Math.random() * posts.length - 5);
+    let numberA = [];
+    numberA.push(posts[x]);
+    console.log(posts[x]);
+    numberA.push(posts[x + 1]);
+    numberA.push(posts[x + 2]);
+    setRecommendation(numberA);
+  },[]);
   return (
     <footer className={classes.footer}>
-      <hr/>
+      <hr />
       <PostShare post={post} slug={slug} />
-      <hr/>
-      <ProductHuntFloat
+      <hr />
+      {/* <ProductHuntFloat
         options={{
           name: "Best UX School",
           url: "https://www.producthunt.com/posts/bestuxschool",
           text: "Don't be a stranger! Come like us on Product Hunt 🚀",
         }}
-      />
+      /> */}
       {/* <PostComments post={post} slug={slug} facebook={facebook} /> */}
+      {/* <SuggestionCard title={post.frontmatter.title} slug="" /> */}
     </footer>
   );
 };

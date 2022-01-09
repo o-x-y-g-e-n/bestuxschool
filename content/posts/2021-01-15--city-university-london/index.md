@@ -7,7 +7,7 @@ cover: logo.jpeg
 category: "UK"
 ---
 
-# MSc Human-Computer Interaction Design MSc [🔗](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design)
+# MSc Human-Computer Interaction Design MSc [read more](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mv_4S8C-KyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About MSc Human Computer Interaction Design - City University
@@ -26,7 +26,7 @@ category: "UK"
 ---
 
 
-## Entry Requirements for MSc Human Computer Interaction Design - City University [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
+## Entry Requirements for MSc Human Computer Interaction Design - City University [read more](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction)
 ---
 |   |   |
 |---|---|
@@ -48,7 +48,7 @@ Read [here](https://www.city.ac.uk/__data/assets/pdf_file/0005/226751/personal-s
 
 ---
 
-## Cost of attendence at MSc Human Computer Interaction Design - City University [🔗](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design#during-your-course)
+## Cost of attendence at MSc Human Computer Interaction Design - City University [read more](https://www.city.ac.uk/study/courses/postgraduate/human-computer-interaction-design#during-your-course)
 |   |   |
 |---|---|
 | UK      | **£10,200** (FT) **£5,100** (PT)          |
@@ -87,13 +87,13 @@ A series of optional, but recommended, practitioner tutorials supplement the tau
 ### Academic facilities
 You will benefit from the use of the City Interaction Lab - a combined commercial and research lab, where we have undertaken UX consultancy for prestigious companies including Virgin Atlantic. The lab is fitted with the latest technologies including: A usability testing suite, Mobile testing station, Eye-tracker, Interactive table-top, Brain interaction technology, 3D-printer and more.
 
-### The Centre for Human-Computer Interaction Design City, University of London [🔗](https://hcid.city/)
+### The Centre for Human-Computer Interaction Design City, University of London [read more](https://hcid.city/)
 
 The Centre for HCI Design is one of the longest serving Human-Computer Interaction groups in London and the UK, formed over 25 years ago. We take great pride in our outstanding research, teaching, and consultancy & business services. Our prime focus is the relationship between people and innovative technology with the aim of creating more useful and usable systems.
 
 ---
 
-## Faculty at MSc Human Computer Interaction Design - City University [🔗](https://www.city.ac.uk/people/academics?school=%22School%20of%20Mathematics%2C%20Computer%20Science%20and%20Engineering%22)
+## Faculty at MSc Human Computer Interaction Design - City University [read more](https://www.city.ac.uk/people/academics?school=%22School%20of%20Mathematics%2C%20Computer%20Science%20and%20Engineering%22)
 Our academics are regularly sought by journalists to provide advice and comment on breaking news.
 ![research_stats](research_stats.png)
 
@@ -111,7 +111,7 @@ and many [more](https://hcid.city/centre/research)
 
 ---
 
-## Careers at MSc Human Computer Interaction Design - City University  [🔗](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction) 
+## Careers at MSc Human Computer Interaction Design - City University  [read more](https://www.ucl.ac.uk/pals/study/masters/msc-human-computer-interaction) 
 *96.1% of graduates in employment or further study six months after completing the course*
 
 This course enables you to make informed decisions on how to apply your knowledge in original and creative ways. As a result, this course empowers you to succeed in a variety of User Experience (UX) roles in leading digital agencies, business consultancies, IT companies and commercial/government organisations.

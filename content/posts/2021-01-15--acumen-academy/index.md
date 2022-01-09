@@ -7,7 +7,7 @@ cover: logo.png
 category: "MOOC"
 ---
 
-# Introduction to Human-Centered Design[🔗](https://www.acumenacademy.org/course/design-kit-human-centered-design)
+# Introduction to Human-Centered Design[read more](https://www.acumenacademy.org/course/design-kit-human-centered-design)
 <iframe src="https://player.vimeo.com/video/106505300?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/106505300">What is Human-centered Design?</a> from <a href="https://vimeo.com/ideoorg">IDEO.org</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
@@ -70,7 +70,7 @@ In this hands-on course, the pioneers of human-centered design will guide you th
 ---
 
 ## Supporter
-* IDEO.org [🔗](https://www.ideo.org)
+* IDEO.org [read more](https://www.ideo.org)
 IDEO.org is a non-profit design studio. They design products and services alongside organizations that are committed to creating a more just and inclusive world. They are experts in human-centered design, a creative approach to problem solving.
 
 ---
@@ -98,7 +98,7 @@ IDEO.org is a non-profit design studio. They design products and services alongs
 
 ---
 
-# Human-Centered Design 201: Prototyping[🔗](https://www.acumenacademy.org/course/human-centered-design-prototyping)
+# Human-Centered Design 201: Prototyping[read more](https://www.acumenacademy.org/course/human-centered-design-prototyping)
 <iframe src="https://player.vimeo.com/video/140343542?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/140343542">Design Kit: Prototyping</a> from <a href="https://vimeo.com/ideoorg">IDEO.org</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
@@ -159,7 +159,7 @@ We recommend that you take Introduction to Human-Centered Design before enrollin
 ---
 
 ## Supporter
-* IDEO.org [🔗](https://www.ideo.org)
+* IDEO.org [read more](https://www.ideo.org)
 IDEO.org is a non-profit design studio. They design products and services alongside organizations that are committed to creating a more just and inclusive world. They are experts in human-centered design, a creative approach to problem solving.
 
 ---

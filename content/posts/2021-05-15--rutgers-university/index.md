@@ -7,7 +7,7 @@ cover: logo.png
 category: "US"
 ---
 
-# Master of Business & Science (MBS) with concentration in User Experience Design (UXD)  [🔗](https://mbs.rutgers.edu/program/user-experience-design-uxd)
+# Master of Business & Science (MBS) with concentration in User Experience Design (UXD)  [read more](https://mbs.rutgers.edu/program/user-experience-design-uxd)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kVOxv9v7F-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Master of Business & Science (MBS) - Rutgers University
@@ -73,31 +73,31 @@ To apply for assistantships, fellowships, and scholarships, check the appropriat
 
 ## What's special about Master of Business & Science (MBS) - Rutgers University?
 
-### Science + Business [🔗](https://mbs.rutgers.edu/future-students/why-mbs)
+### Science + Business [read more](https://mbs.rutgers.edu/future-students/why-mbs)
 The Master of Business & Science (MBS) degree is a unique degree that combines the science curriculum from a traditional science master's degree with a specialized set of business+ courses - including business, policy, and law. This combination prepares students with the necessary business acumen, entrepreneurial skills, and know how to translate scientific and technological ideas into profitable products and services.
 
 
-### Multiple Concentrations [🔗](https://mbs.rutgers.edu/future-students/concentrations)
+### Multiple Concentrations [read more](https://mbs.rutgers.edu/future-students/concentrations)
 We offer more than 25 concentrations in Life Sciences, Engineering, and Computer & Information Sciences. Some concentrations are also offered online.
 
 
-### UXD Practicum [🔗](https://mbs.rutgers.edu/uxd-practicum )
+### UXD Practicum [read more](https://mbs.rutgers.edu/uxd-practicum )
 The course covers a large project. Students complete their electronic portfolio as part of this practicum. *Insight, Research & Design, Presentation*
 
 
-### Intelligent Visual Interface Lab [🔗](https://ivi.cs.rutgers.edu/)
+### Intelligent Visual Interface Lab [read more](https://ivi.cs.rutgers.edu/)
 Our research lies at the intersection of artificial intelligence, visual computing, and human-computer interaction with a mission to develop intelligent visual interfaces for human-guided content creation.
 
 
-### HCI Lab for Health and Sustainability [🔗](https://comminfo.rutgers.edu/research/centers-labs-and-clusters/hci-lab-health-and-sustainability)
+### HCI Lab for Health and Sustainability [read more](https://comminfo.rutgers.edu/research/centers-labs-and-clusters/hci-lab-health-and-sustainability)
 HCI Lab for Health and Sustainability is an interdisciplinary research lab that studies human behaviors, creates new computing technologies, and evaluates the use of new systems in real world settings to improve the quality of everyday life.
 
-### Behavioral Informatics Lab [🔗](https://comminfo.rutgers.edu/research/centers-labs-and-clusters/behavioral-informatics-lab)
+### Behavioral Informatics Lab [read more](https://comminfo.rutgers.edu/research/centers-labs-and-clusters/behavioral-informatics-lab)
 The Behavioral Informatics Lab looks at multiple problems at the intersection of Big Data Analytics, Computational Social Science, and Multimedia Information Systems. The field of Behavioral Informatics focuses on sensing, understanding, and shaping human behavior in a data-driven manner.
 
 ---
 
-## Faculty at Master of Business & Science (MBS) - Rutgers University [🔗](https://mbs.rutgers.edu/uxd-instructors) 
+## Faculty at Master of Business & Science (MBS) - Rutgers University [read more](https://mbs.rutgers.edu/uxd-instructors) 
 Faculty in the department of MBS at the Rutgers University collaborate throughout the university and beyond on their research.
 ![research_stats](research_stats.png)
 
@@ -119,7 +119,7 @@ Visit [CSRankings](http://csrankings.org/#/index?all&us) for more stats
 
 ---
 
-## Careers after Master of Business & Science (MBS) - Rutgers University [🔗](https://www.mbs.rutgers.edu/alumni-career-stories)
+## Careers after Master of Business & Science (MBS) - Rutgers University [read more](https://www.mbs.rutgers.edu/alumni-career-stories)
 Graduates from the Rutgers University MBS find careers as designers and researchers who improve people's interactions with technology and the world around them.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HoY9bq4ORPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
