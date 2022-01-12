@@ -93,8 +93,7 @@ const HowTo = props => {
     <div className={classes.thumb} style={{backgroundImage: `url(https://i.ibb.co/XYH7NPx/pexels-virginia-magat-2131293.jpg)`}}></div>
     <article className="mediumArticle">
         <h1>A Guide To The Best UX Design Schools And How To Choose One</h1>
-        <span>Shivam Gohel</span>
-      </article>
+       </article>
     </a>
   </div>
   <div className={"item-2"}>
@@ -106,6 +105,25 @@ const HowTo = props => {
       </article>
     </a>
   </div>
+  <div className={"item-2"}>
+  <a target="_blank" href="https://shivamgohel.medium.com/safe-moderate-and-ambitious-hci-ux-program-classification-list-361c3c503c96" className={classes.card}>
+   <div className={classes.thumb} style={{backgroundImage: `url(https://i.ibb.co/MPxswM2/pexels-pixabay-159740.jpg)`}}></div>
+    <article className="mediumArticle">
+        <h1>Safe, Moderate and Ambitious HCI/UX program Classification List</h1>
+        <p className={classes.articleBody}>The blog is to help UX Aspirants decide upon the university</p>
+      </article>
+    </a>
+  </div>
+  <div className={"item-2"}>
+  <a target="_blank" href="https://shivamgohel.medium.com/courses-to-help-you-build-your-profile-for-ux-hci-graduate-programs-ef14065195cb" className={classes.card}>
+   <div className={classes.thumb} style={{backgroundImage: `url(https://i.ibb.co/YRqcthc/pexels-jess-bailey-designs-768474.jpg)`}}></div>
+    <article className="mediumArticle">
+        <h1>Courses to help you build your profile for UX/HCI Graduate Programs</h1>
+        <p className={classes.articleBody}>Take Courses and do side projects to boost your profile for Grad School.</p>
+      
+      </article>
+    </a>
+  </div>  
 </div>
     </Content>
     </Article>
