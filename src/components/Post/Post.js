@@ -5,7 +5,7 @@ import Article from "../Main/Article";
 import PostHeader from "./PostHeader";
 import Content from "../Main/Content";
 import PostFooter from "./PostFooter";
-
+import GoogleAds from "../Ads";
 const Post = props => {
   const { post, author, slug, facebook } = props;
   const frontmatter = (post || {}).frontmatter;
@@ -20,7 +20,9 @@ const Post = props => {
   return (
     <Article>
       <PostHeader title={title} subTitle={subTitle} date={date} />
+      <GoogleAds />
       <Content html={html} />
+      <GoogleAds />
       <PostFooter author={author} post={post} slug={slug} facebook={facebook} />
       
     </Article>

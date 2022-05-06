@@ -161,6 +161,12 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-6122504498304460`
+      },
+    },
+    {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `
