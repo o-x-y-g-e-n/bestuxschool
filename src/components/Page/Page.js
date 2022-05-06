@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import Article from "../Main/Article";
 import PageHeader from "./PageHeader";
 import Content from "../Main/Content";
-
+import GoogleAds from '../Ads'
 const Page = props => {
   const { page } = props;
   const html = (page || {}).html;
@@ -12,9 +12,9 @@ const Page = props => {
   return (
     <Article>
       <PageHeader {...page.frontmatter} />
-      {/* <GoogleAds slot="7323753803" layout='inArticle'></GoogleAds> */}
+      <GoogleAds />
       <Content html={html} />
-      {/* <GoogleAds slot="5978347110" layout="image"></GoogleAds> */}
+      <GoogleAds />
     </Article>
   );
 };
