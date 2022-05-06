@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import AdSense from 'react-adsense';
 
 const GoogleAds = ({ layout = "image", slot }) => {
   return (
