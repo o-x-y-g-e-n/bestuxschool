@@ -1,0 +1,220 @@
+{
+  "assetsByChunkName": {
+    "path---simon-fraser-university": [
+      "path---simon-fraser-university-c68197b98dd25751c87a.js",
+      "path---simon-fraser-university-c68197b98dd25751c87a.js.map"
+    ],
+    "path---loughborough-university": [
+      "path---loughborough-university-5cc06314a5497da8f096.js",
+      "path---loughborough-university-5cc06314a5497da8f096.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-aa9570313651ef926b5a.js",
+      "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
+    ],
+    "path---southern-methodist-university": [
+      "path---southern-methodist-university-529e00ca17c6f931b2b7.js",
+      "path---southern-methodist-university-529e00ca17c6f931b2b7.js.map"
+    ],
+    "path---alumni-questionnaire-template": [
+      "path---alumni-questionnaire-template-c2cec8fc45dad6a8ac1e.js",
+      "path---alumni-questionnaire-template-c2cec8fc45dad6a8ac1e.js.map"
+    ],
+    "path---howto": [
+      "path---howto-a0e39f21c11f6a62c5ab.js",
+      "path---howto-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----9a6639fc0877990da6f1.js",
+      "path----9a6639fc0877990da6f1.js.map"
+    ],
+    "path---university-of-maryland-baltimore-county": [
+      "path---university-of-maryland-baltimore-county-ae2cb20ad9a41d6d0ebb.js",
+      "path---university-of-maryland-baltimore-county-ae2cb20ad9a41d6d0ebb.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-adfc2898f73bfc400f8d.js",
+      "component---src-pages-contact-js-adfc2898f73bfc400f8d.js.map"
+    ],
+    "path---university-of-maryland-college-park": [
+      "path---university-of-maryland-college-park-37490bce8ff021beb665.js",
+      "path---university-of-maryland-college-park-37490bce8ff021beb665.js.map"
+    ],
+    "path---delft-x": [
+      "path---delft-x-5e884064c5af5be5783f.js",
+      "path---delft-x-5e884064c5af5be5783f.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---university-college-london": [
+      "path---university-college-london-1cef2b9504f4fbc3ce1b.js",
+      "path---university-college-london-1cef2b9504f4fbc3ce1b.js.map"
+    ],
+    "path---california-college-of-arts": [
+      "path---california-college-of-arts-afdb0b96437fde7c3186.js",
+      "path---california-college-of-arts-afdb0b96437fde7c3186.js.map"
+    ],
+    "path---depaul-university": [
+      "path---depaul-university-31e7892519704b8a4b67.js",
+      "path---depaul-university-31e7892519704b8a4b67.js.map"
+    ],
+    "path---san-jose-state-university": [
+      "path---san-jose-state-university-ef2b6d71c2c3d40a82e0.js",
+      "path---san-jose-state-university-ef2b6d71c2c3d40a82e0.js.map"
+    ],
+    "path---new-york-university": [
+      "path---new-york-university-2e2ba6401ace2a35c5dc.js",
+      "path---new-york-university-2e2ba6401ace2a35c5dc.js.map"
+    ],
+    "path---indiana-university-bloomington": [
+      "path---indiana-university-bloomington-e2073c176deed1db4240.js",
+      "path---indiana-university-bloomington-e2073c176deed1db4240.js.map"
+    ],
+    "path---pratt-institute": [
+      "path---pratt-institute-eaa1bd388a44bc7144af.js",
+      "path---pratt-institute-eaa1bd388a44bc7144af.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-3b81177614e927b7a4d2.js",
+      "component---src-layouts-index-js-3b81177614e927b7a4d2.js.map"
+    ],
+    "path---acumen-academy": [
+      "path---acumen-academy-98b747c8102d936d086a.js",
+      "path---acumen-academy-98b747c8102d936d086a.js.map"
+    ],
+    "path---10-kdesigners": [
+      "path---10-kdesigners-21af810cf2d5fc36b1e9.js",
+      "path---10-kdesigners-21af810cf2d5fc36b1e9.js.map"
+    ],
+    "path---rutgers-university": [
+      "path---rutgers-university-bb4e00b4e1fff10edde1.js",
+      "path---rutgers-university-bb4e00b4e1fff10edde1.js.map"
+    ],
+    "path---kingston-university": [
+      "path---kingston-university-fd05a5594a46fc11fbd9.js",
+      "path---kingston-university-fd05a5594a46fc11fbd9.js.map"
+    ],
+    "path---university-of-washington": [
+      "path---university-of-washington-5312fd3bc4c80737d9a2.js",
+      "path---university-of-washington-5312fd3bc4c80737d9a2.js.map"
+    ],
+    "path---stanford-university": [
+      "path---stanford-university-7fa6349b3d2d46153a5f.js",
+      "path---stanford-university-7fa6349b3d2d46153a5f.js.map"
+    ],
+    "path---georgia-tech": [
+      "path---georgia-tech-7c520d3b1ae3f22f28eb.js",
+      "path---georgia-tech-7c520d3b1ae3f22f28eb.js.map"
+    ],
+    "path---index": [
+      "path---index-206ac74de0d3aab26f03.js",
+      "path---index-206ac74de0d3aab26f03.js.map"
+    ],
+    "path---university-of-california-irvine": [
+      "path---university-of-california-irvine-c21feaddb6cd4a54c0e8.js",
+      "path---university-of-california-irvine-c21feaddb6cd4a54c0e8.js.map"
+    ],
+    "path---freecodecamp": [
+      "path---freecodecamp-644b486aac4017201041.js",
+      "path---freecodecamp-644b486aac4017201041.js.map"
+    ],
+    "path---iupui": [
+      "path---iupui-740b9dcf047f4ed4939f.js",
+      "path---iupui-740b9dcf047f4ed4939f.js.map"
+    ],
+    "path---carnegie-mellon-university": [
+      "path---carnegie-mellon-university-9a87c9a61c8e7c22ab22.js",
+      "path---carnegie-mellon-university-9a87c9a61c8e7c22ab22.js.map"
+    ],
+    "component---src-pages-howto-js": [
+      "component---src-pages-howto-js-c354baf527d987180152.js",
+      "component---src-pages-howto-js-c354baf527d987180152.js.map"
+    ],
+    "commons": [
+      "commons-d8704a83e771715806ac.js",
+      "build-js-styles.css",
+      "commons-d8704a83e771715806ac.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---success": [
+      "path---success-8b9cabb52d8957faefcc.js",
+      "path---success-8b9cabb52d8957faefcc.js.map"
+    ],
+    "path---northwestern-university": [
+      "path---northwestern-university-5aef4cb038ff72f836e8.js",
+      "path---northwestern-university-5aef4cb038ff72f836e8.js.map"
+    ],
+    "path---rhine-waal-university": [
+      "path---rhine-waal-university-3e66f8f51a4d779b99e4.js",
+      "path---rhine-waal-university-3e66f8f51a4d779b99e4.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---rochester-institute-of-technology": [
+      "path---rochester-institute-of-technology-f31db8f0da49fb52608d.js",
+      "path---rochester-institute-of-technology-f31db8f0da49fb52608d.js.map"
+    ],
+    "path---bauhaus-universitat-weimar": [
+      "path---bauhaus-universitat-weimar-80a9910a8b79d173bdbb.js",
+      "path---bauhaus-universitat-weimar-80a9910a8b79d173bdbb.js.map"
+    ],
+    "component---src-templates-post-template-js": [
+      "component---src-templates-post-template-js-4b2c711319d6181ac67c.js",
+      "component---src-templates-post-template-js-4b2c711319d6181ac67c.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-0cf1d00c5302d35668d8.js",
+      "build-js-styles.css",
+      "app-0cf1d00c5302d35668d8.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---privacy-policy": [
+      "path---privacy-policy-e9800fbf732943509bc0.js",
+      "path---privacy-policy-e9800fbf732943509bc0.js.map"
+    ],
+    "component---src-templates-page-template-js": [
+      "component---src-templates-page-template-js-e0434750f574a9276ef2.js",
+      "component---src-templates-page-template-js-e0434750f574a9276ef2.js.map"
+    ],
+    "path---thomas-jefferson-university": [
+      "path---thomas-jefferson-university-127db9509cd0101e0c28.js",
+      "path---thomas-jefferson-university-127db9509cd0101e0c28.js.map"
+    ],
+    "path---delft-university-of-technology": [
+      "path---delft-university-of-technology-a21ed957e9e9f5a2832b.js",
+      "path---delft-university-of-technology-a21ed957e9e9f5a2832b.js.map"
+    ],
+    "path---university-of-california-santa-cruz": [
+      "path---university-of-california-santa-cruz-7a1ce940a57884a9f9b9.js",
+      "path---university-of-california-santa-cruz-7a1ce940a57884a9f9b9.js.map"
+    ],
+    "path---university-of-michigan": [
+      "path---university-of-michigan-5e3a949bbea5bb0a4293.js",
+      "path---university-of-michigan-5e3a949bbea5bb0a4293.js.map"
+    ],
+    "path---university-of-california-berkeley": [
+      "path---university-of-california-berkeley-6808f2bfe15f70ffa2d7.js",
+      "path---university-of-california-berkeley-6808f2bfe15f70ffa2d7.js.map"
+    ],
+    "path---about": [
+      "path---about-9b685696c9a445449b03.js",
+      "path---about-9b685696c9a445449b03.js.map"
+    ],
+    "path---florida-institute-of-technology": [
+      "path---florida-institute-of-technology-00e7ae02fb7149aede52.js",
+      "path---florida-institute-of-technology-00e7ae02fb7149aede52.js.map"
+    ],
+    "path---city-university-london": [
+      "path---city-university-london-24f1773ff9d006913158.js",
+      "path---city-university-london-24f1773ff9d006913158.js.map"
+    ]
+  }
+}
