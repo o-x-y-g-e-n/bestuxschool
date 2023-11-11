@@ -59,7 +59,7 @@ const LayoutWrapper = props => {
           className={classes.annContent}
           style={{ background: "#f7cde0", zIndex: 10000, color: "black" }}
         >
-          <div className={classes.annText}>Assist me in improving the website. Take a brief survey <a href="https://forms.gle/VU2J16zPZXFDzvr46" target="_blank">here</a></div>
+          <div className={classes.annText}>Turn rent payments into travel points with Bilt Rewards - no fees, just <a href="https://bilt.page/r/VFEK-KIIC" target="_blank">sign up</a> and earn rewards!</div>
           <div className={classes.icon}>
             {" "}
             <a
